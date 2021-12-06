@@ -18,8 +18,10 @@ export default {
     ]
   },
 
-  env: {
-    AUTHOR_NAME: 'Mateusz Śliwowski'
+  publicRuntimeConfig: {
+    AUTHOR_NAME: process.env.AUTHOR_NAME || 'Mateusz Śliwowski'
+  },
+  privateRuntimeConfig: {
   },
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
