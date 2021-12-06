@@ -1,0 +1,4165 @@
+{
+    "sunta":{
+        "active": true,
+        "name": "Sunta",
+        "imgs":["/kapustne/B_WC/sunta.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "takii",
+        "purpose": "odmiany wczesne",
+        "type":"wczesna kapusta wiosenna",
+        "crop": "B_WC",
+        "color": "#648975",
+        "segment": "kapusta biała",
+        "intended": ["świeży rynek"],
+        "vegetation": {
+            "value": 62,
+            "unit": "dni"
+        },
+        "harvest": [5, 6],
+        "compaction": {
+            "value": "50",
+            "unit": "tys./ha"
+        },
+        "size": {
+            "value": "1-3",
+            "unit": "kg"
+        },
+        "cultivation": ["włóknina", "grunt"],
+        "description": "Wczesna odmiana do wiosennej uprawy w tunelach foliowych i pod płaskimi przykryciami. Cechuje się bardzo dobrym wyrównaniem wielkości i szybkim wypełnianiem główki, co pozwala na wczesne rozpoczęcie zbiorów. Uniwersalna odmiana odpowiednia do pakowania w skrzynki, po sześć lub osiem sztuk, która również może być przytrzymana na duże, 2-kilogramowe główki do sprzedaży luzem. Sunta jest odporna na zagniwanie spodu dzięki osadzeniu na wysokim pędzie. Wykazuje wysoką tolerancję na pękanie w zmiennych warunkach pogodowych. Ze względu na te cechy Sunta ma długie okno zbiorcze. Dodatkową zaletą tej odmiany jest słodki smak, dzięki czemu znakomicie nadaje się na sałatki."
+    },
+    "cheeta":{
+        "active": true,
+        "name": "Cheeta",
+        "imgs":["/kapustne/B_WC/cheeta.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "takii",
+        "purpose": "odmiany wczesne",
+        "type":"wczesna o dużej główce",
+        "crop": "B_WC",
+        "color": "#648975",
+        "segment": "kapusta biała",
+        "intended": ["świeży rynek", "przetwórstwo"],
+        "vegetation": {
+            "value": "70",
+            "unit": "dni"
+        },
+        "harvest": [6, 7],
+        "compaction": {
+            "value": "40-50",
+            "unit": "tys./ha"
+        },
+        "size": {
+            "value": "1,5-3",
+            "unit": "kg"
+        },
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Foc"],
+        "description": "Odmiana do wiosennej uprawy pod płaskimi okryciami i do pierwszych nasadzeń w gruncie otwartym. Cheeta wyróżnia się mocnym wigorem, dużymi, ciemnozielonymi liśćmi okrywowymi, odpornością na pękanie i dobrą zdrowotnością. Zbiory można rozpocząć przy wielkości główek ok. 1,5 kg. Cheeta zachowuje wysoką jakość i trwałość do wielkości 3-3,5 kg. Jest odmianą niezawodnie plonującą, zarówno przy chłodnej, jak i suchej, upalnej wiośnie."
+    },
+    "compass":{
+        "active": true,
+        "name": "Compass",
+        "imgs":["/kapustne/B_WC/compass.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "takii",
+        "purpose": "odmiany wczesne",
+        "type":"letnia o dużej główce",
+        "crop": "B_WC",
+        "color": "#648975",
+        "segment": "kapusta biała",
+        "intended": ["świeży rynek"],
+        "vegetation": {
+            "value": "80",
+            "unit": "dni"
+        },
+        "harvest": [6, 11],
+        "compaction": {
+            "value": "35-40",
+            "unit": "tys./ha"
+        },
+        "size": {
+            "value": "3-4",
+            "unit": "kg"
+        },
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Foc", "IR: Xcc"],
+        "description": "Odmiana kapusty białej do zbioru w okresie lata i jesieni. Compass tworzy duże główki o żywozielonym kolorze liści. Główki są wyrównane, lekko spłaszczone, znakomicie nadające się do wykorzystania w kuchni, np. na gołąbki. Odmiana ta jest łatwa w uprawie i dobrze toleruje letnie zmienne warunki, zarówno wysokie temperatury, jak i niedobory wody. Wysoka odporność na Fusarium, średnia na Xanthomonas i dobra tolerancja na wciornastki bardzo ułatwiają ochronę."
+    },
+    "predeco":{
+        "active": true,
+        "name": "Predeco",
+        "imgs":["/kapustne/B_WC/predeco.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "takii",
+        "purpose": "odmiany przeznaczone do zaopatrzenia marketów",
+        "type":"letnia",
+        "crop": "B_WC",
+        "color": "#648975",
+        "segment": "kapusta biała",
+        "intended": ["świeży rynek", "karton", "worek"],
+        "vegetation": {
+            "value": "80",
+            "unit": "dni"
+        },
+        "harvest": [6, 11],
+        "compaction": {
+            "value": "60",
+            "unit": "tys./ha"
+        },
+        "size": {
+            "value": "1,5-2,5",
+            "unit": "kg"
+        },
+        "cultivation": ["grunt"],
+        "description": "Odmiana odpowiednia do zaopatrywania sieci supermarketów przez cały sezon. Może być sadzona od wczesnej wiosny, pod włókniną, z przeznaczeniem na pierwsze dostawy kapusty o twardych główkach, aż do drugiej połowy lipca – na przechowanie. Predeco tworzy wyrównane, twarde główki o atrakcyjnym wyglądzie: jasnozielone, z połyskiem i delikatnym unerwieniem liści, bardzo dobrze prezentujące się w kartonach. Główki są twarde od wczesnej fazy, już przy masie poniżej 1 kg, a w późniejszym okresie wzrostu powiększają swoją średnicę i masę. W lecie odmiana Predeco może być zbierana już po 70 dniach w kartony 30 × 50 cm lub po 80 dniach w standardowe skrzynki 40 × 60 cm. Wielkość główek: od 1,3-1,5 kg i średnicy ok. 15 cm na początku zbiorów do maksymalnie 2,5 kg. Predeco jest odporne na pękanie i wyrośnięte może pozostawać na polu nawet przez kilka tygodni. Głąb krótki, miękki, łatwy do cięcia. Luźne osadzenie dolnych liści zapewnia prawidłową wentylację i dobrą zdrowotność także w lata z dużą ilością opadów. Główki z późnych nasadzeń, w drugiej połowie lipca, można przechowywać do kwietnia. Zalecamy wysokie zagęszczenie, do 60 tys./ha (45-50 cm × 35 cm), zapewniające wysokie plony z hektara i dochodowość produkcji. Ponadto szybkie okrycie gleby przez liście ułatwia walkę z chwastami i utrzymanie wody w glebie w okresie lata."
+    },
+    "verdeco":{
+        "active": true,
+        "name": "Verdeco",
+        "imgs":["/kapustne/B_WC/verdeco.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "takii",
+        "purpose": "odmiany przeznaczone do zaopatrzenia marketów",
+        "type":"letnia",
+        "crop": "B_WC",
+        "color": "#648975",
+        "segment": "kapusta biała",
+        "intended": ["świeży rynek", "karton", "worek"],
+        "vegetation": {
+            "value": "80-85",
+            "unit": "dni"
+        },
+        "harvest": [6, 11],
+        "compaction": {
+            "value": "40-60",
+            "unit": "tys./ha"
+        },
+        "size": {
+            "value": "1,5-2,5",
+            "unit": "kg"
+        },
+        "cultivation": ["grunt"],
+        "description": "Odmiana do letnich i jesiennych zbiorów, przeznaczona do zaopatrzenia supermarketów i na eksport. Charakteryzuje się bardzo dobrym wyrównaniem i atrakcyjnym wyglądem. Tworzy kuliste główki, o zwięzłej strukturze i intensywnym zielonym kolorze. Bardzo odporna na przebarwienia antocyjanowe. Osadzenie główki na wysokim pędzie i miękki głąb ułatwiają zbiór, a woskowane liście powodują, że odmiana ta wykazuje tolerancję na wciornastka. Odmiana Verdeco dobrze dorasta przy niższych temperaturach i może być sadzona w połowie lipca jako poplon z możliwością przechowywania."
+    },
+    "strukta":{
+        "active": true,
+        "name": "Strukta",
+        "imgs":["/kapustne/B_WC/strukta.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "takii",
+        "purpose": "świeży rynek i kiszenie",
+        "type":"uniwersalna",
+        "crop": "B_WC",
+        "color": "#648975",
+        "segment": "kapusta biała",
+        "intended": ["świeży rynek", "przetwórstwo"],
+        "vegetation": {
+            "value": "115",
+            "unit": "dni"
+        },
+        "harvest": [6, 11],
+        "compaction": {
+            "value": "25-40",
+            "unit": "tys./ha"
+        },
+        "size": {
+            "value": "5-6",
+            "unit": "kg"
+        },
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Foc"],
+        "description": "Strukta jest odmianą przeznaczoną do kiszenia i sprzedaży na świeżym rynku, w okresie od sierpnia do późnej jesieni. Dobrze radzi sobie w gorących i suchych warunkach, jak również w lata wilgotne. Strukta ma bardzo długie okno zbiorcze. Już po około 80 dniach główki są twarde i nadają się do sprzedaży na świeżym rynku. Główki mogą bardzo długo pozostawać na polu, nawet powyżej 150 dni, przyrastając na wielkość i nie tracąc jakości. Liście zewnętrzne odsłaniają podstawę główki, co ułatwia ochronę przed szkodnikami, umożliwia przesychanie i zapewnia dobrą zdrowotność spodu główek. Dodatkowo wysoki i miękki głąb ułatwia cięcie i zapewnia dużą wydajność przy zbiorach. Strukta bardzo dobrze nadaje się także do zbioru kombajnem. Mała liczba zielonych liści zapewnia szybkie obieranie do uzyskania białych główek. Krajanka jest delikatna i jednolicie biała. Wysoka zawartość suchej masy i cukrów zapewnia małe ubytki masy podczas kiszenia, a naturalna wysoka zawartość witaminy C chroni zakiszoną kapustę przed ciemnieniem i wydłuża okres przydatności do pakowania. Strukta nadaje się do krótkotrwałego przechowywania i kiszenia w okresie zimy."
+    },
+    "storka":{
+        "active": true,
+        "name": "Storka",
+        "imgs":["/kapustne/B_WC/storka.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "takii",
+        "purpose": "przechowywanie",
+        "type":"długie przechowywanie",
+        "crop": "B_WC",
+        "color": "#648975",
+        "segment": "kapusta biała",
+        "intended": ["świeży rynek", "przetwórstwo"],
+        "vegetation": {
+            "value": "120",
+            "unit": "dni"
+        },
+        "harvest": [9, 11],
+        "compaction": {
+            "value": "30-50",
+            "unit": "tys./ha"
+        },
+        "size": {
+            "value": "2-4(1,5-2 przy gęstym sadzeniu)",
+            "unit": "kg"
+        },
+        "cultivation": ["grunt"],
+        "description": "Odmiana o bardzo szerokiej możliwości wykorzystania. Najczęściej stosowana do czerwcowych nasadzeń z przeznaczeniem do przechowywania. Storka daje także bardzo dobre wyniki w letniej uprawie na sprzedaż bezpośrednio po zbiorach na świeży rynek. Odmiana wyróżnia się wysoką zawartością cukrów i jest ceniona przez konsumentów za słodki smak. Jest to również zaleta podczas zimowego kiszenia. Storka ma główki owalne, liście odporne na przebarwienia antocyjanowe. Jest bardzo łatwa do obierania, także przez nadmuch powietrza, co zapewnia wysoką wydajność przy pakowaniu. Może być sadzona przez długi okres, od połowy kwietnia, na zbiory latem, do końca czerwca, także jako poplon po wczesnych warzywach. Zależnie od przeznaczenia Storka może być sadzona w różnym zagęszczeniu. Dla uzyskania główek 3-3,5 kg zalecane jest sadzenie jej w liczbie 35-40 tys./ha. W celu produkcji główek o masie ok. 2 kg, z przeznaczeniem do zaopatrzenia sieci supermarketów, zalecane jest większe zagęszczenie – około 50 tys./ha. Odporność odmiany na pękanie i jej zdrowotność zapewnia bardzo długie okno zbiorcze, nawet do dwóch miesięcy bez przerastania na wielkość. Łatwość adaptacji do zmiennych warunków, bardzo dobra zdrowotność, długi okres nasadzeń, możliwość stosowania różnego zagęszczenia, wielokierunkowe wykorzystanie czynią ze Storki bardzo uniwersalną odmianę dla każdego producenta kapusty."
+    },
+    "tca_581":{
+        "active": true,
+        "new": true,
+        "name": "TCA 581",
+        "imgs":["/kapustne/B_WC/tca_581.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "takii",
+        "purpose": "przechowywanie",
+        "type":"długie przechowywanie",
+        "crop": "B_WC",
+        "color": "#648975",
+        "segment": "kapusta biała",
+        "intended": ["świeży rynek", "przetwórstwo"],
+        "vegetation": {
+            "value": "140",
+            "unit": "dni"
+        },
+        "harvest": [9, 11],
+        "compaction": {
+            "value": "30-40",
+            "unit": "tys./ha"
+        },
+        "size": {
+            "value": "3-5",
+            "unit": "kg"
+        },
+        "resistance": ["HR: Foc", "IR: Xcc"],
+        "description": "TCA 581 jest odmianą przeznaczoną do jesiennych zbiorów i długiego przechowywania. Silny system korzeniowy zapewnia niezawodność uprawy i dobre plony w warunkach okresowych niedoborów wody i zmienności gleby. Wyrównanie wielkości główek przekłada się na wysokie plony. Odporność na choroby i tolerancja na wciornastki pozwalają zmniejszyć nakłady na ochronę. TCA 581 może być przechowywana do końca maja. Główki zachowują atrakcyjny wygląd, żywozielony kolor i połysk po obraniu z liści zewnętrznych. Zapewnia to wysokiej jakości towar na świeży rynek, ale także bardzo dobry surowiec do wiosennego kiszenia. Optymalny termin sadzenia rozsady to pierwsza połowa czerwca. TCA 581 ma szybkie tempo wzrostu, dzięki czemu dobrze sprawdza się również w przypadku sadzenia po wczesnych ziemniakach (około 20 czerwca). Zalecane zagęszczenie w tym terminie sadzenia to 30-40 tys./ha; główki osiągają wielkość do 5 kg, zachowując przydatność do bardzo długiego przechowywania."
+    },
+    "autumn_king":{
+        "active": true,
+        "new": true,
+        "name": "Autumn King",
+        "imgs":["/kapustne/B_WC/autumn_king.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "takii",
+        "purpose": "przechowywanie",
+        "type":"szybko rosnąca",
+        "crop": "B_WC",
+        "color": "#648975",
+        "segment": "kapusta płaska",
+        "intended": ["świeży rynek", "kiszenie"],
+        "vegetation": {
+            "value": "60",
+            "unit": "dni"
+        },
+        "harvest": [5, 11],
+        "compaction": {
+            "value": "40-50",
+            "unit": "tys./ha"
+        },
+        "size": {
+            "value": "1,5-2,5",
+            "unit": "kg"
+        },
+        "cultivation": ["włóknina", "grunt"],
+        "resistance": ["HR: Foc"],
+        "description": "Szybko rosnąca odmiana kapusty płaskiej do zbiorów od wiosny do jesieni. Autumn King tworzy płaskie, jasnozielone główki o delikatnych, kruchych liściach i wysokiej tolerancji na pękanie. Dużą zaletą odmiany jest wysoka tolerancja na pieprzową plamistość liści podczas przechowywania. Odmiana do sprzedaży na świeży rynek i do wczesnego kiszenia."
+    },
+    "green_lunar":{
+        "active": true,
+        "new": true,
+        "name": "Green Lunar",
+        "imgs":["/kapustne/B_WC/green_lunar.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "takii",
+        "purpose": "przechowywanie",
+        "type":"łatwa w uprawie",
+        "crop": "B_WC",
+        "color": "#648975",
+        "segment": "kapusta płaska",
+        "intended": ["świeży rynek", "kiszenie"],
+        "vegetation": {
+            "value": "80",
+            "unit": "dni"
+        },
+        "harvest": [6, 11],
+        "compaction": {
+            "value": "40-50",
+            "unit": "tys./ha"
+        },
+        "size": {
+            "value": "2-2,5",
+            "unit": "kg"
+        },
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Foc", "IR: Xcc"],
+        "description": "Odmiana łatwa w uprawie, na zbiory letnie i jesienne, o wyrównanych główkach. Wolna od przebarwień antocyjanowych przy niskich temperaturach. Odmiana ta jest odporna na pękanie, dzięki czemu może być zbierana przez długi czas."
+    },
+    "green_stellar":{
+        "active": true,
+        "new": true,
+        "name": "Green Stellar",
+        "imgs":["/kapustne/B_WC/green_stellar.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "takii",
+        "purpose": "świeży rynek",
+        "type":"uprawy w dużym zagęszczeniu",
+        "crop": "B_WC",
+        "color": "#648975",
+        "segment": "kapusta płaska",
+        "intended": ["świeży rynek"],
+        "vegetation": {
+            "value": "85",
+            "unit": "dni"
+        },
+        "harvest": [6, 11],
+        "compaction": {
+            "value": "40-50",
+            "unit": "tys./ha"
+        },
+        "size": {
+            "value": "1-1,5",
+            "unit": "kg"
+        },
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Foc", "IR: Xcc"],
+        "description": "Nowa odmiana płaskiej kapusty, zalecana do uprawy w dużym zagęszczeniu. Główki wyrównane, dobrze wypełnione również przy dużym zagęszczeniu. Odmiana na jesienne zbiory, bardzo przydatna do przechowywania."
+    },
+    "convoy":{
+        "active": true,
+        "name": "Convoy",
+        "imgs":["/kapustne/B_SC/convoy.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "takii",
+        "purpose": "gwarantująca wysoki plon",
+        "type":"uniwersalna",
+        "crop": "B_SC",
+        "color": "#648975",
+        "segment": "kapusta włoska",
+        "intended": ["świeży rynek"],
+        "vegetation": {
+            "value": "80",
+            "unit": "dni"
+        },
+        "harvest": [6, 11],
+        "compaction": {
+            "value": "40-50",
+            "unit": "tys./ha"
+        },
+        "size": {
+            "value": "2",
+            "unit": "kg"
+        },
+        "cultivation": ["włóknina", "grunt"],
+        "description": "Kapusta włoska do uprawy przez cały okres wegetacji, od wczesnych nasadzeń pod płaskie okrycia do nasadzeń poplonowych w lipcu. Odmiana łatwo adaptująca się do zmiennych warunków uprawowych, gwarantująca wysoki plon. Główki średniej wielkości, ok. 2 kg, liście intensywnie zielone, ze średniej wielkości pęcherzykami."
+    },
+    "sonho":{
+        "active": true,
+        "name": "Sonho",
+        "imgs":["/kapustne/B_SC/sonho.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "takii",
+        "purpose": "do zaopatrywania supermarketów i na eksport",
+        "type":"kompaktowa",
+        "crop": "B_SC",
+        "color": "#648975",
+        "segment": "kapusta włoska",
+        "intended": ["świeży rynek"],
+        "vegetation": {
+            "value": "85",
+            "unit": "dni"
+        },
+        "harvest": [6, 11],
+        "compaction": {
+            "value": "40-50",
+            "unit": "tys./ha"
+        },
+        "size": {
+            "value": "1,5",
+            "unit": "kg"
+        },
+        "cultivation": ["włóknina", "grunt"],
+        "resistance": ["HR: Foc"],
+        "description": "Odmiana do nasadzeń przez cały sezon uprawy. Główki kompaktowe, zwięzłe, szczególnie nadające się  do pakowania w skrzynki do zaopatrywania supermarketów i na eksport. Wyrównanie wielkości i ciemny kolor zapewniają bardzo atrakcyjny wygląd w skrzynkach."
+    },
+    "deuce":{
+        "active": true,
+        "name": "Deuce",
+        "imgs":["/kapustne/B_SC/deuce.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "takii",
+        "purpose": "do zaopatrywania supermarketów i na eksport",
+        "type":"uniwersalna",
+        "crop": "B_SC",
+        "color": "#648975",
+        "segment": "kapusta włoska",
+        "intended": ["świeży rynek"],
+        "vegetation": {
+            "value": "100",
+            "unit": "dni"
+        },
+        "harvest": [9, 11],
+        "compaction": {
+            "value": "40",
+            "unit": "tys./ha"
+        },
+        "size": {
+            "value": "2",
+            "unit": "kg"
+        },
+        "cultivation": ["grunt"],
+        "description": "Odmiana kapusty włoskiej do zbioru późnym latem i jesienią. Główki bardzo wyrównane, zwięzłe, dobrze nadają się do pakowania w skrzynki, jak i do sprzedaży luzem. Średnia masa główek to ok. 2 kg. Liście zewnętrzne ciemnozielone, szerokie. Odmiana wyróżnia się znakomitym smakiem i wysoką zdrowotnością."
+    },
+    "preduro":{
+        "active": true,
+        "name": "Preduro",
+        "imgs":["/kapustne/B_CC/preduro.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "takii",
+        "purpose": "do nasadzeń pod osłonami",
+        "type":"bardzo wysoka odporność na wybijanie w pędy kwiatostanowe",
+        "crop": "B_CC",
+        "color": "#648975",
+        "segment": "kapusta pekińska",
+        "intended": ["świeży rynek"],
+        "headShape": "cylindryczny",
+        "vegetation": {
+            "value": "55",
+            "unit": "dni"
+        },
+        "harvest": [4, 7],
+        "compaction": {
+            "value": "65",
+            "unit": "tys./ha"
+        },
+        "size": {
+            "value": "1-1,5",
+            "unit": "kg"
+        },
+        "cultivation": ["grunt"],
+        "resistance": ["HR: kiła kapustnych ", "PB: rasy 0,1,3"],
+        "description": "Preduro jest odmianą wyróżniającą się bardzo wysoką odpornością na wybijanie w pędy kwiatostanowe. Dzięki temu niezawodnie plonuje w nasadzeniach wiosennych, również w lata z zimną wiosną. Szczególnie polecamy tę odmianę do nasadzeń pod osłonami. Preduro bardzo dobrze sprawuje się także w uprawie w gruncie otwartym na zbiory w czerwcu i lipcu. Może być zbierana w pełni wyrośnięta dla uzyskania wysokiego plonu. Preduro jest odmianą szybko rosnącą, przez co prędko osiąga handlową wagę. Charakteryzuje się ciemnozielonym kolorem liści i atrakcyjnym, handlowym wyglądem. Cylindryczny kształt główek sprawia, że łatwo i szybko się ją pakuje, ponadto taki kształt jest pożądany przez konsumentów. Odmiana Preduro sprawdza się także w letniej uprawie pod siatką, bez stosowania insektycydów."
+    },
+    "orient_suprise":{
+        "active": true,
+        "name": "Orient Suprise",
+        "imgs":["/kapustne/B_CC/orient_suprise.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "takii",
+        "purpose": "duża masa główek",
+        "type":"wysok odporność na wybijanie w pędy kwiatostanowe",
+        "crop": "B_CC",
+        "color": "#648975",
+        "segment": "kapusta pekińska",
+        "intended": ["świeży rynek", "przetwórstwo"],
+        "headShape": "półcylindryczny",
+        "vegetation": {
+            "value": "60",
+            "unit": "dni"
+        },
+        "harvest": [5, 11],
+        "compaction": {
+            "value": "65",
+            "unit": "tys./ha"
+        },
+        "size": {
+            "value": "1-2",
+            "unit": "kg"
+        },
+        "cultivation": ["grunt"],
+        "resistance": ["HR: kiła kapustnych ", "PB: rasy 0,1,3"],
+        "description": "Bardzo wyrównana odmiana z atrakcyjnym żółtozielonym kolorem wnętrza główki. Odporna na wybijanie w pędy kwiatowe, również przy zimnej wiośnie. Orient Surprise bardzo dobrze nadaje się zarówno do wczesnych nasadzeń pod osłonami, jak i do późniejszej produkcji w gruncie otwartym. Odmiana ta szybko się wypełnia, dając łatwe w zbiorze główki o kształcie i wadze idealnych dla potrzeb świeżego rynku. Szczególnie polecana producentom, którym zależy na dużej masie główek. Orient Surprise ma silny system korzeniowy i nie jest podatna na tipburn – czyli zamieranie wnętrza główki na skutek problemów z transportem wapnia w roślinie."
+    },
+    "orient_express":{
+        "active": true,
+        "name": "Orient Express",
+        "imgs":["/kapustne/B_CC/orient_express.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "takii",
+        "purpose": "wysokie plony z hektara",
+        "type":"dobra zdrowotność na polu",
+        "crop": "B_CC",
+        "color": "#648975",
+        "segment": "kapusta pekińska",
+        "intended": ["świeży rynek", "krókie przechowywanie"],
+        "headShape": "baryłkowaty",
+        "vegetation": {
+            "value": "65",
+            "unit": "dni"
+        },
+        "harvest": [8, 11],
+        "compaction": {
+            "value": "65",
+            "unit": "tys./ha"
+        },
+        "size": {
+            "value": "1,5-2",
+            "unit": "kg"
+        },
+        "cultivation": ["grunt"],
+        "resistance": ["HR: kiła kapustnych ", "PB: rasy 0,1,3"],
+        "description": "Orient Express jest odmianą przeznaczoną na zbiory letnie i jesienne. Wyróżnia się dobrą zdrowotnością na polu i bardzo dobrym wyrównaniem wielkości. Dzięki temu oraz ze względu na dużą masę główek zapewnia uzyskiwanie wysokich plonów z hektara. Odmiana o bardzo dobrej tolerancji na zaburzenia fizjologiczne: tipburn i pieprzową plamistość. Orient Express może być wykorzystany do średnio długiego przechowywania."
+    },
+    "enduro":{
+        "active": true,
+        "name": "Enduro",
+        "imgs":["/kapustne/B_CC/enduro.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "takii",
+        "purpose": "wysokie plony z hektara",
+        "type":"brak przerastania główek na wysokość",
+        "crop": "B_CC",
+        "color": "#648975",
+        "segment": "kapusta pekińska",
+        "intended": ["świeży rynek", "przechowywanie"],
+        "headShape": "cylindryczny",
+        "vegetation": {
+            "value": "65",
+            "unit": "dni"
+        },
+        "harvest": [6, 11],
+        "compaction": {
+            "value": "65",
+            "unit": "tys./ha"
+        },
+        "size": {
+            "value": "1-1,5",
+            "unit": "kg"
+        },
+        "cultivation": ["grunt"],
+        "resistance": ["HR: kiła kapustnych ", "PB: rasy 0,1,3"],
+        "description": "Enduro jest odmianą przeznaczoną na sprzedaż bezpośrednio po zbiorze w drugiej połowie lata i jesienią oraz do długiego przechowywania. Cylindryczny kształt, wyrównanie wielkości, brak przerastania główek na wysokość zapewniają wysoką jakość handlową przy letniej uprawie pod siatką nawet najbardziej wymagającym. Z nasadzeń w pierwszej połowie sierpnia uzyskuje się wysokie plony dobrze wypełnionych, cylindrycznych główek, które doskonale nadają się do długiego przechowywania. Główki są łatwe do czyszczenia po okresie przechowywania i po przygotowaniu do sprzedaży zachowują świeży, zielony kolor. Jeśli kapusta ta ma być długo przechowywana, zalecamy, aby nie była zbierana przejrzała. Odmiana cechuje się silnym systemem korzeniowym i dobrym pobieraniem wody z gleby, co przekłada się na stabilne plonowanie i zdrowotność produkcji."
+    },
+    "xenia":{
+        "active": true,
+        "name": "Xenia",
+        "imgs":["/kapustne/B_CF/xenia.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "B_CF",
+        "color": "#436636",
+        "segment": "kalafior",
+        "intended": ["świeży rynek"],
+        "vegetation": {
+            "value": "65",
+            "unit": "dni"
+        },
+        "harvest": [5, 6],
+        "cultivation": ["włóknina", "tunel"],
+        "description": "Niezawodna odmiana do najwcześniejszych nasadzeń w tunelach foliowych i pod płaskimi okryciami. Utrzymuje bardzo dobre tempo wzrostu przy chłodnej wiośnie, zarówno w tunelach, jak i pod włókniną. Rośliny cechują się dobrym wigorem i wzniesionym pokrojem liści z szeroką podstawą. Róże są dobrze okryte, białe, zwarte. Bardzo dobre wyrównanie roślin sprawia, że okres zbioru jest krótki."
+    },
+    "elintos":{
+        "active": true,
+        "name": "Elintos",
+        "imgs":["/kapustne/B_CF/elintos.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "B_CF",
+        "color": "#436636",
+        "segment": "kalafior",
+        "intended": ["świeży rynek"],
+        "vegetation": {
+            "value": "68",
+            "unit": "dni"
+        },
+        "harvest": [6],
+        "cultivation": ["włóknina"],
+        "description": "Odmiana przeznaczona do wiosennej uprawy pod płaskimi okryciami. Rośliny z mocnym wigorem, bez tzw. pośpiechów. Szerokie blaszki liściowe bardzo dobrze osłaniają róże zarówno od góry, jak i od spodu, chroniąc przed dostępem światła i zabrudzeniami. Róże bardzo dobrze okryte, utrzymują biały kolor, nie różowieją. Dzięki zwartej budowie i dużej masie róże są bardzo łatwe do pakowania w skrzynki."
+    },
+    "chione":{
+        "active": true,
+        "name": "Chione",
+        "imgs":["/kapustne/B_CF/chione.jpg"],
+        "new": true,
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "B_CF",
+        "color": "#436636",
+        "segment": "kalafior",
+        "intended": ["świeży rynek", "przemysł"],
+        "vegetation": {
+            "value": "75-90",
+            "unit": "dni"
+        },
+        "harvest": [6, 10],
+        "cultivation": ["grunt", "włóknina"],
+        "description": "Najnowsza, uniwersalna odmiana do nasadzeń przez cały sezon, począwszy od sadzenia pod włókniną w marcu do końca czerwca i zbioru od pierwszej połowy czerwca do końca października. Liście wzniesione, szerokie, ciemnozielone, wyróżniające się dobrą zdrowotnością. Mocny system korzeniowy pozwala na utrzymanie dobrego wigoru roślin także w trudnych warunkach uprawowych. Liście wewnętrzne dobrze okrywają różę od góry, a szerokie blaszki liściowe chronią spód róży przed zabrudzeniem. Odmiana o wysokiej odporności na jamistość głąba. Róże wyróżniają się wysoką jakością: są zwarte, ciężkie, a także osiągają duże rozmiary. Odmiana Chione przeznaczona jest do zbiorów głównie na świeży rynek. Duża masa ułatwia pakowanie w skrzynki. Dzięki wysokiej jakości, wydajności i drobnej różyczce odmiana z powodzeniem może być wykorzystywana na potrzeby przemysłu przetwórczego. Silny wigor i tolerancja na stres umożliwiają uprawę także w trudnych warunkach, takich jak wysokie temperatury czy niedobory wody. Dzięki tolerancji na wysokie temperatury Chione zapewnia uzyskanie wysokiej jakości róż w okresie największego nasłonecznienia.",
+        "recomendation": {
+            "company": "florimex",
+            "autor": "Hubert Paluch",
+            "content": "Województwo lubelskie przez lata było zagłębiem produkcyjnym warzyw dla przemysłu, w tym kalafiorów. W ostatnich latach widoczny jest spadek zainteresowania uprawą warzyw wymagających dużego nakładu pracy ręcznej. Rośnie zainteresowanie gatunkami, których uprawę można całkowicie zmechanizować, a w przypadku kalafiorów widoczny jest wzrost produkcji na świeży rynek kosztem zaopatrzenia przemysłu. Wiąże się z tym zmiana w asortymencie odmian. Chione jest odmianą szybko zdobywającą rynek, cenioną za stabilność w różnych warunkach. Chione sprawdziło się zarówno przy nasadzeniach wiosennych i zbiorach w pełni lata, jak też w późniejszych terminach nasadzeń na zbiory jesienne. Istotne jest utrzymanie wigoru roślin i jakości róż w stresowych warunkach, w wysokich temperaturach i przy ograniczonych możliwościach nawadniania."
+        }
+    },
+    "crossway":{
+        "active": true,
+        "name": "Crossway",
+        "imgs":["/kapustne/B_CF/crossway.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "B_CF",
+        "color": "#436636",
+        "segment": "kalafior",
+        "intended": ["świeży rynek", "przemysł"],
+        "vegetation": {
+            "value": "75-85",
+            "unit": "dni"
+        },
+        "harvest": [6, 10],
+        "cultivation": ["grunt"],
+        "description": "Odmiana do zbioru na świeży rynek. Może być sadzona od połowy marca pod płaskimi okryciami lub od początku kwietnia do końca czerwca w gruncie otwartym. Crossway tworzy szerokie, długie liście, które dobrze okrywają róże. Szerokie blaszki liści zaczynają się od samej podstawy, chroniąc spód róży przed zabrudzeniem i dostępem światła. Róże są białe, wypukłe, twarde, zwięzłe. Odmiana sprawdza się zarówno w sprzedaży luzem, jak i w pakowaniu do skrzynek. Crossway dobrze toleruje stresowe warunki uprawy i choroby grzybowe."
+    },
+    "bielic":{
+        "active": true,
+        "name":"Bielic",
+        "imgs":["/kapustne/B_CF/bielic.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "B_CF",
+        "color": "#436636",
+        "segment": "kalafior",
+        "intended": ["świeży rynek", "przemysł"],
+        "vegetation": {
+            "value": "75-90",
+            "unit": "dni"
+        },
+        "harvest": [6, 11],
+        "cultivation": ["grunt"],
+        "description": "Bardzo uniwersalna odmiana pod względem zastosowania i terminów sadzenia. W warunkach polowych wyróżnia się tolerancją na zmienne warunki pogodowe i dobrą zdrowotnością. Liście zewnętrzne są średniej długości, wewnętrzne – mocno skręcone, bardzo dobrze osłaniające róże. Spód płaski, szeroki, całkowicie okryty. Róże białe, ciężkie, zwarte, łatwe do układania w skrzynkach, ale również odpowiednie do sprzedaży bezpośrednio z samochodu. Bielic może być sadzony od wiosny, pod włókniną, a także w późniejszych terminach, tj. do pierwszego tygodnia lipca."
+    },
+    "timpano":{
+        "active": true,
+        "name": "Timpano",
+        "imgs":["/kapustne/B_KR/timpano.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "takii",
+        "crop": "B_KR",
+        "color": "#467F31",
+        "segment": "kalarepa",
+        "intended": ["świeży rynek"],
+        "vegetation": {
+            "value": "55",
+            "unit": "dni"
+        },
+        "compaction": {
+            "value": "150",
+            "unit": "tys./ha"
+        },
+        "spacing": "20 x 30 cm",
+        "planting": [2, 3],
+        "harvest": [4, 6],
+        "cultivation": ["grunt"],
+        "description": "Najwcześniej dojrzewająca odmiana kalarepy do wiosennej uprawy w tunelach foliowych i w gruncie. Bardzo wysoka tolerancja na wybijanie w pędy kwiatostanowe. Wytwarza atrakcyjne, duże, spłaszczone, jasnozielone zgrubienia o gładkiej skórce. Liście żywozielone, wzniesione."
+    },
+    "avaya":{
+        "active": true,
+        "name": "Avaya",
+        "imgs":["/kapustne/B_KR/avaya.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "B_KR",
+        "color": "#467F31",
+        "segment": "kalarepa",
+        "intended": ["świeży rynek"],
+        "vegetation": {
+            "value": "60",
+            "unit": "dni"
+        },
+        "compaction": {
+            "value": "60-80",
+            "unit": "tys./ha"
+        },
+        "spacing": "20 x 30 cm",
+        "planting": [3, 7],
+        "harvest": [5, 9],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Foc"],
+        "description": "Mieszaniec kalarepy do uprawy w gruncie otwartym przez cały okres wegetacji. Avaya bardzo dobrze toleruje wysokie temperatury latem i stresowe warunki. Jest łatwa do zbioru, liście ma średniej długości, wzniesione. Odmiana wykazuje tolerancję na mączniaka rzekomego."
+    },
+    "solares":{
+        "active": true,
+        "name": "Solares",
+        "imgs":["/kapustne/B_KR/solares.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "B_KR",
+        "color": "#467F31",
+        "segment": "kalarepa",
+        "intended": ["świeży rynek"],
+        "vegetation": {
+            "value": "60",
+            "unit": "dni"
+        },
+        "compaction": {
+            "value": "60-80",
+            "unit": "tys./ha"
+        },
+        "spacing": "20 x 30 cm",
+        "planting": [4, 8],
+        "harvest": [6, 10],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Foc"],
+        "description": "Odmiana do uprawy w gruncie otwartym, w okresie lata i jesieni. Liście długie, wzniesione, zgrubienia okrągłe, spłaszczone, łatwe do zbioru i pakowania w kartony. Wysoka tolerancja na mączniaka rzekomego. Odmiana dobrze radzi sobie w warunkach wysokich, letnich temperaturatur, co zapewnia niezawodność w uprawie. Długi okres przydatności do zbioru."
+    },
+    "escala":{
+        "active": true,
+        "name": "Escala",
+        "imgs":["/rzodkiewki/escala.jpg"],
+        "guardian": "Jacek Malinowski",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "RD",
+        "color": "#467F31",
+        "segment": "rzodkiewka",
+        "intended": ["świeży rynek", "pęczki"],
+        "compaction": {
+            "value": "2,2",
+            "unit": "mln nasion/ha"
+        },
+        "planting": [2, 9],
+        "type": "okrągła czerwona",
+        "cultivation": ["grunt", "włóknina", "tunel"],
+        "resistance": ["?"],
+        "description": "Dobrze znana producentom odmiana do uprawy w gruncie otwartym od wiosny do jesieni oraz do uprawy tunelowej na początku sezonu. Okrągłe i błyszczące czerwone zgrubienia wyróżniają się doskonałą jednorodnością i bardzo dobrą jakością wewnętrzną, a także są odporne na pękanie. Mocne ciemnozielone liście umożliwiają zbiór ręczny, jak również mechaniczny. Escala wykazuje także odporność na mączniaka rzekomego wywoływanego przez grzyb Hyaloperonospora  parasitica."
+    },
+    "celesta":{
+        "active": true,
+        "name": "Celesta",
+        "imgs":["/rzodkiewki/celesta.jpg"],
+        "guardian": "Jacek Malinowski",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "RD",
+        "color": "#467F31",
+        "segment": "rzodkiewka",
+        "intended": ["świeży rynek", "pęczki"],
+        "compaction": {
+            "value": "2,2",
+            "unit": "mln nasion/ha"
+        },
+        "planting": [2, 9],
+        "type": "okrągła czerwona",
+        "cultivation": ["grunt", "tunel" ,"włóknina"],
+        "resistance": ["?"],
+        "description": "Celesta wytwarza ładne, czerwone, okrągłe i jednorodne zgrubienia o doskonałej jakości. Ma zwarte, mocne i sztywno stojące liście, co ułatwia zbiór. Celesta jest uniwersalna i polecana zarówno do produkcji polowej, jak i tunelowej. Odmiana ta jest liderem na rynku światowym i w Polsce. Charakteryzuje się wysoką tolerancją na mączniaka rzekomego i bardzo dobrze znosi uprawę w monokulturze (odporność na czernienie zgrubień)."
+    },
+    "vienna":{
+        "active": true,
+        "name": "Vienna",
+        "imgs":["/rzodkiewki/vienna.jpg"],
+        "guardian": "Jacek Malinowski",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "RD",
+        "color": "#467F31",
+        "segment": "rzodkiewka",
+        "intended": ["świeży rynek", "przemysł", "pęczki"],
+        "compaction": {
+            "value": "2,2",
+            "unit": "mln nasion/ha"
+        },
+        "planting": [2, 9],
+        "type": "okrągła czerwona",
+        "cultivation": ["grunt"],
+        "resistance": ["?"],
+        "description": "Odmiana o dużych zgrubieniach, wielkości nawet piłki golfowej, z chrupiącym białym miąższem, który pozostaje jędrny i soczysty. Vienna poza wielkością wyróżnia się także słodkim smakiem. Polecana do sprzedaży na świeży rynek giełdowy i marketowy w pęczku oraz bez liścia do szkół i restauracji. Szczególnie polecana do krojenia na kanapki i dodawania do pysznych letnich sałatek. Do uprawy w tunelach oraz w gruncie otwartym."
+    },
+    "e66r.3025":{
+        "active": true,
+        "new": true,
+        "name": "e66r.3025",
+        "imgs":["/rzodkiewki/e66r.3025.jpg"],
+        "guardian": "Jacek Malinowski",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "RD",
+        "color": "#467F31",
+        "segment": "rzodkiewka",
+        "intended": ["świeży rynek", "pęczki"],
+        "compaction": {
+            "value": "2,2",
+            "unit": "mln nasion/ha"
+        },
+        "planting": [4, 8],
+        "type": "okrągła czerwona",
+        "cultivation": ["tunel"],
+        "resistance": ["?"],
+        "description": "Nowa odmiana przeznaczona do uprawy w tunelu i szklarni od wczesnej wiosny do jesieni. Lśniący czerwony kolor zgrubień i bardzo dobre ich wyrównanie sprawiają, że przygotowane do handlu pęczki wyglądają bardzo atrakcyjnie. Średnio długi liść nawet latem i zielone liścienie są dodatkowym autem przy sprzedaży. Dodatkowo cechą wyróżniającą tę odmianę jest jej wczesność, pozwalająca na szybsze rozpoczęcie zbiorów."
+    },
+    "e66r.3009":{
+        "active": true,
+        "new": true,
+        "name": "e66r.3009",
+        "imgs":["/rzodkiewki/e66r.3009.jpg"],
+        "guardian": "Jacek Malinowski",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "RD",
+        "color": "#467F31",
+        "segment": "rzodkiewka",
+        "intended": ["świeży rynek", "pęczki"],
+        "compaction": {
+            "value": "2,2",
+            "unit": "mln nasion/ha"
+        },
+        "planting": [4, 8],
+        "type": "okrągła czerwona",
+        "cultivation": ["grunt", "włóknina"],
+        "resistance": ["?"],
+        "description": "Nowa odmiana przeznaczona do uprawy w tunelu i szklarni od wczesnej wiosny do jesieni. Lśniący czerwony kolor zgrubień i bardzo dobre ich wyrównanie sprawiają, że przygotowane do handlu pęczki wyglądają bardzo atrakcyjnie. Średnio długi liść nawet latem i zielone liścienie są dodatkowym autem przy sprzedaży. Dodatkowo cechą wyróżniającą tę odmianę jest jej wczesność, pozwalająca na szybsze rozpoczęcie zbiorów."
+    },
+    "pearl":{
+        "active": true,
+        "name": "Pearl",
+        "imgs":["/rzodkiewki/pearl.jpg"],
+        "guardian": "Jacek Malinowski",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "RD",
+        "color": "#467F31",
+        "segment": "rzodkiewka",
+        "intended": ["świeży rynek", "pęczki", "przemysł"],
+        "compaction": {
+            "value": "2,2",
+            "unit": "mln nasion/ha"
+        },
+        "planting": [3, 9],
+        "type": "okrągła biała",
+        "cultivation": ["grunt", "włóknina"],
+        "description": "Biała, gładka, okrągła rzodkiewka do uprawy polowej. Charakteryzuje się bardzo silnym wzrostem i dobrą odpornością na pękanie. Jest często przygotowywana do sprzedaży w torebkach lub pęczku w połączeniu z tradycyjnymi czerwonymi odmianami."
+    },
+    "april_cross":{
+        "active": true,
+        "name": "April Cross",
+        "imgs":["/rzodkiew/april_cross.jpg"],
+        "guardian": "Jacek Malinowski",
+        "hybrid": true,
+        "provider": "takii",
+        "crop": "DK",
+        "color": "#467F31",
+        "type":"wysok odporność na wybijanie w pędy",
+        "segment": "rzodkiew japońska daikon",
+        "intended": ["świeży rynek", "surówki", "przechowywanie"],
+        "root":{
+            "length": "40 cm",
+            "fi": "6 cm",
+            "color": "biały"
+        },
+        "size":{
+            "value": 800,
+            "unit": "g"
+        },
+        "vegetation": {
+            "value": "60",
+            "unit": "dni"
+        },
+        "tolerance": {
+            "heat": "średnia",
+            "cold": "średnia"
+        },
+        "harvest": [7, 9],
+        "cultivation": ["grunt", "włóknina"],
+        "description": "April Cross to wczesna mieszańcowa rzodkiew japońska typu daikon o białym i gładkim korzeniu. Odmiana charakteryzuje się bardzo wysoką tolerancją na wybijanie w pędy kwiatowe. W prawidłowych warunkach glebowych i przy odpowiedniej pielęgnacji korzenie osiągają 40 cm długości i 6 cm średnicy oraz wagę do 800 g. Korzenie mają chrupiącą konsystencję, łagodny smak i subtelny aromat. Odmiana idealna do sałatek, surówek, gotowania i marynowania. April Cross jest doskonałą rzodkwią do przechowywania, zachowuje swój kolor i konsystencję przez kilka miesięcy podczas przechowywania w temperaturze 0-1°C, przy wilgotności względnej powietrza na poziomie 90-95%. April Cross dojrzewa po 60 dniach od siewu, a zbiory można rozpocząć wcześniej, gdy korzenie osiągną już 20 cm długości. Polecana na zbiory późną wiosną do wczesnego lata i późnej jesieni. Zagęszczenie na hektar: 100 000 nasion."
+    },
+    "minowase_summer_cross":{
+        "active": true,
+        "name": "Minowase Summer Cross",
+        "imgs":["/rzodkiew/minowase_summer_cross.jpg"],
+        "guardian": "Jacek Malinowski",
+        "hybrid": true,
+        "provider": "takii",
+        "crop": "DK",
+        "color": "#467F31",
+        "type":"średnia odporność na wybijanie w pędy",
+        "segment": "rzodkiew japońska daikon",
+        "intended": ["świeży rynek", "surówki", "przechowywanie"],
+        "root":{
+            "length": "40-45 cm",
+            "fi": "6,5 cm",
+            "color": "biały"
+        },
+        "size":{
+            "value": 800,
+            "unit": "g"
+        },
+        "vegetation": {
+            "value": "50",
+            "unit": "dni"
+        },
+        "tolerance": {
+            "heat": "średnia",
+            "cold": "wysoka"
+        },
+        "planting": [7, 8],
+        "harvest": [8, 10],
+        "resistance": ["HR: For"],
+        "cultivation": ["grunt"],
+        "description": "Minowase Summer Cross Nr 3 to rzodkiew mieszańcowa bardzo dobrze plonująca latem dzięki odporności na wybijanie w pędy kwiatowe. Charakteryzuje się silnym wigorem i dużym wyrównaniem. Przy zagęszczeniu 100 000 nasion na hektar osiąga długość 45 cm i średnicę do 6,5 cm. Gładki, biały i z zaokrąglonym czubkiem korzeń, dodatkowo okryty cienką i gładką skórą, prezentuje się bardzo atrakcyjnie w sprzedaży. Miąższ charakteryzuje się średnio ostrym smakiem i nie wykazuje tendencji do parcenia i pękania. Minowase Summer Cross Nr 3 doskonale nadaje się na zbiory latem i jesienią i może mieć różnorodne zastosowanie: do bezpośredniego spożycia, na świeży rynek, do surówek i sałatek, do gotowania oraz marynowania."
+    },
+    "natsu_komachi":{
+        "active": true,
+        "name": "Natsu Komachi",
+        "imgs":["/rzepa/natsu_komachi.jpg"],
+        "guardian": "Jacek Malinowski",
+        "hybrid": true,
+        "provider": "takii",
+        "crop": "DK",
+        "color": "#467F31",
+        "type":"japoński",
+        "segment": "rzepa",
+        "intended": ["świeży rynek"],
+        "root":{
+            "fi": "5-10 cm",
+            "color": "biały"
+        },
+        "size":{
+            "value": 150,
+            "unit": "g"
+        },
+        "vegetation": {
+            "value": "40-45",
+            "unit": "dni"
+        },        
+        "compaction": {
+            "value": "5",
+            "unit": "kg/ha"
+        },
+        "spacing": "8 x 20 cm",
+        "harvest": [4, 8],
+        "cultivation": ["grunt", "tunel", "włóknina", "szklarnia"],
+        "description": "Biała, gładka rzepa o krótkim i drobnym liściu do upraw wczesnowiosennych i letnich. Polecana również do produkcji szklarniowej. Odporna na wybijanie w pędy kwiatowe. Doskonała odmiana do produkcji pęczkowej jako baby turnip."
+    },
+    "tokyo_cross":{
+        "active": true,
+        "name": "Tokyo Cross",
+        "imgs":["/rzepa/tokyo_cross.jpg"],
+        "guardian": "Jacek Malinowski",
+        "hybrid": true,
+        "provider": "takii",
+        "crop": "DK",
+        "color": "#467F31",
+        "type":"japoński",
+        "segment": "rzepa",
+        "intended": ["świeży rynek"],
+        "root":{
+            "fi": "6-15 cm",
+            "color": "biały"
+        },
+        "size":{
+            "value": "150-450",
+            "unit": "g"
+        },
+        "vegetation": {
+            "value": "35-50",
+            "unit": "dni"
+        },        
+        "compaction": {
+            "value": "5",
+            "unit": "kg/ha"
+        },
+        "spacing": "8 x 20 cm",
+        "harvest": [6, 10],
+        "cultivation": ["grunt"],
+        "description": "Letni typ rzepy o wysokim potencjale plonotwórczym i idealnym kształcie kuli. Biała barwa, dobre wyrównanie, wczesność i szerokie okno zbioru to silne cechy tej odmiany. W okresie letnim osiąga dojrzałość zbiorczą w 30 dni, zaś jesienią ten czas się wydłuża do 50 dni. Można przetrzymać ją dłużej w polu zarówno latem, jak i jesienią (od 35 do 60 dni), zachowując jej właściwości. Rzepa Tokyo Cross to odmiana bardzo elastyczna, może być zbierana wczesną wiosną, wiosną, latem i jesienią. Zgrubienia o średnicy od 6 cm do 15 cm o gładkiej skórce i słodkawym smaku długo zachowują wysoką jakość. Bardzo odporna na wybijanie w pęd kwiatostanowy."
+    },
+    "casey":{
+        "active": true,
+        "new": true,
+        "name": "Casey",
+        "imgs":["/salaty/casey.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"sałata masłowa",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "średnia do dużej",
+        "planting": [4, 8],
+        "cultivation": ["tunel"],
+        "resistance": ["HR: Bl-EU:16-37/Nr:0/Pb"],
+        "description": "Nowa sałata masłowa do uprawy szklarniowej i tunelowej w okresie późnowiosennym i letnim. Wielkość główek: 250-500 gramów. Odmiana większa od Fairly, o luźniejszym pokroju główki."
+    },
+    "fairly":{
+        "active": true,
+        "name": "Fairly",
+        "imgs":["/salaty/fairly.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"sałata masłowa",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "średnia",
+        "planting": [4, 8],
+        "cultivation": ["tunel"],
+        "resistance": ["HR: Bl-EU:16-34,36/ Nr:0/TBSV"],
+        "description": "Szybko rosnąca odmiana o mocnym systemie korzeniowym, przeznaczona do uprawy w tunelach foliowych i szklarniach. Płaska, zdrowa i zamknięta podstawa. Odmiana łatwa do zbioru."
+    },
+    "melodion":{
+        "active": true,
+        "name": "Melodion",
+        "imgs":["/salaty/melodion.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"sałata masłowa",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "średnia do dużej",
+        "planting": [3, 8],
+        "cultivation": ["tunel"],
+        "resistance": ["HR: Bl-EU:16,21,23,32; IR: LMV:1/Me"],
+        "description": "Sałata do uprawy głównie tunelowej wiosną i jesienią. Tworzy duże, szybko się wypełniające główki o jasnym kolorze. Nasiona precyzyjne oraz otoczkowane."
+    },
+    "stretcha":{
+        "active": true,
+        "name": "stretcha",
+        "imgs":["/salaty/stretcha.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"sałata masłowa",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "średnia do dużej",
+        "planting": [3, 5],
+        "cultivation": ["tunel"],
+        "resistance": ["HR: Bl-EU:16-29,32,34,36, Nr:0/TBSV"],
+        "description": "Duża, jasna sałata masłowa do uprawy tunelowej i szklarniowej wczesną wiosną. Nasiona precyzyjne oraz otoczkowane."
+    },
+    "aferdita":{
+        "active": true,
+        "name": "Aferdita",
+        "imgs":["/salaty/aferdita.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"sałata masłowa",
+        "segment": "sałata",
+        "intended": ["świeży rynek", "przemysł"],
+        "head_size": "średnia do dużej",
+        "planting": [4, 8],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-37/ Nr:0;", "IR: LMV:1"],
+        "description": "Liść z połyskiem. Tworzy zbitą główkę. Odporna na wybijanie w kwiat i zagniwanie wewnątrz."
+    },
+    "analena":{
+        "active": true,
+        "name": "Analena",
+        "imgs":["/salaty/analena.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"sałata masłowa",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "średnia",
+        "planting": [3, 8],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-25,27-35,37/ Nr:0/Pb;", "IR: LMV:1"],
+        "description": "Najlepsza odmiana na wiosnę i jesień. Duża główka wolno się wypełnia."
+    },
+    "anandra":{
+        "active": true,
+        "name": "Anandra",
+        "imgs":["/salaty/anandra.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"sałata masłowa",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "średnia do dużej",
+        "planting": [4, 8],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-37/ Nr:0;", "IR: LMV:1"],
+        "description": "Do uprawy od wiosny do jesieni w gruncie otwartym. Szerokie okno zbiorcze. Tworzy główkę o lekko błyszczącym zielonym kolorze."
+    },
+    "ilona":{
+        "active": true,
+        "new": true,
+        "name": "Ilona",
+        "imgs":["/salaty/ilona.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"sałata masłowa",
+        "segment": "sałata",
+        "intended": ["świeży rynek", "przemysł"],
+        "head_size": "średnia do dużej",
+        "planting": [4, 8],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-37/ Nr:0/Pb/TBSV;", "IR: LMV:1"],
+        "description": "Nowość do uprawy w gruncie otwartym przez cały sezon. Bardzo stabilna w każdych warunkach uprawy."
+    },
+    "lobetina":{
+        "active": true,
+        "name": "Lobetina",
+        "imgs":["/salaty/lobetina.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"sałata masłowa",
+        "segment": "sałata",
+        "intended": ["świeży rynek", "przemysł"],
+        "head_size": "duża",
+        "planting": [4, 8],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-36/Nr:0/TBSV;", "IR: LMV:1"],
+        "description": "Bardzo duża sałata masłowa. Długo utrzymuje luźną główkę o wadze od 350 do 700 gramów. Odmiana o bardzo wysokiej odporności na zagniwanie i wybijanie w pędy kwiatostanowe."
+    },
+    "takoda":{
+        "active": true,
+        "new": true,
+        "name": "Takoda",
+        "imgs":["/salaty/takoda.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"sałata masłowa",
+        "segment": "sałata",
+        "intended": ["świeży rynek", "przemysł"],
+        "head_size": "średnia do dużej",
+        "planting": [4, 8],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-37/ Nr:0/Pb/TBSV;", "IR: LMV:1"],
+        "description": "Do uprawy w okresie wiosenno-jesiennym, z atrakcyjnym błyszczącym zielonym kolorem. Główka z ładną podstawą, wypełniająca się średnio szybko."
+    },
+    "vitrine":{
+        "active": true,
+        "new": true,
+        "name": "Vitrine",
+        "imgs":["/salaty/vitrine.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"sałata masłowa",
+        "segment": "sałata",
+        "intended": ["świeży rynek", "przemysł"],
+        "head_size": "średnia do dużej",
+        "planting": [4, 8],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-36/Nr:0/Pb/TBSV;", "IR: LMV:1, Fol:1"],
+        "description": "Do uprawy w gruncie otwartym. Odmiana posiada średnią odporność na fuzarium Fol:1. Odmiana o szerokim oknie zbioru i luźniejszym pokroju."
+    },
+    "adanto":{
+        "active": true,
+        "new": false,
+        "name": "Adanto",
+        "imgs":["/salaty/adanto.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"sałata lodowa",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "średnia do dużej",
+        "planting": [8],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-37/Nr:0/Pb"],
+        "description": "Tworzy średnie i duże główki. Do zbioru na jesień, o szybkim tempie wzrostu w niższych temperaturach. Bardzo zdrowa podstawa."
+    },
+    "casemiro":{
+        "active": true,
+        "new": false,
+        "name": "Casemiro",
+        "imgs":["/salaty/casemiro.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"sałata lodowa",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "średnia do dużej",
+        "planting": [4, 8],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-37/Nr:0"],
+        "description": "Do uprawy wiosennej i jesiennej na glebach lekkich i ciężkich. Łatwa w cięciu."
+    },
+    "cellist":{
+        "active": true,
+        "new": false,
+        "name": "cellist",
+        "imgs":["/salaty/cellist.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"sałata lodowa",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "średnia",
+        "planting": [4, 8],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-36/Nr:0"],
+        "description": "Tworzy płasko-okrągłe główki odporne na zagniwanie. Bardzo dobre wypełnienie w kartonie – 10 szt."
+    },
+    "damion":{
+        "active": true,
+        "new": false,
+        "name": "Damion",
+        "imgs":["/salaty/damion.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"sałata lodowa",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "średnia",
+        "planting": [4, 8],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-37"],
+        "description": "Standard do uprawy wczesną wiosną i późną jesienią, także pod przykrycia. Szybko wypełnia główkę. Lekko uniesiona podstawa i spłaszczony kształt główki przyspieszają zbiór."
+    },
+    "danilo":{
+        "active": true,
+        "new": false,
+        "name": "Danilo",
+        "imgs":["/salaty/danilo.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"sałata lodowa",
+        "segment": "sałata",
+        "intended": ["świeży rynek","przemysł"],
+        "head_size": "średnia do dużej",
+        "planting": [5, 8],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-37/Nr:0"],
+        "description": "Od późnej wiosny do wczesnej jesieni. Bardzo stabilna także w okresie letnim, z szerokim oknem zbioru i mocnym wigorem."
+    },
+    "gardist":{
+        "active": true,
+        "new": false,
+        "name": "Gardist",
+        "imgs":["/salaty/gardist.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"sałata lodowa",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "średnia do dużej",
+        "planting": [4, 8],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-37/Nr:0"],
+        "description": "Ciemnozielona, o dobrym oknie zbioru. Wysoka tolerancja na zagniwanie wewnątrz. Polecana do zbioru od czerwca do początku września."
+    },
+    "gonzalo":{
+        "active": true,
+        "new": false,
+        "name": "Gonzalo",
+        "imgs":["/salaty/gonzalo.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"sałata lodowa",
+        "segment": "sałata",
+        "intended": ["świeży rynek", "przemysł"],
+        "head_size": "średnia do dużej",
+        "planting": [5, 8],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-37/Nr:0/Pb"],
+        "description": "Główki okrągłe, o dużej masie. Bardzo odporna na wybijanie w kwiat i zagniwanie w okresie letnim."
+    },
+    "napelo":{
+        "active": true,
+        "new": true,
+        "name": "Napelo",
+        "code": "E01E.11136",
+        "imgs":["/salaty/napelo.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"sałata lodowa",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "średnia do dużej",
+        "planting": [3],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-37/Nr:0/Pb"],
+        "description": "Nowość do uprawy wczesnowiosennej, gdy liczy się stabilność i tempo wzrostu w chłodniejszych warunkach."
+    },
+    "philemo":{
+        "active": true,
+        "new": true,
+        "name": "Philemo",
+        "imgs":["/salaty/philemo.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"sałata lodowa",
+        "segment": "sałata",
+        "intended": ["świeży rynek", "przemysł"],
+        "head_size": "duża",
+        "planting": [4, 8],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-37/Nr:0"],
+        "description": "Duża główka z przeznaczeniem na rynek świeży oraz do przemysłu. Bardzo szerokie okno zbiorcze. Ze względu na wolniejsze przyrosty bardzo odporna na wybijanie w kwiat i zagniwanie."
+    },
+    "rodolfo":{
+        "active": true,
+        "new": false,
+        "name": "Rodolfo",
+        "imgs":["/salaty/rodolfo.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"sałata lodowa",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "średnia",
+        "planting": [3, 4],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-37/Nr:0/Pb"],
+        "description": "W typie odmiany Damion, dodatkowo z pełnym pakietem odporności. Przeznaczona do uprawy na wiosnę."
+    },
+    "salvio":{
+        "active": true,
+        "new": true,
+        "name": "Salvio",
+        "imgs":["/salaty/salvio.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"sałata lodowa",
+        "segment": "sałata",
+        "intended": ["świeży rynek", "przemysł"],
+        "head_size": "średnia do dużej",
+        "planting": [4, 8],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-37/Nr:0/Pb"],
+        "description": "Wyróżnia się szerokim oknem zbiorczym, może pozostać dłużej w polu. Nie ma tendencji do wybijania w kwiat oraz zagniwania wewnątrz w okresie letnim. Polecana na rynek świeży i do przemysłu."
+    },
+    "severo":{
+        "active": true,
+        "new": true,
+        "name": "Severo",
+        "imgs":["/salaty/severo.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"sałata lodowa",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "średnia",
+        "planting": [3, 8],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-37/Nr:0"],
+        "description": "Wyróżnia się szerokim oknem zbiorczym, może pozostać dłużej w polu. Nie ma tendencji do wybijania w kwiat oraz zagniwania wewnątrz w okresie letnim. Polecana na rynek świeży i do przemysłu."
+    },
+    "brietta":{
+        "active": true,
+        "new": true,
+        "name": "Brietta",
+        "imgs":["/salaty/brietta.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"lollo bionda",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "duża",
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-36/ Nr:0/TBSV;", "IR: LMV:1/Fol:1"],
+        "description": "Lollo Bionda w typie odmiany Vili z grubszym liściem. Bardzo odporna na zagniwanie i wybijanie w kwiat. Okrągły kształt i dobrze wypełniona główka to jej główne zalety. Ma średnią odporność na fuzarium Fol: 1."
+    },
+    "dabi":{
+        "active": true,
+        "new": false,
+        "name": "Dabi",
+        "imgs":["/salaty/dabi.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"lollo bionda",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "średnia do dużej",
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-33/Nr:0;", "IR: LMV:1/Fol:1"],
+        "description": "Lollo Bionda o jasnozielonym kolorze i liściach drobno karbowanych. Uniesiona podstawa ułatwia zbiór."
+    },
+    "vili":{
+        "active": true,
+        "new": false,
+        "name": "Vili",
+        "imgs":["/salaty/vili.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"lollo bionda",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "duża",
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-33/Nr:0;", "IR: LMV:1/Fol:1"],
+        "description": "Duża Lollo Bionda o jednolitym kształcie i dobrym wypełnieniu. Odmiana odznaczająca się dobrą wielkością oraz zbalansowanym kształtem o atrakcyjnym jasnozielonym, świeżym kolorze."
+    },
+    "azirka":{
+        "active": true,
+        "new": false,
+        "name": "Azirka",
+        "imgs":["/salaty/azirka.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"lollo rossa",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "duża",
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-36/ Nr:0/TBSV;", "IR: LMV:1"],
+        "description": "Lollo Rossa o potrójnej czerwieni i szybkim tempie wzrostu. Odmiana o grubym, chrupkim i soczystym liściu. Pełny pakiet odporności."
+    },
+    "lea":{
+        "active": true,
+        "new": false,
+        "name": "Lea",
+        "imgs":["/salaty/lea.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"lollo rossa",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "średnia",
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-33,35,37/ Nr:0;", "IR: Fol:1"],
+        "description": "Potrójnie czerwona Lollo Rossa ze średnią odpornością na fuzarium Fol:1. Niezawodna odmiana w każdych warunkach."
+    },
+    "tuska":{
+        "active": true,
+        "new": false,
+        "name": "Tuska",
+        "imgs":["/salaty/tuska.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"lollo rossa",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "średnia",
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-26,28,32/Nr:0"],
+        "description": "Lollo Rossa o czerwonym (wiśniowym) kolorze. Liść drobno karbowany o dobrej objętości."
+    },
+    "colbiana":{
+        "active": true,
+        "new": false,
+        "name": "Colbiana",
+        "imgs":["/salaty/colbiana.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"rzymskie, midi, mini",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "duża",
+        "planting": [1, 12],
+        "size":{
+            "value": "32-26",
+            "unit": "cm"
+        },
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-32,34,36/Fol:4/Nr:0/TBSV"],
+        "description": "Duża sałata rzymska, największa z dostępnych na rynku. Charakteryzuje się jasnym kolorem liści. Idealny produkt na świeży rynek, jak i do przetwórstwa."
+    },
+    "clouny":{
+        "active": true,
+        "new": false,
+        "name": "Clouny",
+        "imgs":["/salaty/clouny.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"rzymskie, midi, mini",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "midi/duża",
+        "planting": [1, 12],
+        "size":{
+            "value": "26-28",
+            "unit": "cm"
+        },
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-32,34,36/Nr:0/TBSV"],
+        "description": "Sałata koloru zielonego o zamkniętej główce. Bardzo dobrze znosi zmienną pogodę i nawet w takich warunkach nie występuje na niej tipburn."
+    },
+    "kilnsey":{
+        "active": true,
+        "new": true,
+        "name": "Kilnsey",
+        "code": "E01G.11086",
+        "imgs":["/salaty/kilnsey.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"rzymskie, midi, mini",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "midi/duża",
+        "planting": [1, 12],
+        "size":{
+            "value": "26-28",
+            "unit": "cm"
+        },
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-36/Fol:1/Nr:0"],
+        "description": "Sałata o ciemnym kolorze. Główki zwarte, zamykające się po uzyskaniu pełnej wielkości. Odmiana nieco niższa od pozostałych, cechująca się bardzo dobrym wyrównaniem."
+    },
+    "xanadu":{
+        "active": true,
+        "new": false,
+        "name": "Xanadu",
+        "imgs":["/salaty/xanadu.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"rzymskie, midi, mini",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "mini",
+        "planting": [4, 8],
+        "size":{
+            "value": "18-22",
+            "unit": "cm"
+        },
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16,21,23,32;", "IR: LMV:1, Ss"],
+        "description": "Od lat standard w produkcji sałat mini, przede wszystkim w pierwszych, najwcześniejszych nasadzeniach. Zaletą tej odmiany jest jej szybkość, pozwalająca na uzyskanie produktu handlowego przed innymi odmianami."
+    },
+    "xalbadora":{
+        "active": true,
+        "new": false,
+        "name": "Xalbadora",
+        "imgs":["/salaty/xalbadora.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"rzymskie, midi, mini",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "mini",
+        "planting": [1, 12],
+        "size":{
+            "value": "18-23",
+            "unit": "cm"
+        },
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-36/Nr:0/TBSV;", "IR: LMV:1"],
+        "description": "Smukła, ciemnozielona mini rzymska w typie odmiany Xanadu. Sałata o większej główce, szczególnie polecana na stanowiska o glebach ciężkich, zwięzłych. Bardzo dobra trwałość na polu i po zbiorze. Sprawdza się w każdych warunkach uprawy, zapewniając wysoką jakość, jednorodność i wydajność."
+    },
+    "xavira":{
+        "active": true,
+        "new": false,
+        "name": "Xavira",
+        "imgs":["/salaty/xavira.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"rzymskie, midi, mini",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "mini",
+        "planting": [4, 11],
+        "size":{
+            "value": "18-24",
+            "unit": "cm"
+        },
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-27,29,31,32,34,36/Nr:0/Pb;", "IR: LMV:1, Ss"],
+        "description": "Odmiana o szybkiej charakterystyce przyrostu, szczególnie polecana do uprawy wiosną i jesienią, kiedy jej szybkość stanowi dużą zaletę produkcyjną."
+    },
+    "xemerius":{
+        "active": true,
+        "new": true,
+        "name": "Xemerius",
+        "imgs":["/salaty/xemerius.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"rzymskie, midi, mini",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "mini",
+        "planting": [4, 8],
+        "size":{
+            "value": "18-24",
+            "unit": "cm"
+        },
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-36/Fol:1/Nr:0/TBSV;", "IR: LMV:1, Ss"],
+        "description": "Nowa sałata w typie mini rzymskiej wyróżniająca się połączeniem pożądanych cech takich jak wyrównanie i szybkość. Dodatkową zaletą jest brak tendencji do przerastania na wysokość oraz atrakcyjny pokrój główki."
+    },
+    "ximenes":{
+        "active": true,
+        "new": false,
+        "name": "Ximenes",
+        "imgs":["/salaty/ximenes.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"rzymskie, midi, mini",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "mini",
+        "planting": [1, 12],
+        "size":{
+            "value": "19-23",
+            "unit": "cm"
+        },
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-36/Nr:0/TBSV;", "IR: LMV:1"],
+        "description": "Niezawodna odmiana o kompaktowej wielkości główki. Zaletą jest brak tendencji do przerastania na wysokość, dzięki czemu nawet po późniejszym cięciu niż optymalne uzyskujemy krótki, niewielki głąbik wewnętrzny."
+    },
+    "xiomara":{
+        "active": true,
+        "new": false,
+        "name": "Xiomara",
+        "imgs":["/salaty/xiomara.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"rzymskie, midi, mini",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "mini",
+        "planting": [9, 11],
+        "size":{
+            "value": "17-20",
+            "unit": "cm"
+        },
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-36/Fol:1/Nr:0/TBSV;", "IR: LMV:1"],
+        "description": "Odmiana nieco niższa od pozostałych, niezwykle wyrównana, z dużą tolerancją na zagniwanie. Atrakcyjny kolor i kształt główki to główne cechy Xiomary."
+    },
+    "xoana":{
+        "active": true,
+        "new": true,
+        "name": "Xoana",
+        "imgs":["/salaty/xoana.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LT",
+        "color": "#467F31",
+        "type":"rzymskie, midi, mini",
+        "segment": "sałata",
+        "intended": ["świeży rynek"],
+        "head_size": "mini",
+        "planting": [1, 12],
+        "size":{
+            "value": "19-25",
+            "unit": "cm"
+        },
+        "cultivation": ["grunt"],
+        "resistance": ["HR: Bl-EU:16-37/Fol:1/Nr:0/TBSV;", "IR: LMV:1/Ss"],
+        "description": "Nowa, niezwykle uniwersalna odmiana pozwalająca na produkcję przez cały sezon. Główną jej zaletą jest niezawodność oraz duże wyrównanie pod względem wielkości."
+    },
+    "confiance":{
+        "active": true,
+        "new": false,
+        "name": "Confiance",
+        "imgs":["/salaty/confiance.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "ED",
+        "color": "#467F31",
+        "type":"escarola – gładki liść",
+        "segment": "endywia",
+        "intended": ["świeży rynek"],
+        "head_size": "średnia do dużej",
+        "planting": [5, 8],
+        "cultivation": ["grunt"],
+        "description": "Polecana do produkcji letniej i jesiennej. Główki średniej wielkości, świeży zielony kolor zewnętrzny z żółtym wypełnieniem. Wysoka tolerancja na zagniwanie wewnętrzne w okresie letnim – tipburn."
+    },
+    "eliance":{
+        "active": true,
+        "new": false,
+        "name": "Eliance",
+        "imgs":["/salaty/eliance.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "ED",
+        "color": "#467F31",
+        "type":"escarola – gładki liść",
+        "segment": "endywia",
+        "intended": ["świeży rynek"],
+        "head_size": "średnia do dużej",
+        "planting": [3, 8],
+        "cultivation": ["grunt"],
+        "description": "Średniej wielkości, do uprawy polowej i szklarniowej, z dobrą odpornością na wybijanie w kwiat. Odmiana posiada zdolność samowybielania oraz wysoką wydajność. Liście wewnętrzne są długie, wąskie i bardzo elastyczne. W szklarni odmiana jest ceniona ze względu na jej wczesność i jakość wewnętrzną."
+    },
+    "parmance":{
+        "active": true,
+        "new": false,
+        "name": "Parmance",
+        "imgs":["/salaty/parmance.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "ED",
+        "color": "#467F31",
+        "type":"escarola – gładki liść",
+        "segment": "endywia",
+        "intended": ["świeży rynek"],
+        "head_size": "duża",
+        "planting": [3, 8],
+        "cultivation": ["grunt"],
+        "description": "Endywia w typie escarola tworząca główki o dużej masie. Bardzo wysoka tolerancja na wybijanie w kwiat w okresach niskich temperatur. Także w okresie letnim wysoka tolerancja na zagniwanie wewnątrz. Dużo jasnych liści wewnętrznych."
+    },
+    "performance":{
+        "active": true,
+        "new": false,
+        "name": "Performance",
+        "imgs":["/salaty/performance.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "ED",
+        "color": "#467F31",
+        "type":"escarola – gładki liść",
+        "segment": "endywia",
+        "intended": ["świeży rynek"],
+        "head_size": "duża",
+        "planting": [8],
+        "cultivation": ["grunt"],
+        "description": "Bardzo duża odmiana o wzniesionym pokroju ułatwiającym zbiór. Polecana do uprawy późną jesienią. Wysoka wydajność, odporność na pierwsze mrozy i trudne warunki pogodowe. Doskonała jakość i masa jasnych wewnętrznych liści."
+    },
+    "ascari":{
+        "active": true,
+        "new": false,
+        "name": "Ascari",
+        "imgs":["/salaty/ascari.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "ED",
+        "color": "#467F31",
+        "type":"frisee – liść fryzowany",
+        "segment": "endywia",
+        "intended": ["świeży rynek"],
+        "head_size": "średnia",
+        "planting": [3, 8],
+        "cultivation": ["grunt"],
+        "description": "Na wczesną wiosnę. Mocna podstawa, dobre wypełnienie i tempo wzrostu."
+    },
+    "comaneci":{
+        "active": true,
+        "new": false,
+        "name": "Comaneci",
+        "imgs":["/salaty/comaneci.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "ED",
+        "color": "#467F31",
+        "type":"frisee – liść fryzowany",
+        "segment": "endywia",
+        "intended": ["świeży rynek"],
+        "head_size": "duża",
+        "planting": [4, 8],
+        "cultivation": ["grunt"],
+        "description": "W typie odmiany Curlesi, o wolniejszym tempie wzrostu. Do uprawy od wiosny do jesieni. Bardzo dobre wypełnienie i duża masa liści."
+    },
+    "curlesi":{
+        "active": true,
+        "new": false,
+        "name": "Curlesi",
+        "imgs":["/salaty/curlesi.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "ED",
+        "color": "#467F31",
+        "type":"frisee – liść fryzowany",
+        "segment": "endywia",
+        "intended": ["świeży rynek"],
+        "head_size": "duża",
+        "planting": [4, 8],
+        "cultivation": ["grunt"],
+        "description": "Jedna z najpopularniejszych odmian na rynku. Duża masa liściowa, wysoki udział żółtych liści wewnętrznych. Wzniesiony pokrój, ułatwiający zbiór. Do uprawy od wiosny do jesieni."
+    },
+    "domari":{
+        "active": true,
+        "new": false,
+        "name": "Domari",
+        "imgs":["/salaty/domari.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "ED",
+        "color": "#467F31",
+        "type":"frisee – liść fryzowany",
+        "segment": "endywia",
+        "intended": ["świeży rynek"],
+        "head_size": "średnia",
+        "planting": [3, 8],
+        "cultivation": ["grunt"],
+        "description": "Główka średnia do dużej. Bardzo wysoka wytrzymałość na niskie temperatury. Przeznaczona szczególnie do uprawy wiosennej. W zależności od rejonu może być uprawiana także w okresie letnim. Bardzo dobre wypełnienie i zdrowotność."
+    },
+    "maratoneta":{
+        "active": true,
+        "new": false,
+        "name": "Maratoneta",
+        "imgs":["/salaty/maratoneta.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "ED",
+        "color": "#467F31",
+        "type":"frisee – liść fryzowany",
+        "segment": "endywia",
+        "intended": ["świeży rynek"],
+        "head_size": "średnia do dużej",
+        "planting": [3, 8],
+        "cultivation": ["grunt"],
+        "description": "Endywia w typie frisee o ciemnozielonych zewnętrznych liściach i dobrze wypełnionym, jasnożółtym sercu. Wzniesiony pokrój ułatwia zbiór i ogranicza zgniliznę podstawy. Maratoneta ma szeroką podstawę, dlatego najlepiej rośnie w chłodniejszych warunkach. Bardzo tolerancyjna na wybijanie w kwiat."
+    },
+    "miliari":{
+        "active": true,
+        "new": true,
+        "name": "Miliari",
+        "imgs":["/salaty/miliari.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "ED",
+        "color": "#467F31",
+        "type":"frisee – liść fryzowany",
+        "segment": "endywia",
+        "intended": ["świeży rynek"],
+        "head_size": "średnia",
+        "planting": [3, 4],
+        "cultivation": ["grunt"],
+        "description": "Główka średnia, bardzo wysoka wytrzymałość na niskie temperatury, wybijanie w kwiat i zagniwanie wewnątrz. Bardzo dużo żółtych liści wewnętrznych. Do uprawy wczesnowiosennej."
+    },
+    "simbari":{
+        "active": true,
+        "new": true,
+        "name": "Simbari",
+        "imgs":["/salaty/simbari.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "ED",
+        "color": "#467F31",
+        "type":"frisee – liść fryzowany",
+        "segment": "endywia",
+        "intended": ["świeży rynek"],
+        "head_size": "duża",
+        "planting": [3, 6],
+        "cultivation": ["grunt"],
+        "description": "Nowa odmiana w typie Domari. Cechy charakterystyczne to wczesność, szybkie wypełnianie, dobra waga, odporność na zimno. Do uprawy wiosną i latem."
+    },
+    "sumero":{
+        "active": true,
+        "new": false,
+        "name": "Sumero",
+        "imgs":["/cykorie/sumero.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LS",
+        "color": "#467F31",
+        "type":"cykoria sałatowa",
+        "segment": "radicchio",
+        "intended": ["świeży rynek"],
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Odmiana cykorii sałatowej do nasadzeń przez cały sezon – od wiosny do jesieni. Odmiana dobrze adaptująca się do różnych warunków uprawowych, o wysokiej trwałości zbiorczej. Sumero szybko wypełnia główki, a przy tym wykazuje wysoką odporność na wybijanie w pędy kwiatostanowe i na wewnętrzne zamieranie brzegów liści. Idealnie nadaje się na świeży rynek i do przetwórstwa, zapewniając stabilne, wysokie plony."
+    },
+    "vespero":{
+        "active": true,
+        "new": false,
+        "name": "Vespero",
+        "imgs":["/cykorie/vespero.jpg"],
+        "guardian": "Aleksandra Krzyżanowska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LS",
+        "color": "#467F31",
+        "type":"cykoria sałatowa",
+        "segment": "radicchio",
+        "intended": ["świeży rynek"],
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Odmiana cykorii sałatowej do nasadzeń przez cały sezon – od wiosny do jesieni. Odmiana dobrze adaptująca się do różnych warunków uprawowych, o wysokiej trwałości zbiorczej. Sumero szybko wypełnia główki, a przy tym wykazuje wysoką odporność na wybijanie w pędy kwiatostanowe i na wewnętrzne zamieranie brzegów liści. Idealnie nadaje się na świeży rynek i do przetwórstwa, zapewniając stabilne, wysokie plony."
+    },
+    "prudenzia":{
+        "active": true,
+        "new": false,
+        "name": "Prudenzia",
+        "imgs":["/rukole/prudenzia.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"wyrównana",
+        "segment": "rukola",
+        "intended": ["świeży rynek"],
+        "planting": [1, 12],
+        "cultivation": ["szklarnia"],
+        "resistance": ["RMTD"],
+        "description": "Odmiana mieszańcowa do uprawy w tunelach oraz gruncie otwartym, szczególnie wiosną i jesienią. Wyróżnia ją szybkie tempo wzrostu i brak przebarwień. Liść o głębszej seracji (powcinaniu) i świeżym zielonym kolorze. Wzniesiony pokrój rośliny zapewnia wysoką wydajność, a także zdrowotność zarówno przed, jak i po zbiorze. Odmiana posiada średnią odporność na mączniaka rzekomego."
+    },
+    "anastazia":{
+        "active": true,
+        "new": false,
+        "vitalis": true,
+        "name": "Anastazia",
+        "imgs":["/rukole/anastazia.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"wzniesiona",
+        "segment": "rukola",
+        "intended": ["świeży rynek"],
+        "planting": [1, 12],
+        "cultivation": ["szklarnia"],
+        "resistance": ["RMTD"],
+        "description": "Odmiana mieszańcowa do uprawy w tunelach oraz gruncie otwartym, szczególnie wiosną i jesienią. Wyróżnia ją szybkie tempo wzrostu i brak przebarwień. Liść o głębszej seracji (powcinaniu) i świeżym zielonym kolorze. Wzniesiony pokrój rośliny zapewnia wysoką wydajność, a także zdrowotność zarówno przed, jak i po zbiorze. Odmiana posiada średnią odporność na mączniaka rzekomego."
+    },
+    "jolizia":{
+        "active": true,
+        "new": false,
+        "vitalis": true,
+        "name": "Jolizia",
+        "imgs":["/rukole/jolizia.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"doskonała",
+        "segment": "rukola",
+        "intended": ["świeży rynek"],
+        "planting": [1, 12],
+        "cultivation": ["szklarnia"],
+        "resistance": ["RMTD"],
+        "description": "Odmiana o kompaktowym pokroju przeznaczona do letniej produkcji. Bardzo wysoka tolerancja na wybijanie w kwiat oraz wysoka odporność na mączniaka rzekomego. Liść mocno wzniesiony z efektem 3D i bardzo dobrą trwałością długo po zbiorze."
+    },
+    "bellezia":{
+        "active": true,
+        "new": false,
+        "vitalis": true,
+        "name": "Bellezia",
+        "imgs":["/rukole/bellezia.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"ciemnozielona",
+        "segment": "rukola",
+        "intended": ["świeży rynek"],
+        "planting": [1, 12],
+        "cultivation": ["szklarnia"],
+        "description": "Odmiana o ciemnozielonym kolorze i dobrym powcinaniu blaszki liściowej już przy pierwszym cięciu. Do uprawy tunelowej i w gruncie otwartym od wiosny do jesieni. Posiada średnią odporność na mączniaka rzekomego oraz długo zachowuje bardzo dobrą jakość po cięciu."
+    },
+    "letizia":{
+        "active": true,
+        "new": false,
+        "vitalis": true,
+        "name": "Letizia",
+        "imgs":["/rukole/letizia.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"mocna",
+        "segment": "rukola",
+        "intended": ["świeży rynek"],
+        "planting": [1, 12],
+        "cultivation": ["szklarnia"],
+        "resistance": ["RMTD"],
+        "description": "Polecana do uprawy wiosennej i letniej. Liść gruby, powcinany, o efekcie 3D. Odmiana do uprawy wiosennej i letniej. Wyróżnia się wysoką tolerancją na wybijanie w kwiat. Odmiana o wysokiej odporności na mączniaka rzekomego."
+    },
+    "grazia":{
+        "active": true,
+        "new": false,
+        "name": "Grazia",
+        "imgs":["/rukole/grazia.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"powcinana",
+        "segment": "rukola",
+        "intended": ["świeży rynek"],
+        "planting": [1, 12],
+        "cultivation": ["szklarnia"],
+        "description": "Bardzo wyrównana i kompaktowa. Ciemny kolor liści z głębokim powcinaniem już przy pierwszym cięciu. Odmiana o niskiej tendencji do wybijania w kwiat."
+    },
+    "tricia":{
+        "active": true,
+        "new": false,
+        "name": "Tricia",
+        "imgs":["/rukole/tricia.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"szybka",
+        "segment": "rukola",
+        "intended": ["świeży rynek"],
+        "planting": [1, 12],
+        "cultivation": ["szklarnia"],
+        "description": "Odmiana o szybkim wzroście i wzniesionym pokroju. Większe liście o standardowej seracji (powcinaniu). Zapewnia wysoki plon, wysoką odporność na mączniaka rzekomego oraz brak podatności na wybijanie w kwiat."
+    },
+    "tanazia":{
+        "active": true,
+        "new": false,
+        "name": "Tanazia",
+        "imgs":["/rukole/tanazia.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"odporna na zimno",
+        "segment": "rukola",
+        "intended": ["świeży rynek"],
+        "planting": [1, 12],
+        "cultivation": ["szklarnia"],
+        "description": "Nowa odmiana z wysoką tolerancją na wybijanie w kwiat. Bardzo szybko wschodzi i rośnie w chłodniejszych temperaturach. Zapewnia wysoki plon o wysokiej jakości i trwałości po przetworzeniu."
+    },
+    "selvatica_sel":{
+        "active": true,
+        "new": false,
+        "name": "Selvatica sel.",
+        "imgs":["/rukole/selvatica.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"stabilna",
+        "segment": "rukola",
+        "intended": ["świeży rynek"],
+        "planting": [1, 12],
+        "cultivation": ["szklarnia"],
+        "description": "Odmiana wyróżnia się smukłymi liśćmi o dobrym ząbkowaniu i głębszym powcinaniu. Ma bardzo charakterystyczny intensywny smak i cechuje się wysoką stabilnością produkcji niezależnie od warunków uprawy."
+    },
+    "selvatica_coltivata":{
+        "active": true,
+        "new": false,
+        "name": "Selvatica Coltivata",
+        "imgs":["/rukole/selvatica_coltivata.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"owalny kształt",
+        "segment": "rukola",
+        "intended": ["świeży rynek"],
+        "planting": [1, 12],
+        "cultivation": ["szklarnia"],
+        "description": "Szybkie tempo wzrostu zapewnia wysoki plon. Liście o owalnym kształcie."
+    },
+    "crosstrek":{
+        "active": true,
+        "new": true,
+        "name": "Crosstrek",
+        "imgs":["/szpinaki/crosstrek.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "SP",
+        "color": "#467F31",
+        "type":"semi savoy",
+        "segment": "szpinak",
+        "growth_speed": "średnio szybkie",
+        "intended": ["świeży rynek"],
+        "planting": [4, 11],
+        "cultivation": ["szklarnia"],
+        "resistance": ["HR: Pfs:1-19"],
+        "description": "Odmiana średnio wczesna. Ciemnozielona barwa liści o jednolitym, ładnym, owalno-okrągłym kształcie. Dobra grubość liści, zapewniająca wysokie plony. Łodyga średniej długości, dzięki czemu odmiana jest łatwa do zbioru. Odpowiednia do uprawy przez cały sezon. Odmiana z pełnym pakietem odporności na mączniaka rzekomego szpinaku – rasy Pfs 1-19."
+    },
+    "frontier":{
+        "active": true,
+        "new": true,
+        "name": "Frontier",
+        "code": "E03D.1059",
+        "imgs":["/szpinaki/frontier.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "SP",
+        "color": "#467F31",
+        "type":"gładki",
+        "segment": "szpinak",
+        "growth_speed": "szybkie",
+        "intended": ["świeży rynek"],
+        "planting": [4, 11],
+        "cultivation": ["szklarnia"],
+        "resistance": ["HR: Pfs:1-19"],
+        "description": "Odmiana szybko rosnąca w okresie wczesnowiosennym i jesiennym. Ma wydłużone owalne liście o zielonym kolorze. Frontier ma dobrą teksturę liści i daje doskonałe plony. Ze względu na wzniesiony pokrój jest łatwy do zbioru. Odmiana z pełnym pakietem odporności na mączniaka rzekomego szpinaku – rasy Pfs 1-19."
+    },
+    "trailboss":{
+        "active": true,
+        "new": true,
+        "name": "Trailboss",
+        "code": "E03D.1059",
+        "imgs":["/szpinaki/trailboss.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "SP",
+        "color": "#467F31",
+        "type":"semi savoy",
+        "segment": "szpinak",
+        "growth_speed": "średnie, wolne",
+        "intended": ["świeży rynek"],
+        "planting": [4, 11],
+        "cultivation": ["szklarnia"],
+        "resistance": ["HR: Pfs:1-17,19"],
+        "description": "Odmiana umiarkowanie wolno rosnąca, polecana do uprawy przez cały sezon. Liście są ciemnozielone, o owalnym kształcie, z grubą teksturą. Odmiana ta charakteryzuje się dobrym, solidnym plonowaniem."
+    },
+    "tundra":{
+        "active": true,
+        "new": true,
+        "name": "Tundra",
+        "imgs":["/szpinaki/tundra.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "SP",
+        "color": "#467F31",
+        "type":"semi savoy",
+        "segment": "szpinak",
+        "growth_speed": "średnie",
+        "intended": ["świeży rynek"],
+        "planting": [4, 11],
+        "cultivation": ["szklarnia"],
+        "resistance": ["HR: Pfs:1-13,15,16,18"],
+        "description": "Tundra to ciemnozielony szpinak semi savoy o doskonałej teksturze do produkcji baby leaf. Odmiana polecana jest na cały sezon."
+    },
+    "tiana":{
+        "active": true,
+        "new": false,
+        "name": "Tiana",
+        "imgs":["/dynie/tiana.jpg"],
+        "guardian": "Piotr Pietrzak",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "PP",
+        "color": "#467F31",
+        "type":"piżmowa",
+        "segment": "dynia",
+        "intended": ["świeży rynek"],        
+        "compaction": {
+            "value": "7-8",
+            "unit": "tys./ha"
+        },
+        "weight": {
+            "value": "1",
+            "unit": "kg"
+        },
+        "size": {
+            "value": "17 × 10",
+            "unit": "cm"
+        },
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance": ["IR: ZYMV"],
+        "description": "Tiana to nasza propozycja w segmencie odmian o kompaktowych owocach. Przydatna szczególnie dla producentów współpracujących z sieciami, dla których duże wyrównanie owoców jest kluczowe. Szerokie okno zbiorcze pozwala na elastyczne ustawienie dostaw oraz wydłużenie podaży. Należy pamiętać o tym, że aby odmiana mogła wykazać się w pełni swoimi zaletami, powinna trafić na stanowiska o glebach przepuszczalnych z możliwością nawadniania podczas okresów suszy."
+    },
+    "hannah":{
+        "active": true,
+        "new": false,
+        "name": "Hannah",
+        "imgs":["/dynie/hannah.jpg"],
+        "guardian": "Piotr Pietrzak",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "PP",
+        "color": "#467F31",
+        "type":"piżmowa",
+        "segment": "dynia",
+        "intended": ["świeży rynek"],        
+        "compaction": {
+            "value": "6-7",
+            "unit": "tys./ha"
+        },
+        "weight": {
+            "value": "1,5-2",
+            "unit": "kg"
+        },
+        "size": {
+            "value": "20 × 12",
+            "unit": "cm"
+        },
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance": ["IR: ZYMV"],
+        "description": "Odmianę Hannah charakteryzuje dobry wigor roślin, dzięki czemu sprawdzi się ona na glebach słabszych, bez możliwości zastosowania nawadniania. W latach suchych owoce będą nieco mniejsze, a lata z normalną ilością deszczu pozwolą wytworzyć owoce o normalnych rozmiarach. Wyrównanie owoców w obu przypadkach pozostanie na bardzo wysokim poziomie."
+    },
+    "matilda":{
+        "active": true,
+        "new": false,
+        "name": "Matilda",
+        "imgs":["/dynie/matilda.jpg"],
+        "guardian": "Piotr Pietrzak",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "PP",
+        "color": "#467F31",
+        "type":"piżmowa",
+        "segment": "dynia",
+        "intended": ["przetwórstwo"],        
+        "compaction": {
+            "value": "5-6",
+            "unit": "tys./ha"
+        },
+        "weight": {
+            "value": "do 4",
+            "unit": "kg"
+        },
+        "size": {
+            "value": "30 × 15",
+            "unit": "cm"
+        },
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance": ["IR: ZYMV"],
+        "description": "Matilda jest odmianą średnio wczesną o mocnym wigorze roślin. Owoce są duże, o walcowatym kształcie, który umożliwia łatwe zmechanizowanie procesu obierania, a mała i znajdująca się na końcu owocu komora nasienna zapewnia niewielki odpad poprodukcyjny. Owoce dobrze się przechowują, co pozwala na wydłużenie okresu przygotowania do obróbki lub przetrzymania w przechowalni."
+    },
+    "orange_summer":{
+        "active": true,
+        "new": false,
+        "name": "Orange Summer",
+        "imgs":["/dynie/orange_summer.jpg"],
+        "guardian": "Piotr Pietrzak",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "PP",
+        "color": "#467F31",
+        "type":"hokkaido",
+        "segment": "dynia",
+        "intended": ["świeży rynek", "przetwórstwo"],
+        "plant_sort": "półkrzaczasty",
+        "plant_color": "intensywnie pomarańczowy",
+        "compaction": {
+            "value": "7-8",
+            "unit": "tys./ha"
+        },
+        "weight": {
+            "value": "1,2-1,4",
+            "unit": "kg"
+        },
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance": ["IR: Px"],
+        "description": "Orange Summer to najbardziej rozpoznawalna w Europie odmiana z segmentu hokkaido. Walorami tej odmiany jest jej wyrównana wielkość i doskonała jakość owoców, zarówno zewnętrzna, jak i wewnętrzna. Odmiana pozwala uzyskać duży i bardzo wyrównany plon handlowy. Właśnie duża wydajność i wysoka jakość zaskarbiły jej uznanie ogrodników w całej Europie."
+    },
+    "kaori_kuri":{
+        "active": true,
+        "new": false,
+        "name": "Kaori Kuri",
+        "imgs":["/dynie/kaori_kuri.jpg"],
+        "guardian": "Piotr Pietrzak",
+        "hybrid": true,
+        "provider": "takii",
+        "crop": "PP",
+        "color": "#467F31",
+        "type":"hokkaido",
+        "segment": "dynia",
+        "intended": ["świeży rynek", "przechowanie"],
+        "plant_sort": "półkrzaczasty",
+        "plant_color": "ciemnoczerwony",
+        "compaction": {
+            "value": "7-8",
+            "unit": "tys./ha"
+        },
+        "weight": {
+            "value": "1-1,3",
+            "unit": "kg"
+        },
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance": ["IR: ZYMV/WMV/PRSV"],
+        "description": "Kaori Kuri jest odmianą w segmencie hokkaido o masie owoców zbliżonej do Orange Summer. Cechą wyróżniającą Kaori Kuri jest odporność na choroby wirusowe, które coraz częściej w przypadku innych odmian ograniczają plon i zyskowność produkcji. Dodatkową zaletą tej odmiany jest możliwość jej przechowywania znacznie dłużej od innych odmian dostępnych na rynku. Dodatkowo wraz z przechowywaniem Kaori Kuri zyskuje coraz intensywniejszy i słodszy smak."
+    },
+    "flexi_kuri":{
+        "active": true,
+        "new": true,
+        "name": "Flexi Kuri",
+        "code": "E30R.00095",
+        "imgs":["/dynie/flexi_kuri.jpg"],
+        "guardian": "Piotr Pietrzak",
+        "hybrid": true,
+        "provider": "takii",
+        "crop": "PP",
+        "color": "#467F31",
+        "type":"hokkaido",
+        "segment": "dynia",
+        "intended": ["świeży rynek", "przechowanie"],
+        "plant_sort": "półkrzaczasty",
+        "plant_color": "pomarańczowoczerwony",
+        "compaction": {
+            "value": "7-8",
+            "unit": "tys./ha"
+        },
+        "weight": {
+            "value": "1,5-1,7",
+            "unit": "kg"
+        },
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance": ["IR: ZYMV/WMV/PRSV"],
+        "description": "Flexi Kuri podobnie jak Kaori Kuri charakteryzuje się odpornością na wirusy, a to daje gwarancję, że wyprodukowane owoce będą miały najwyższą wartość handlową. Odmiana ta ma wydłużone okno sprzedażowe, wynikające z możliwości dłuższego jej przechowywania w porównaniu z odmianami starszej generacji. Jej ważną zaletą jest większy rozmiar, poszukiwany przez konsumentów."
+    },
+    "uchiki_kuri":{
+        "active": true,
+        "new": false,
+        "name": "Uchiki Kuri",
+        "imgs":["/dynie/uchiki_kuri.jpg"],
+        "guardian": "Piotr Pietrzak",
+        "hybrid": true,
+        "provider": "takii",
+        "crop": "PP",
+        "color": "#467F31",
+        "type":"hokkaido",
+        "segment": "dynia",
+        "intended": ["świeży rynek", "przetwórstwo"],
+        "plant_sort": "płożąca",
+        "plant_color": "ciemnopomarańczowy",
+        "compaction": {
+            "value": "7-8",
+            "unit": "tys./ha"
+        },
+        "weight": {
+            "value": "1-1,5",
+            "unit": "kg"
+        },
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance": ["IR: ZYMV/WMV/PRSV"],
+        "description": "Standardowa odmiana ustalona, popularna ze względu na niskie wymagania co do stanowiska. Owoce o atrakcyjnym kolorze, doskonale nadają się zarówno na świeży rynek, jak i do przetwórstwa. Odmiana dobrze radzi sobie również w trudnych warunkach produkcyjnych – wtedy rośliny zawiązują mniejszą liczbę owoców, a dzięki dobremu wigorowi owoce mimo wszystko osiągają optymalną wielkość."
+    },
+    "nelson":{
+        "active": true,
+        "new": false,
+        "name": "Nelson",
+        "imgs":["/dynie/nelson.jpg"],
+        "guardian": "Piotr Pietrzak",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "PP",
+        "color": "#467F31",
+        "type":"szara",
+        "segment": "dynia",
+        "intended": ["świeży rynek", "przetwórstwo"],
+        "plant_color": "szara skórka, intensywnie pomarańczowy miąższ",
+        "compaction": {
+            "value": "7-8",
+            "unit": "tys./ha"
+        },
+        "weight": {
+            "value": "4-6",
+            "unit": "kg"
+        },
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Nelson to odmiana w typie dyni szarej, co roku zwiększająca grono klientów. Atrakcyjny kolor miąższu, jak i jego smak to dwie cechy pozwalające na ekspansję tego typu wśród konsumentów. Producenci cenią Nelsona za walory przechowalnicze (jedna z najdłużej przechowujących się dyń), a także – co ma niebagatelne znaczenie – za koncentrację owocowania przy roślinie. To z kolei ułatwia prace pielęgnacyjne oraz zbiory dojrzałych owoców."
+    },
+    "musquee_de_provence":{
+        "active": true,
+        "new": false,
+        "name": "Musquée de Provence",
+        "imgs":["/dynie/musquee_de_provence.jpg"],
+        "guardian": "Piotr Pietrzak",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "PP",
+        "color": "#467F31",
+        "type":"prowansalska (muszkatołowa)",
+        "segment": "dynia",
+        "intended": ["świeży rynek", "przetwórstwo"],
+        "plant_color": "zielony przechodzący w pomarańczowy, miąższ intensywnie pomarańczowy",
+        "compaction": {
+            "value": "6-6,5",
+            "unit": "tys./ha"
+        },
+        "weight": {
+            "value": "6-10",
+            "unit": "kg"
+        },
+        "size": {
+            "value": "50-70",
+            "unit": "cm"
+        },
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Musquée de Provence ze względu na łatwość w uprawie i niezawodność jest szczególnie ceniona w gospodarstwach ekologicznych. Roślina o silnym wegetatywnym wzroście, nadająca się także na słabsze gleby. Owoce są smaczne, gotowe do spożycia od fazy zielonej skórki aż do jej pomarańczowego koloru. Dodatkowo bardzo dobrze się przechowują. Posiadamy w naszej ofercie nasiona tej odmiany z certyfikatem ekologicznym."
+    },
+    "bllatrix":{
+        "active": true,
+        "new": false,
+        "name": "Bellatrix",
+        "imgs":["/dynie/bellatrix.jpg"],
+        "guardian": "Piotr Pietrzak",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "PP",
+        "color": "#467F31",
+        "type":"olbrzymia (Halloween)",
+        "segment": "dynia",
+        "intended": ["świeży rynek", "przetwórstwo"],
+        "plant_color": "pomarańczowy",
+        "compaction": {
+            "value": "7-8",
+            "unit": "tys./ha"
+        },
+        "weight": {
+            "value": "7-11",
+            "unit": "kg"
+        },
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Bellatrix to odmiana dyni olbrzymiej o atrakcyjnym ciemnopomarańczowym kolorze skórki oraz miąższu, równomiernie wybarwiająca się na całym obwodzie. Dużą zaletą owoców jest ich woskowana powierzchnia, bardzo ułatwiająca przygotowanie do sprzedaży. Owoce wyrównane, z grubą ścianką miąższu i niewielką komorą nasienną. Duża zawartość suchej masy sprzyja długiemu przechowywaniu. Jest to także istotna zaleta dla zakładów przetwórczych, ponieważ dzięki przechowywaniu możliwe jest wydłużenie kampanii produkcyjnej, a wyższa zawartość suchej masy zmniejsza straty spowodowane odparowaniem wody oraz zagniwaniem obranego produktu."
+    },
+    "dunja":{
+        "active": true,
+        "new": false,
+        "name": "Dunja",
+        "imgs":["/cukinie/dunja.jpg"],
+        "guardian": "Piotr Pietrzak",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "PP",
+        "color": "#467F31",
+        "type":"?",
+        "segment": "cukinia",
+        "intended": ["?"],
+        "plant_color": "pomarańczowy",
+        "compaction": {
+            "value": "9-10",
+            "unit": "tys./ha"
+        },
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance": ["IR: Px/ZYMV/WMV/PRSV"],
+        "description": "Odmiana o ciemnozielonym, lekko cętkowanym owocu z niewielką szypułką. Roślina wzniesiona, co zapewnia dobrej jakości owoce bez przebarwień. Dużą zaletą jest zwarty pokrój rośliny, ułatwiający ochronę i zbiór owoców. Odporność na wirusy daje przewagę nad starszymi odmianami i gwarantuje pewny, niezawodny plon. Odmiana polecana do uprawy z przeznaczeniem na świeży rynek."
+    },
+    "keesha":{
+        "active": true,
+        "new": true,
+        "name": "Keesha",
+        "imgs":["/cukinie/keesha.jpg"],
+        "guardian": "Piotr Pietrzak",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "PP",
+        "color": "#467F31",
+        "type":"?",
+        "segment": "cukinia",
+        "intended": ["?"],
+        "plant_color": "pomarańczowy",
+        "compaction": {
+            "value": "9-10",
+            "unit": "tys./ha"
+        },
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance": ["IR: Px/CMV/ZYMV/WMV/PRSV"],
+        "description": "Keesha to nowa odmiana cukinii przeznaczona na świeży rynek. Średnia odporność na wirusy to ważny atut tej odmiany. Owoce, o atrakcyjnej ciemnej skórce, znajdują się na wzniesionej, silnie skróconej łodydze. Dużą zaletą tej odmiany są zredukowane kolce na ogonku liściowym, co znacznie przyspiesza i ułatwia zbiór. Keesha nadaje się także do produkcji w tunelach foliowych i prowadzenia roślin przy sznurku."
+    },
+    "yellowfin":{
+        "active": true,
+        "new": true,
+        "name": "Yellowfin",
+        "imgs":["/cukinie/yellowfin.jpg"],
+        "guardian": "Piotr Pietrzak",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "PP",
+        "color": "#467F31",
+        "type":"?",
+        "segment": "cukinia",
+        "intended": ["?"],
+        "plant_color": "pomarańczowy",
+        "compaction": {
+            "value": "9-10",
+            "unit": "tys./ha"
+        },
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance": ["IR: Px"],
+        "description": "Yellowfin to odmiana o żółtych owocach, która może być wykorzystywana do produkcji na świeży rynek, jak i do przetwórstwa. Owoce długo utrzymują jakość po zbiorze. Odmiana ta uzupełnia kolorystyczną gamę cukinii, bardzo ładnie prezentując się z zielonymi odmianami, z Dunją lub Keeshą."
+    },
+    "takstar":{
+        "active": true,
+        "new": false,
+        "name": "Takstar",
+        "imgs":["/cebule/takstar.jpg"],
+        "guardian": "Paweł Wechterowicz",
+        "hybrid": true,
+        "provider": "takii",
+        "crop": "ON",
+        "color": "#467F31",
+        "type":"japoński",
+        "segment": "cebula",
+        "intended": ["świeży rynek", "przemysł"],
+        "production": ["siew", "rozsada"],
+        "compaction": {
+            "value": "750.000-1.000.000",
+            "unit": "nasion/ha"
+        },
+        "caliber": {
+            "value": "50-70",
+            "unit": "mm"
+        },
+        "harvest_maturity": "najwcześniejsza",
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Takstar, cebula dnia długiego, to najszybsza z cebul w naszym asortymencie. Odmiana ta może być wysiewana jako pierwsza, gdy tylko warunki pogodowe pozwalają na rozpoczęcie uprawy. Wykazuje bardzo dużą odporność na wybijanie w pędy kwiatostanowe. Cebula jest okrągła, jednolita, z cienką szyjką. Ładny kolor łuski czyni tę odmianę niezwykle atrakcyjną do sprzedaży w worku, choć także często wykorzystywana jest w przemyśle ze względu na łatwość obierania oraz wysoką zawartość suchej masy. Takstar jest niezwykle uniwersalny, polecany również do obrotu na świeżym rynku i na zbiór pęczkowy. To podstawowa odmiana polecana do produkcji z rozsady."
+    },
+    "superon":{
+        "active": true,
+        "new": true,
+        "name": "Superon",
+        "imgs":["/cebule/superon.jpg"],
+        "guardian": "Paweł Wechterowicz",
+        "hybrid": true,
+        "provider": "takii",
+        "crop": "ON",
+        "color": "#467F31",
+        "type":"japoński",
+        "segment": "cebula",
+        "intended": ["świeży rynek", "przemysł"],
+        "production": ["siew", "rozsada"],
+        "compaction": {
+            "value": "750.000-1.000.000",
+            "unit": "nasion/ha"
+        },
+        "caliber": {
+            "value": "50-70",
+            "unit": "mm"
+        },
+        "harvest_maturity": "najwcześniejsza",
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Superon, cebula dnia długiego, bardzo wcześnie osiąga dojrzałość zbiorczą. Wysiew jest możliwy, gdy tylko warunki pozwolą wjechać w pole. Odmiana nie jest wrażliwa na wiosenne przymrozki, szybko tworzy mocny system korzeniowy i rozwija silny pokrój roślin. Dzięki temu można ją dostosować do różnych warunków uprawy. Cebule są duże i ciężkie, możliwy jest plon 70-80 ton z zastosowaniem nawodnienia. Delikatna szyjka umożliwia łatwe i szybkie suszenie, dzięki lśniącej brązowej łusce idealna do pakowania „na worek”. Zbiór cebul możliwy jest już od lipca (zbiór na pęczki). Pierwsza do siewu i do zbioru."
+    },
+    "takmark":{
+        "active": true,
+        "new": false,
+        "name": "Takmark",
+        "imgs":["/cebule/takmark.jpg"],
+        "guardian": "Paweł Wechterowicz",
+        "hybrid": true,
+        "provider": "takii",
+        "crop": "ON",
+        "color": "#467F31",
+        "type":"japoński",
+        "segment": "cebula",
+        "intended": ["świeży rynek", "przemysł"],
+        "production": ["siew", "rozsada"],
+        "compaction": {
+            "value": "750.000-1.000.000",
+            "unit": "nasion/ha"
+        },
+        "caliber": {
+            "value": "50-70",
+            "unit": "mm"
+        },
+        "harvest_maturity": "bardzo wczesna",
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Takmark to druga najwcześniejsza odmiana w naszym asortymencie. Ze względu na silniejszy system korzeniowy polecana jest głównie do wysiewu na glebach słabszych. Jest ona także trochę wolniejsza od Takstara, ale rekompensuje to łatwiejszą produkcją i dobrym plonem, szczególnie na stanowiskach bez możliwości nawadniania. Bardzo jednorodna w dojrzewaniu i doskonale wyrównana, stabilna pod względem plonowania. Dobrze znosi dodatkowe nawożenie azotowe, wtedy cebule osiągają większy rozmiar. Odmiana średnio odporna na Fusarium. Cienka szyjka umożliwia szybkie zasychanie łuski i krótkie przechowywanie cebuli."
+    },
+    "bonus":{
+        "active": true,
+        "new": false,
+        "name": "Bonus",
+        "imgs":["/cebule/bonus.jpg"],
+        "guardian": "Paweł Wechterowicz",
+        "hybrid": true,
+        "provider": "takii",
+        "crop": "ON",
+        "color": "#467F31",
+        "type":"japoński",
+        "segment": "cebula",
+        "intended": ["świeży rynek", "krótkie przechowywanie"],
+        "production": ["siew", "rozsada"],
+        "compaction": {
+            "value": "750.000-1.000.000",
+            "unit": "nasion/ha"
+        },
+        "caliber": {
+            "value": "50-80",
+            "unit": "mm"
+        },
+        "harvest_maturity": "bardzo wczesna",
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Bonus to odmiana znana i ceniona za rekordowy i stabilny plon oraz doskonałe wyrównanie niemal idealnie okrągłych cebul. Odmianę tę można wysiewać już od połowy marca, co odróżnia ją od mieszańców w typie hiszpańskim, gdyż potrzebuje czasu, by zbudować system korzeniowy. W uprawie należy zwrócić uwagę, aby nie nawozić jej nadmiernie azotem, szczególnie w końcowej fazie uprawy, co umożliwi przechowywanie cebuli nawet do lutego. Wzniesiony szczypior, duży przyrost masy cebul po załamaniu szczypioru oraz równomierne załamywanie szczypioru to cechy charakterystyczne tej odmiany. Do zbioru „na worek” cebulę tę należy kopać po załamaniu szczypioru, wtedy uzyskujemy najlepszą jakość łuski. Odmiana ta może być również zbierana w pęczki."
+    },
+    "medusa":{
+        "active": true,
+        "new": false,
+        "name": "Medusa",
+        "imgs":["/cebule/medusa.jpg"],
+        "guardian": "Paweł Wechterowicz",
+        "hybrid": true,
+        "provider": "takii",
+        "crop": "ON",
+        "color": "#467F31",
+        "type":"japoński",
+        "segment": "cebula",
+        "intended": ["świeży rynek", "przemysł" ,"średnio przechowywanie", "długie przechowywanie"],
+        "production": ["siew"],
+        "compaction": {
+            "value": "550.000-800.000",
+            "unit": "nasion/ha"
+        },
+        "caliber": {
+            "value": "60-90",
+            "unit": "mm"
+        },
+        "harvest_maturity": "wczesna",
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Medusa to cebula dnia długiego, specjalnie opracowana, by zmaksymalizować plon. Idealne wyrównanie, bardzo silny system korzeniowy i mocny pokrój rośliny to cechy, które gwarantują jej większą odporność na czynniki stresowe, takie jak wysoka temperatura czy okresowe niedobory wody. Upalne lata nie są dla niej przeszkodą i nie wpływają negatywnie na uzyskanie wysokiego plonu. Siew w kwietniu, zbiór pod koniec sierpnia lub na początku września. Idealna do obierania mechanicznego – dzięki wyrównaniu cebul łatwo ustawić maszyny i zminimalizować odpad."
+    },
+    "vuelta":{
+        "active": true,
+        "new": false,
+        "name": "Vuelta",
+        "imgs":["/cebule/vuelta.jpg"],
+        "guardian": "Paweł Wechterowicz",
+        "hybrid": true,
+        "provider": "takii",
+        "crop": "ON",
+        "color": "#467F31",
+        "type":"hiszpański",
+        "segment": "cebula",
+        "intended": ["przemysł"],
+        "production": ["siew"],
+        "compaction": {
+            "value": "550.000-800.000",
+            "unit": "nasion/ha"
+        },
+        "caliber": {
+            "value": "70-90",
+            "unit": "mm"
+        },
+        "harvest_maturity": "późna",
+        "storage": "do końca grudnia",
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Medusa to cebula dnia długiego, specjalnie opracowana, by zmaksymalizować plon. Idealne wyrównanie, bardzo silny system korzeniowy i mocny pokrój rośliny to cechy, które gwarantują jej większą odporność na czynniki stresowe, takie jak wysoka temperatura czy okresowe niedobory wody. Upalne lata nie są dla niej przeszkodą i nie wpływają negatywnie na uzyskanie wysokiego plonu. Siew w kwietniu, zbiór pod koniec sierpnia lub na początku września. Idealna do obierania mechanicznego – dzięki wyrównaniu cebul łatwo ustawić maszyny i zminimalizować odpad."
+    },
+    "bruce":{
+        "active": true,
+        "new": true,
+        "name": "Bruce",
+        "imgs":["/cebule/bruce.jpg"],
+        "guardian": "Paweł Wechterowicz",
+        "hybrid": true,
+        "provider": "takii",
+        "crop": "ON",
+        "color": "#467F31",
+        "type":"rijnsburger",
+        "segment": "cebula",
+        "intended": ["długie przechowanie"],
+        "production": ["siew"],
+        "compaction": {
+            "value": "700.000-1.000.000",
+            "unit": "nasion/ha"
+        },
+        "caliber": {
+            "value": "50-80",
+            "unit": "mm"
+        },
+        "harvest_maturity": "średnio późna",
+        "storage": "do maja",
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Bruce to nowa odmiana typu Rijnsburger przeznaczona do długiego przechowywania. Wysoka zawartość suchej masy gwarantuje niskie straty oraz niewielkie zagrożenie wystąpieniem chorób. Dobre wyrównanie, silny wczesny wzrost i późne załamywanie szczypioru przekładają się na większy plon handlowy w stosunku do plonu całkowitego (niewiele cebul poniżej 50 mm). Roślina jest ciemnozielona i ma wzniesiony pokrój, który zapewnia dobrą wentylację w uprawie. Cebule są okrągłe, z mocno przylegającą brązową łuską. Siew po największych przymrozkach, zbiór we wrześniu."
+    },
+    "senshyu_yellow":{
+        "active": true,
+        "new": false,
+        "name": "Senshyu Yellow",
+        "imgs":["/cebule/senshyu_yellow.jpg"],
+        "guardian": "Paweł Wechterowicz",
+        "hybrid": true,
+        "provider": "takii",
+        "crop": "ON",
+        "color": "#467F31",
+        "type":"zimująca",
+        "segment": "cebula",
+        "intended": ["świeży rynek"],
+        "production": ["siew"],
+        "compaction": {
+            "value": "625.000-1.125.000",
+            "unit": "nasion/ha"
+        },
+        "caliber": {
+            "value": "50-60",
+            "unit": "mm"
+        },
+        "harvest_maturity": "średnio późna",
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Senshyu Yellow to znana i ceniona odmiana zimująca, podstawowa na polskim rynku. Charakteryzuje się wysoką tolerancją na niskie temperatury w czasie zimy. Odmiana używana jako pierwsza do zbioru na pęczki bez zaschniętej łuski, a później, już po zaschnięciu łuski, do sprzedaży na worki. Odmiana wyróżnia się wysoką odpornością na mrozy i niezawodnością. W naszych warunkach klimatycznych daje wysoki plon okrągłych cebul o żółtobrązowej łusce."
+    },
+    "sonic":{
+        "active": true,
+        "new": true,
+        "name": "Sonic",
+        "imgs":["/cebule/sonic.jpg"],
+        "guardian": "Paweł Wechterowicz",
+        "hybrid": true,
+        "provider": "takii",
+        "crop": "ON",
+        "color": "#467F31",
+        "type":"zimująca",
+        "segment": "cebula",
+        "intended": ["świeży rynek"],
+        "production": ["siew"],
+        "compaction": {
+            "value": "700 000-1 000 000",
+            "unit": "nasion/ha"
+        },
+        "caliber": {
+            "value": "60-80",
+            "unit": "mm"
+        },
+        "harvest_maturity": "wczesna",
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Sonic to wczesna mieszańcowa odmiana z segmentu cebul zimujących. Odmiana wytwarza ciemnozielone ulistnienie o średniej długości. Cebule są okrągłe lub lekko płasko-okrągłe, z ładną łuską i cienką szyjką. Przy dobrym wejściu w spoczynek zimowy (tj. trzy liście właściwe i szyjka grubości ołówka) nie ma tendencji do wybijania w pęd kwiatowy."
+    },
+    "tough_ball":{
+        "active": true,
+        "new": true,
+        "name": "Tough Ball",
+        "imgs":["/cebule/tough_ball.jpg"],
+        "guardian": "Paweł Wechterowicz",
+        "hybrid": true,
+        "provider": "takii",
+        "crop": "ON",
+        "color": "#467F31",
+        "type":"zimująca",
+        "segment": "cebula",
+        "intended": ["świeży rynek"],
+        "production": ["siew"],
+        "compaction": {
+            "value": "625 000-1 000 000",
+            "unit": "nasion/ha"
+        },
+        "caliber": {
+            "value": "60-80",
+            "unit": "mm"
+        },
+        "harvest_maturity": "wczesna",
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Tough Ball to szybko rosnąca odmiana mieszańcowa, odporna na wybijanie w pęd kwiatostanowy. Odmiana ma ciemnozielone liście. Cebule są okrągłe, z cienką szyjką. Miąższ jest jędrny, a skórka mocna, o żółtobrązowym zabarwieniu. Tough Ball to odmiana o wysokiej wydajności i może być używana do siewu przy mniejszej gęstości."
+    },
+    "galatea":{
+        "active": true,
+        "new": true,
+        "name": "Galatea",
+        "imgs":["/cebule/galatea.jpg"],
+        "guardian": "Paweł Wechterowicz",
+        "hybrid": true,
+        "provider": "takii",
+        "crop": "ON",
+        "color": "#467F31",
+        "type":"zimująca",
+        "segment": "cebula",
+        "intended": ["świeży rynek"],
+        "production": ["siew"],
+        "compaction": {
+            "value": "625 000-750 000",
+            "unit": "nasion/ha"
+        },
+        "caliber": {
+            "value": "60-70",
+            "unit": "mm"
+        },
+        "harvest_maturity": "wczesna",
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Cebula Galatea jest odmianą mieszańcową charakteryzującą się bardzo dobrym wyrównaniem i wysokim plonem. Ma kształt kulisty o pokroju nieco wydłużonym i atrakcyjną, brązową, mocną łuskę. Bardzo łatwa i szybka do obierania na „biało” i dobrze prezentująca się w worku. Galatea wyróżnia się wysoką zdrowotnością, silnym, prostym szczypiorem o ciemnozielonym kolorze i cienką szyjką. Jest odmianą nieco późniejszą od odmiany Sonic, również bez tendencji do wybijania w pęd kwiatostanowy. Tworzy średnie i duże cebule. Nasi południowi sąsiedzi cenią ją za niezawodność i wyrównanie."
+    },
+    "monastrell":{
+        "active": true,
+        "new": true,
+        "name": "Monastrell",
+        "imgs":["/cebule/monastrell.jpg"],
+        "guardian": "Paweł Wechterowicz",
+        "hybrid": true,
+        "provider": "takii",
+        "crop": "ON",
+        "color": "#467F31",
+        "type":"czerwona Rijnsburger",
+        "segment": "cebula",
+        "intended": ["świeży rynek", "przechowanie"],
+        "production": ["siew"],
+        "compaction": {
+            "value": "750 000-1 000 000",
+            "unit": "nasion/ha"
+        },
+        "caliber": {
+            "value": "70-100",
+            "unit": "mm"
+        },
+        "harvest_maturity": "średnio późna",
+        "storage": "do marca",
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Monastrell to cebula dnia średniego, która wyróżnia się wysokiej jakości cebulami jednocentrycznymi. Odmiana o ciemnoczerwonym kolorze łuski i o lekko spłaszczonym kształcie. Dzięki silnej woskowej okrywie cebule są odporne na oparzenia słoneczne. Pokrój szczypioru prosty, luźny i przewiewny, co bardzo ułatwia zabiegi pestycydowe. Cebula o dużym kalibrażu, nawet przekraczającym 10 cm. Odmiana polecana na świeży rynek lub do przechowywania do 6 miesięcy."
+    },
+    "ruby_star":{
+        "active": true,
+        "new": true,
+        "name": "Ruby Star",
+        "imgs":["/cebule/ruby_star.jpg"],
+        "guardian": "Paweł Wechterowicz",
+        "hybrid": true,
+        "provider": "takii",
+        "crop": "ON",
+        "color": "#467F31",
+        "type":"czerwona Rijnsburger",
+        "segment": "cebula",
+        "intended": ["przemysł", "przechowanie"],
+        "production": ["siew"],
+        "compaction": {
+            "value": "750 000 -875 000",
+            "unit": "nasion/ha"
+        },
+        "caliber": {
+            "value": "60-70",
+            "unit": "mm"
+        },
+        "harvest_maturity": "średnio późna",
+        "storage": "do marca",
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Odmianę Ruby Star cechuje bardzo dobre wyrównanie oraz to, że można ją zebrać z pola trochę wcześniej niż inne odmiany w typie Rijnsburger. Błyszcząca i ciemnoczerwona łuska umożliwia sprzedaż cebuli tuż po zbiorze. Ze względu na dużą zawartość suchej masy odmiana ta przeznaczona jest głównie do przechowywania. Cechuje ją dobre wybarwienie wewnętrzne po zbiorze."
+    },
+    "kaigaro":{
+        "active": true,
+        "new": false,
+        "name": "Kaigaro",
+        "imgs":["/cebule/kaigaro.jpg"],
+        "guardian": "Paweł Wechterowicz",
+        "hybrid": true,
+        "provider": "ezpl",
+        "crop": "ON",
+        "color": "#467F31",
+        "type":"siedmiolatka (szczypior pęczkowy)",
+        "segment": "cebula",
+        "intended": ["?"],
+        "production": ["siew"],
+        "compaction": {
+            "value": "2,5-10",
+            "unit": "mln nasion/ha",
+            "disclaimer": "(zależy od sposobu i przeznaczenia uprawy)"
+        },
+        "harvest_maturity": "średnio wczesna",
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Kaigaro to bardzo wydajna odmiana ustalona cebuli pęczkowej. Atrakcyjny zielony kolor, długa część biała i wzniesiony pokrój liści sprawiają, że jest to bardzo popularna i chętnie uprawiana cebula na szczypior. Nie tworzy zgrubienia cebulowego i nadaje się do produkcji przez cały rok zarówno w tunelach, jak i w odkrytym gruncie."
+    },
+    "estafette":{
+        "active": true,
+        "new": false,
+        "name": "Estafette",
+        "imgs":["/cebule/estafette.jpg"],
+        "guardian": "Paweł Wechterowicz",
+        "hybrid": true,
+        "provider": "takii",
+        "crop": "ON",
+        "color": "#467F31",
+        "type":"siedmiolatka (szczypior pęczkowy)",
+        "segment": "cebula",
+        "intended": ["?"],
+        "production": ["siew"],
+        "compaction": {
+            "value": "2-10",
+            "unit": "mln nasion/ha",
+            "disclaimer": "(zależy od sposobu i przeznaczenia uprawy)"
+        },
+        "harvest_maturity": "wczesna",
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance":["HR: mączniak rzekomy"],
+        "description": "Wyrównana, produktywna i bardzo uniwersalna odmiana, którą możemy uprawiać od wiosny do jesieni. Łatwa w zbiorze i czyszczeniu. Długi szczypior o atrakcyjnym zielonym kolorze."
+    },
+    "tycoon":{
+        "active": true,
+        "new": false,
+        "name": "Tycoon",
+        "imgs":["/cebule/tycoon.jpg"],
+        "guardian": "Paweł Wechterowicz",
+        "hybrid": true,
+        "provider": "takii",
+        "crop": "ON",
+        "color": "#467F31",
+        "type":"siedmiolatka (szczypior pęczkowy)",
+        "segment": "cebula",
+        "intended": ["?"],
+        "production": ["siew"],
+        "compaction": {
+            "value": "2,5-10",
+            "unit": "mln nasion/ha",
+            "disclaimer": "(zależy od sposobu i przeznaczenia uprawy)"
+        },
+        "harvest_maturity": "średnio wczesna",
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance":["HR: mączniak rzekomy"],
+        "description": "Tycoon jest odmianą o wzniesionym, długim szczypiorze. Zielony kolor liści utrzymuje się przez długi okres, dzięki czemu jest to odmiana bardzo pewna. Dobrze znosi wysokie temperatury."
+    },
+    "feast":{
+        "active": true,
+        "new": false,
+        "name": "Feast",
+        "imgs":["/cebule/feast.jpg"],
+        "guardian": "Paweł Wechterowicz",
+        "hybrid": true,
+        "provider": "takii",
+        "crop": "ON",
+        "color": "#467F31",
+        "type":"siedmiolatka (szczypior pęczkowy)",
+        "segment": "cebula",
+        "intended": ["?"],
+        "production": ["siew"],
+        "compaction": {
+            "value": "2,5-10",
+            "unit": "mln nasion/ha",
+            "disclaimer": "(zależy od sposobu i przeznaczenia uprawy)"
+        },
+        "harvest_maturity": "średnio wczesna",
+        "planting": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance":["IR: mączniak rzekomy i grzyby z rodzaju Alternaria"],
+        "description": "Odmiana o wzniesionym szczypiorze, osiągającym długość 40-50 cm. Liście charakteryzują się ciemnozielonym kolorem oraz atrakcyjnym połyskiem. Odmiana tworzy wąską i wyrównaną szyjkę, idealnie nadającą się do pęczkowania. Rekomendowana do uprawy wiosną i latem."
+    },
+    "chinook":{
+        "active": true,
+        "new": false,
+        "name": "Chinook",
+        "imgs":["/pory/chinook.jpg"],
+        "guardian": "Paweł Wechterowicz",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LK",
+        "color": "#467F31",
+        "type":"najszybszy na zbiór bardzo wczesny i wczesny",
+        "segment": "por",
+        "intended": ["świeży rynek"],
+        "production": ["siew"],
+        "compaction": {
+            "value": "?",
+            "unit": "nasion/ha"
+        },
+        "leafs": {
+            "color": "zielony",
+            "sort": "wzniesiony"
+        },
+        "earlys": "wczesny",
+        "sowing": [12, 1],
+        "planting": [2, 4],
+        "harvest": [5, 7],
+        "cultivation": ["grunt"],
+        "description": "Chinook to szybko rosnący wczesny mieszaniec do uprawy wczesną wiosną w niskich tunelach, pod okryciem i bez okrywania. Łatwo przyjmuje się po wysadzeniu na miejsce stałe, a ponadto wyróżnia się szybkim tempem wzrostu w chłodniejszych temperaturach oraz wysoką tolerancją za zagniwanie. Dodatkowym atutem jest szybkie tworzenie łodygi, co zwiększa uniwersalność tej odmiany zarówno do sprzedaży pęczkowej, jak i na sztuki i kilogramy."
+    },
+    "comanche":{
+        "active": true,
+        "new": false,
+        "name": "Comanche",
+        "imgs":["/pory/comanche.jpg"],
+        "guardian": "Paweł Wechterowicz",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LK",
+        "color": "#467F31",
+        "type":"Letni, wczesnojesienny na pęczki i kilogramy",
+        "segment": "por",
+        "intended": ["świeży rynek", "pęczki", "przemysł"],
+        "production": ["siew"],
+        "compaction": {
+            "value": "?",
+            "unit": "nasion/ha"
+        },
+        "leafs": {
+            "color": "zielony",
+            "sort": "wzniesiony"
+        },
+        "earlys": "średnio wczesny",
+        "sowing": [2, 4],
+        "direct_sowing": [3, 5],
+        "planting": [4, 6],
+        "harvest": [7, 10],
+        "cultivation": ["grunt"],
+        "description": "Odmiana do zbioru w okresie wczesnoletnim i jesiennym. Tworzy długie, wyrównane łodygi rzekome, zapewniając wysoki plon przy jednoczesnych niższych kosztach przygotowania. Może być sprzedawany na sztuki, pęczki, kilogramy oraz jako por cięty na tackach. Ze względu na bardzo wyrównane wschody może być uprawiany nie tylko z rozsady, ale również z siewu bezpośredniego."
+    },
+    "cherokee":{
+        "active": true,
+        "new": false,
+        "name": "Cherokee",
+        "imgs":["/pory/cherokee.jpg"],
+        "guardian": "Paweł Wechterowicz",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LK",
+        "color": "#467F31",
+        "type":"Jesienny do przechowywania",
+        "segment": "por",
+        "intended": ["świeży rynek", "przemysł"],
+        "production": ["siew"],
+        "compaction": {
+            "value": "?",
+            "unit": "nasion/ha"
+        },
+        "leafs": {
+            "color": "ciemny niebieskozielony",
+            "sort": "wzniesiony"
+        },
+        "earlys": "późny, jesienny",
+        "sowing": [2, 4],
+        "direct_sowing": [3, 4],
+        "planting": [5, 6],
+        "harvest": [9, 11],
+        "cultivation": ["grunt"],
+        "description": "Odmiana o ugruntowanej pozycji na rynku o ciemnym kolorze liści, atrakcyjnym wyglądzie i długiej części wybielonej. Wysoka odporność na choroby i szkodniki obniża koszty produkcji. Długie okno zbiorcze pozwala na zachowanie wysokiej jakości w okresach mniejszej sprzedaży. Szybka regeneracja po warunkach stresowych ułatwia prowadzenie produkcji. Wysoka zawartość suchej masy zapewnia dobry plon, a uzyskany produkt może być sprzedawany zarówno na rynek świeży, jak i do przetwórstwa."
+    },
+    "oslo":{
+        "active": true,
+        "new": false,
+        "name": "oslo",
+        "imgs":["/pory/oslo.jpg"],
+        "guardian": "Paweł Wechterowicz",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "LK",
+        "color": "#467F31",
+        "type":"Jesienny do przechowywania",
+        "segment": "por",
+        "intended": ["świeży rynek"],
+        "production": ["siew"],
+        "compaction": {
+            "value": "?",
+            "unit": "nasion/ha"
+        },
+        "leafs": {
+            "color": "ciemny niebieskozielony",
+            "sort": "mocno wzniesiony"
+        },
+        "earlys": "późny",
+        "sowing": [3, 4],
+        "planting": [6, 7],
+        "harvest": [11, 5],
+        "cultivation": ["grunt"],
+        "description": "Nasza najnowsza i najpóźniejsza odmiana pora. Przeznaczona do zbioru późną jesienią, zimą i po przezimowaniu. Liście ciemnoniebieskie, z wysoką odpornością na choroby i szkodniki. Ciężka łodyga rzekoma zapewnia wysoki plon, a co za tym idzie – wysokie przychody. Z kolei mocno wzniesiony pokrój przyśpiesza zbiór i zmniejsza pracochłonność, a nisko osadzona broda korzeniowa zwiększa szybkość i łatwość przygotowania do sprzedaży i jednocześnie ogranicza koszty. Odmiana ta bardzo dobrze sprawdza się po przezimowaniu, łatwo i szybko się regeneruje. Istotną jej zaletą jest wysoka odporność na wybijanie w kwiat."
+    },
+    "dragoney":{
+        "active": true,
+        "new": false,
+        "name": "Dragoney",
+        "imgs":["/papryki/dragoney.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "SP",
+        "color": "#467F31",
+        "type":"blok",
+        "segment": "słodka papryka",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "nasion/ha"
+        },
+        "size": {
+            "value": "90-110",
+            "unit": "mm"
+        },
+        "weight": {
+            "value": "250",
+            "unit": "g"
+        },
+        "frut_color": ["zielony", "czerwony"],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance":["HR: Tm:0-3", "IR: TSWV:0"],
+        "description": "Dragoney tworzy mocne rośliny o luźnym pokroju. Silny system korzeniowy jest wielkim ułatwieniem w produkcji i dobrze regeneruje wzrost nawet po podtopieniu roślin. Dragoney wyróżnia się wysoką tolerancją na uwiądy powodowane przez grzyby z rodzajów Fusarium i Verticillium, co zapewnia bezpieczeństwo uprawy na starych stanowiskach. Owoce duże, o średnicy 90-100 mm, lekko wydłużone, zwykle 4-komorowe. Dużą zaletą tej odmiany jest jakość owoców: kształt, wyrównana wielkość, twardość i ciemnoczerwony kolor przez cały okres produkcji. Dzięki dobremu wiązaniu Dragoney gwarantuje wysoki i równomierny plon."
+    },
+    "maduro":{
+        "active": true,
+        "new": false,
+        "name": "Maduro",
+        "imgs":["/papryki/maduro.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "SP",
+        "color": "#467F31",
+        "type":"blok",
+        "segment": "słodka papryka",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "nasion/ha"
+        },
+        "size": {
+            "value": "90-100",
+            "unit": "mm"
+        },
+        "weight": {
+            "value": "250-300",
+            "unit": "g"
+        },
+        "frut_color": ["zielony", "czerwony"],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance":["HR: Tm:0-2"],
+        "description": "Bardzo wczesna odmiana do uprawy w tunelach foliowych. Rośliny o średniej długości międzywęźli, utrzymujące dobry wigor przez długi okres uprawy. Maduro zachowuje równowagę cech generatywnych i wzrostu wegetatywnego, dzięki czemu stabilnie i niezawodnie plonuje przez cały okres uprawy. Szybko odbudowuje wzrost po okresie dużego obciążenia owocami. Owoce 3-4-komorowe, szybko przebarwiające się na czerwony kolor, a przy tym długo zachowujące trwałość w handlu. Owoce Maduro bardzo łatwo wyłamują się w kolanku, przez co ich zbiór jest szybki. Wyrównanie kształtu, twardość i połysk zapewniają atrakcyjny wygląd. Odmiana o wysokiej odporności na suchą zgniliznę wierzchołkową."
+    },
+    "devito":{
+        "active": true,
+        "new": false,
+        "name": "Devito",
+        "imgs":["/papryki/devito.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "SP",
+        "color": "#467F31",
+        "type":"blok",
+        "segment": "słodka papryka",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "nasion/ha"
+        },
+        "size": {
+            "value": "90-110",
+            "unit": "mm"
+        },
+        "weight": {
+            "value": "220-250",
+            "unit": "g"
+        },
+        "frut_color": ["zielony", "żółty"],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance":["HR: Tm:0-2", "IR: TSWV:0"],
+        "description": "Rośliny o dobrym wigorze, dobrze zawiązujące owoce w różnych warunkach uprawowych. Odmiana wczesna i bardzo plenna. Owoce duże, kształtne, w większości o średnicy powyżej 90 mm, łatwe do zbioru z szypułką. Skórka bez mikrospękań, owoce zachowują wysoką jakość, typową wielkość i ładny kolor do końca sezonu."
+    },
+    "banckers":{
+        "active": true,
+        "new": false,
+        "name": "Banckers",
+        "imgs":["/papryki/banckers.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "SP",
+        "color": "#467F31",
+        "type":"blok",
+        "segment": "słodka papryka",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "nasion/ha"
+        },
+        "size": {
+            "value": "90-110",
+            "unit": "mm"
+        },
+        "weight": {
+            "value": "250",
+            "unit": "g"
+        },
+        "frut_color": ["zielony", "żółty"],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance":["HR: Xcv:1-3,5/PepMoV/PVY:0-1/Tm:0", "IR: TEV"],
+        "description": "Rośliny o bardzo mocnym systemie korzeniowym, silnie rosnące, o wysokiej tolerancji na uwiądy powodowane przez patogeny odglebowe. Polecamy tę odmianę do uprawy na stanowiskach, gdzie występują największe problemy z wypadami roślin. Banckers jest odmianą bardzo plenną, dobrze zawiązuje owoce w różnych warunkach pogodowych. Owoce są duże, o masie ok. 250 g i średnicy powyżej 90 mm. Gruba ściana, mocna skórka, ciemna zieleń zapewniają atrakcyjny wygląd, a wolne przejście na kolor czerwony gwarantuje dobrą trwałość i jakość. Zalecamy zbiór owoców zielonych przez cały okres uprawy."
+    },
+    "sixto":{
+        "active": true,
+        "new": true,
+        "name": "Sixto",
+        "imgs":["/papryki/sixto.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "SP",
+        "color": "#467F31",
+        "type":"długi stożek, tępo zakończony",
+        "segment": "słodka papryka",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "nasion/ha"
+        },
+        "size": {
+            "value": "22 x 6",
+            "unit": "cm"
+        },
+        "weight": {
+            "value": "?",
+            "unit": "g"
+        },
+        "frut_color": ["zielony", "czerwony"],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance":["HR: Tm:0-3", "IR: TSWV/MaMiMj"],
+        "description": "Sixto – odmiana w typie Dulce Italiana. Rośliny są średnio wysokie, o otwartym pokroju, z mocnym wigorem i o dobrej zdrowotności. Odmiana bardzo plenna, wiąże dużą liczbę owoców o wydłużonym kształcie, z lekko pofałdowaną powierzchnią. Długość owoców wynosi ok. 22 cm, szerokość – ok. 6 cm. Owoce wyróżniają się bardzo dobrym smakiem. Dzięki wysokiej zawartości cukrów odmiana polecana do spożycia na świeżo i do zastosowań kulinarnych."
+    },
+    "shakira":{
+        "active": true,
+        "new": false,
+        "name": "Shakira",
+        "imgs":["/papryki/shakira.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "SP",
+        "color": "#467F31",
+        "type":"wąski stożek",
+        "segment": "ostra papryka",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "nasion/ha"
+        },
+        "size": {
+            "value": "17 x 3",
+            "unit": "cm"
+        },
+        "weight": {
+            "value": "?",
+            "unit": "g"
+        },
+        "frut_color": ["zielony", "czerwony"],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance":["HR: Tm:0-3", "IR: TSWV/MaMiMj"],
+        "description": "Rośliny wysokie, luźne, wiążące dużą liczbę owoców. Odmiana bardzo plenna. Owoce stożkowe, o ostrym smaku, przebarwiające się na intensywnie czerwony kolor."
+    },
+    "cuatrero":{
+        "active": true,
+        "new": false,
+        "name": "Cuatrero",
+        "imgs":["/papryki/cuatrero.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "SP",
+        "color": "#467F31",
+        "type":"jalapeño, stożek",
+        "segment": "ostra papryka",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "nasion/ha"
+        },
+        "size": {
+            "value": "9-10 x 3",
+            "unit": "cm"
+        },
+        "weight": {
+            "value": "?",
+            "unit": "g"
+        },
+        "frut_color": ["zielony", "czerwony"],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["grunt"],
+        "resistance":["HR: Xcv:1,4/PVY:0/Tm:0", "IR: MaMiMj"],
+        "description": "Roślina zwarta, liście dobrze osłaniają owoce. Owoce duże, o wyrównanej wielkości przez cały okres zbiorów. Bardzo ostry smak owoców."
+    },
+    "tenace":{
+        "active": true,
+        "new": false,
+        "name": "Tenace",
+        "imgs":["/fenkul/tenace.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "FK",
+        "color": "#467F31",
+        "type":"fenkuł",
+        "segment": "koper włoski",
+        "intended": ["świeży rynek", "przetwórstwo"],
+        "production": ["?"],
+        "compaction": {
+            "value": "70-80",
+            "unit": "tys./ha"
+        },
+        "vegetation": {
+            "value": "~70",
+            "unit": "dni"
+        },
+        "planting": [4, 5],
+        "harvest": [7],
+        "cultivation": ["grunt"],
+        "resistance":["HR: Tolerancja na jarowizację"],
+        "description": "Roślina o wzniesionym pokroju i krótszych liściach. Po osiągnięciu dojrzałości zbiorczej zgrubienie ma ładny, okrągły kształt oraz błyszczącą białą skórkę, atrakcyjnie kontrastującą z zielonym kolorem łodyg i liści. Odmiana wczesna, odpowiednia do gęstszych nasadzeń, łatwa w zbiorze. Wysoka tolerancja na wybijanie w pędy kwiatowe sprawia, że doskonale nadaje się na wczesne terminy."
+    },
+    "preludio":{
+        "active": true,
+        "new": false,
+        "name": "Preludio",
+        "imgs":["/fenkul/preludio.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "FK",
+        "color": "#467F31",
+        "type":"fenkuł",
+        "segment": "koper włoski",
+        "intended": ["świeży rynek", "przetwórstwo"],
+        "production": ["?"],
+        "compaction": {
+            "value": "70",
+            "unit": "tys./ha"
+        },
+        "vegetation": {
+            "value": "~75",
+            "unit": "dni"
+        },
+        "planting": [4, 7],
+        "harvest": [7, 10],
+        "cultivation": ["grunt"],
+        "resistance":["HR: Tolerancja na jarowizację"],
+        "description": "Odmiana charakteryzuje się kompaktowym i mocno wzniesionym pokrojem. Preludio wytwarza bardzo wyrównane, okrągłe zgrubienia o gładkiej skórce i handlowym wyglądzie – z ładnym kontrastem bieli zgrubienia z zielonym kolorem łodyg. Odmiana cechuje się silną tolerancją na wybijanie w pędy kwiatowe, dzięki czemu może być uprawiana wiosną. Z kolei jej wysoka zdrowotność umożliwia uprawę jesienią z nasadzeń lipcowych na zbiór w październiku."
+    },
+    "daleza":{
+        "active": true,
+        "new": false,
+        "name": "Daleza",
+        "code": "E225W.004",
+        "imgs":["/szparagi/daleza.jpg"],
+        "guardian": "Bernard Zioło",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "FK",
+        "color": "#467F31",
+        "type":"odmiana wczesna",
+        "segment": "szparagi",
+        "intended": ["do uprawy na wybielone wypustki"],
+        "production": ["?"],
+        "compaction": {
+            "value": ["5-6 roślin w pojedynczym rzędzie", "7-8 roślin w podwójnym rzędzie"],
+            "unit": "na metr bieżący"
+        },
+        "planting": [4, 7],
+        "harvest": [7, 10],
+        "cultivation": ["grunt"],
+        "description": "Najważniejszą zaletą odmiany Daleza jest jej wczesność i szybko osiągana pełnia plonowania. Wyrównane i ciężkie wypustki w połączeniu z dobrymi cenami na początku sezonu zbiorczego i niższymi kosztami związanymi z samym zbiorem, sortowaniem i pęczkowaniem dają najwyższy możliwy zysk dla producenta. Odmiana ta charakteryzuje się bardzo dobrym smakiem oraz najwyższym na rynku procentowym udziałem wypustek o najwyższej jakości (AA) w plonie. Daleza  ma otwarty pokrój, dzięki czemu nie jest tak podatna na choroby i może być z powodzeniem używana w uprawach zrównoważonych i ekologicznych."
+    },
+    "argon":{
+        "active": true,
+        "new": false,
+        "name": "Argon",
+        "imgs":["/zioła/argon.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "ezdl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"?",
+        "segment": "pietruszka naciowa",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Odmiana pietruszki naciowej o ciemnej barwie liści zebranych w obfite rozety. Liście płaskie, drobno fryzowane w typie Commun. Sztywne liście uniesione do góry bardzo ułatwiają i przyspieszają zbiór. Wysoki plon handlowy bardzo aromatycznych liści. Dobra tolerancja na mączniaka rzekomego. Odmiana polecana do uprawy z przeznaczeniem do bezpośredniego spożycia oraz do przetwórstwa."
+    },
+    "peione":{
+        "active": true,
+        "new": false,
+        "name": "Peione",
+        "imgs":["/zioła/peione.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "ezdl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"?",
+        "segment": "pietruszka naciowa",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Odmiana pietruszki naciowej płaskolistnej w typie Gigante d’Italia. Atutem Peione jest ciemna barwa mocno fryzowanych listków. Odmianę cechuje bardzo dobre wyrównanie i większy rozmiar blaszki liściowej. Zapewnia wysoki plon handlowy i dobrą odporność na mączniaka rzekomego. Odmiana polecana zarówno na świeży rynek, jak i do przetwórstwa."
+    },
+    "katinka":{
+        "active": true,
+        "new": false,
+        "name": "Katinka",
+        "imgs":["/zioła/katinka.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "ezdl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"?",
+        "segment": "pietruszka naciowa",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Standardowa, uniwersalna odmiana pietruszki kędzierzawej o ciemnozielonych i jędrnych listkach. Łodygi bardzo wyrównane, sztywne i wzniesione do góry. Liście długo zachowują świeżość po zbiorze. Wyróżnia się wyjątkowym, intensywnym aromatem. Odmiana powszechnie stosowana do produkcji doniczkowej na świeży rynek. Dzięki wysokiej zawartości suchej masy może być wykorzystywana w przetwórstwie zarówno do mrożenia, jak też do suszenia."
+    },
+    "goldkrone":{
+        "active": true,
+        "new": false,
+        "name": "Goldkrone",
+        "imgs":["/zioła/goldkrone.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "ezdl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"?",
+        "segment": "koper",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Tetraploidalna odmiana kopru o obfitych, delikatnych, świeżo zielonych listkach i o intensywnym aromacie. Bardzo wolno wybija w pędy nasienne, co umożliwia zbiór na pęczki w wydłużonym czasie. Odmiana polecana zarówno na świeży rynek, jak i do przetwórstwa."
+    },
+    "green_sleeves":{
+        "active": true,
+        "new": false,
+        "name": "Green Sleeves",
+        "imgs":["/zioła/green_sleeves.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "ezdl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"?",
+        "segment": "koper",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Odmiana kopru o stabilnym i wyrównanym tempie wzrostu. Polecana głównie do uprawy polowej na zbiór pęczkowy. Dzięki wysokiej odporności na wybijanie w pędy kwiatowe jest odpowiednia na każdy termin uprawy."
+    },
+    "ella":{
+        "active": true,
+        "new": false,
+        "name": "Ella",
+        "imgs":["/zioła/ella.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "ezdl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"?",
+        "segment": "koper",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Odmiana kopru ogrodowego o wyjątkowo ciemnej, zielononiebieskiej barwie licznych delikatnych listków. Liście gęsto osadzone na krótkiej podstawie łodygi. Dzięki takiej charakterystyce odmiana ta polecana jest do uprawy doniczkowej oraz do stosunkowo nowej wersji uprawy do zbioru na tzw. baby dill, to jest zwarty i krótki pęczek (do długości 8-10 cm)."
+    },
+    "staro":{
+        "active": true,
+        "new": false,
+        "name": "Staro",
+        "imgs":["/zioła/staro.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "ezdl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"?",
+        "segment": "szczypior",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Odmiana szczypioru o wyjątkowo grubych, ciemnozielonych, rurkowatych listkach. Bardzo dobra wczesność i jakość produktu finalnego. Odmiana mało podatna na zasychanie końcówek liści. Może być polecana do wszystkich metod uprawy szczypioru z przeznaczeniem na zbiór pęczkowy, jak również do przetwórstwa."
+    },
+    "biggy":{
+        "active": true,
+        "new": false,
+        "name": "Biggy",
+        "imgs":["/zioła/biggy.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "ezdl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"?",
+        "segment": "szczypior",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Całoroczna, uniwersalna odmiana szczypioru polecana do wszystkich metod uprawy w gruncie oraz do „pędzenia” w szklarni. Uniesiony i bardzo zwarty pokrój rośliny. Liście grube, rurkowate, o intensywnej niebieskozielonej barwie. Odmiana mało podatna na zasychanie wierzchołków liści."
+    },
+    "genoveser":{
+        "active": true,
+        "new": false,
+        "name": "Genoveser",
+        "imgs":["/zioła/genoveser.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "ezdl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"?",
+        "segment": "bazylia",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Odmiana bazylii o silnym wzroście, dużych, błyszczących, ciemnozielonych liściach. Liście są charakterystycznie podwinięte do dołu. Daje bardzo wysoki plon. Odmiana specjalnie wyselekcjonowana do zbioru maszynowego dla przetwórstwa. W tym wypadku rośliny powinny być delikatnie osuszane w temperaturze 40°C natychmiast po cięciu."
+    },
+    "marian":{
+        "active": true,
+        "new": false,
+        "name": "Marian",
+        "imgs":["/zioła/marian.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "ezdl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"?",
+        "segment": "bazylia",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Podstawowa odmiana do uprawy doniczkowej, o zwartym i wyrównanym pokroju rośliny z gęsto i równomiernie osadzonymi liśćmi. Liście o ciemnozielonej barwie i standardowej wielkości. Zaletą tej odmiany jest tolerancja na zasychanie brzegów liści i na uszkodzenia w czasie przygotowywania do sprzedaży. Dobrze znosi transport nawet w niekorzystnych warunkach termicznych."
+    },
+    "german_winter":{
+        "active": true,
+        "new": false,
+        "name": "German Winter",
+        "imgs":["/zioła/german_winter.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "ezdl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"?",
+        "segment": "tymianek",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Odmiana selekcji Enza Zaden o wzniesionym pokroju i ciemnozielonej barwie liści. Wysoka zawartość olejków eterycznych powoduje wydzielanie silnego aromatu po wysuszeniu. Nasiona po wysiewie wymagają dostępu światła i równomiernie wilgotnego podłoża."
+    },
+    "marjolein":{
+        "active": true,
+        "new": false,
+        "name": "Marjolein",
+        "imgs":["/zioła/marjolein.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "ezdl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"?",
+        "segment": "majeranek",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Niezawodna odmiana majeranku selekcji Enza Zaden. Liście ciemnozielone o charakterystycznym, intensywnym aromacie. Polecana do uprawy na świeży rynek, jak również do przetwórstwa – suszenia."
+    },
+    "greek":{
+        "active": true,
+        "new": false,
+        "name": "Greek",
+        "imgs":["/zioła/greek.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "ezdl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"?",
+        "segment": "oregano",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Zwarte rośliny o półwzniesionym pokroju. Liście ciemnozielone, owalne, stosunkowo duże. Odmiana ta wyróżnia się intensywnym aromatem. Barwa kwiatostanów – biała. Odmiana polecana na świeży rynek oraz do przetwórstwa, głównie suszenia."
+    },
+    "fanni":{
+        "active": true,
+        "new": false,
+        "name": "Fanni",
+        "imgs":["/zioła/fanni.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "ezdl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"?",
+        "segment": "szałwia",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Uniwersalna odmiana szałwii o szybkim i wyrównanym wzroście. Szerokie jasnozielone liście bardzo szybko osiągają duży rozmiar, tworząc pożądaną masę handlową. Odmiana ta wykazuje tolerancję na choroby grzybowe, zwłaszcza na patogeny z rodzaju Pythium."
+    },
+    "marino":{
+        "active": true,
+        "new": false,
+        "name": "Marino",
+        "imgs":["/zioła/marino.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "ezdl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"?",
+        "segment": "kolendra",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Standardowa odmiana kolendry o dużych, delikatnych i mocno fryzowanych listkach. Bardzo wolno wybija w pędy nasienne, co zapewnia wysoki plon handlowy. Wyrazisty aromat to kolejna zaleta tej odmiany."
+    },
+    "elsbetha":{
+        "active": true,
+        "new": false,
+        "name": "Elsbetha",
+        "imgs":["/zioła/elsbetha.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "ezdl",
+        "crop": "H_",
+        "color": "#467F31",
+        "type":"?",
+        "segment": "lubczyk",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["grunt"],
+        "description": "Bardzo łatwa w uprawie odmiana lubczyku o intensywnym aromacie. Szybki wzrost pędów daje wysoki plon w krótkim czasie. Liście ciemnozielone, duże, płaskie, z atrakcyjnymi wcięciami."
+    },
+    "enroza":{
+        "active": true,
+        "new": false,
+        "vitalis": true,
+        "action": "/pomidory/uprawiaj_ze_smakiem.jpg",
+        "name": "Enroza",
+        "imgs":["/pomidory/enroza.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "TO",
+        "color": "#467F31",
+        "type":"wyjątkowy smak i idealny rozmiar pomidora malinowego",
+        "family":"pomidor",
+        "segment": "pomidor malinowy",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "170-200",
+            "unit":"g"
+        },
+        "frut": [
+            "kolor: malinowy",
+            "doskonały smak i aromat potwierdzony badaniami",
+            "bardzo dobra jakość owoców – gładka skórka, brak mikrospękań",
+            "mała podatność na suchą zgniliznę wierzchołkową",
+            "doskonały smak i aromat potwierdzony badaniami"
+        ],
+        "shape": "lekko spłaszczone, delikatnie żebrowane, z długą atrakcyjną szypułką",
+        "plant": [
+            "roślina dość silna, o dużej powierzchni liści, które latem osłaniają owoce przed słońcem",
+            "pokrój rośliny półotwarty",
+            "międzywęźla średniej długości, więc odmiana nadaje się także do niższych obiektów",
+            "sprawdza się również w uprawach doświetlanych"
+        ],
+        "benefits": [
+            {
+                "title": "Wielkość owoców",
+                "description":"Enroza jest odmianą dającą większy udział owoców wielkości BB i BBB niż standard rynkowy.",
+                "src": "/pomidory/kalibraz_owocow.jpg"
+            },
+            {
+                "title": "Doskonały smak",
+                "description":"Podczas przeprowadzonej analizy sensorycznej owoce Enrozy najczęściej wybierane były jako najsmaczniejsze spośród testowanych odmian.",
+                "src": "/pomidory/najlepszy_smak.jpg"
+            },
+            {
+                "title": "Mała podatność na suchą zgniliznę wierzchołkową",
+                "description":"W wyniku obserwacji wykonywanych od czerwca do sierpnia udowodniono niską podatność Enrozy na suchą zgniliznę wierzchołkową.",
+                "src": "/pomidory/odpornosc.jpg"
+            }
+        ],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["szklarnia"],
+        "description": "Obecnie pomidor malinowy jest najpopularniejszym typem pomidora wielkoowocowego uprawianego w Polsce. Szacuje się, że powierzchnia tego rodzaju upraw to ponad 50% całej powierzchni uprawy pomidora szklarniowego. Dlatego, aby sprostać ciągle rosnącym potrzebom rynku, Enza Zaden wprowadziła nową, docenioną już odmianę pomidora malinowego – Enroza. Jednak jako firma z tradycjami hodowlanymi nie poprzestajemy na jednej odmianie i prowadzimy ciągłe badania w celu rozwinięcia naszego asortymentu w segmencie pomidorów malinowych. Co roku w wielu szklarniach w Polsce zakładamy ścisłe doświadczenia odmianowe. Ich celem jest wyselekcjonowanie odmian malinowych najlepszych pod względem plonu, smaku, wzrostu roślin oraz pod względem eliminacji najpopularniejszych problemów, takich jak sucha zgnilizna wierzchołkowa i przebarwienia owoców. W sezonie uprawowym 2019 wybraliśmy z testów nową odmianę E15A.42078, której owoce nie wykazują przebarwień (tzw. plamy) podczas lata oraz charakteryzują się wysoką tolerancją na suchą zgniliznę wierzchołkową. Ponadto owoce tej odmiany mają doskonały smak, wyrównany, okrągły kształt i najbardziej pożądany rozmiar – BB. W obecnym sezonie potwierdzamy zalety tej odmiany w doświadczeniach o większej powierzchni."
+    },
+    "barteza":{
+        "active": true,
+        "new": false,
+        "name": "Barteza",
+        "imgs":["/pomidory/barteza.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "TO",
+        "color": "#467F31",
+        "type":"wczesny i wysoki plon w rozmiarze BB+",
+        "family":"pomidor",
+        "segment": "pomidor mięsisty",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "180-220",
+            "unit":"g (przy regulacji do 4 owoców w gronie)"
+        },
+        "frut": [
+            "kolor: czerwony z intensywnym połyskiem",
+            "wyróżniająca się w tym segmencie twardość i trwałość owoców",
+            "wysoka odporność na mikrospękania"
+        ],
+        "shape": "okrągłe, lekko spłaszczone, z delikatnym żebrowaniem",
+        "plant": [
+            "roślina silna, zwłaszcza na początku produkcji",
+            "pokrój rośliny półotwarty do otwartego w późniejszym okresie",
+            "międzywęźla średniej długości",
+            "roślina wczesna – bardzo szybki rozwój gron, szybszy niż u większości odmian w tym segmencie"
+        ],
+        "benefits": [
+            {
+                "description":"możliwość rozpoczęcia sprzedaży owoców wcześniej niż inni ogrodnicy – jest jedną z najwcześniejszych odmian w tym segmencie"
+            },
+            {
+                "description":"doskonała jakość owoców, która nie ulega pogorszeniu podczas transportu, co przekłada się na brak zwrotów czy reklamacji od odbiorców"
+            },
+            {
+                "description":"wysoka efektywność pracy – czubek rośliny nie ma tendencji do odchylania się od sznurka. Odmiana jest łatwa w pielęgnacji, co przekłada się na szybszą obróbkę, a w efekcie na niższe koszty pracy"
+            }
+        ],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["szklarnia"]
+    },
+    "enzalina":{
+        "active": true,
+        "new": true,
+        "name": "Enzalina",
+        "code": "E15A.41351",
+        "imgs":["/pomidory/enzalina.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "TO",
+        "color": "#467F31",
+        "type":"Wyrównane i twarde owoce idealne na eksport",
+        "family":"pomidor",
+        "segment": "pomidor mięsisty",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "180-200",
+            "unit":"g (przy regulacji do 5 owoców w gronie)"
+        },
+        "frut": [
+            "kolor: głębokoczerwony z połyskiem",
+            "5-6 bardzo wyrównanych owoców w gronie",
+            "łatwo zawiązuje owoce zarówno latem, jak i w niesprzyjających warunkach świetlnych",
+            "trwała, zielona szypułka",
+            "wyjątkowa twardość i trwałość owoców",
+            "mała blizna poszypułkowa",
+            "wysoka odporność na mikrospękania"
+        ],
+        "shape": "kuliste",
+        "plant": [
+            "silna, ciemnozielona, bardzo dobrze znosi wysokie temperatury",
+            "pokrój rośliny półotwarty",
+            "długie międzywęźla",
+            "silne grona, bez tendencji do załamywania się",
+            "wysoka zdrowotność oraz odporność na mączniaka prawdziwego"
+        ],
+        "benefits": [
+            {
+                "description":"?"
+            }
+        ],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["szklarnia"]
+    },
+    "mattinaro":{
+        "active": true,
+        "new": true,
+        "name": "Mattinaro",
+        "code": "E15A.41699",
+        "imgs":["/pomidory/mattinaro.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "TO",
+        "color": "#467F31",
+        "type":"Standardowa odmiana o niezawodnym wiązaniu",
+        "family":"pomidor",
+        "segment": "pomidor mięsisty",
+        "intended": ["do zbioru „na luz”"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "150-170",
+            "unit":"g"
+        },
+        "frut": [
+            "kolor: czerwony",
+            "wysoka twardość i trwałość owoców"
+        ],
+        "shape": "okrągłe",
+        "plant": [
+            "roślina silna",
+            "pokrój rośliny otwarty",
+            "liście ułożone horyzontalnie",
+            "odmiana odporna na suchą zgniliznę wierzchołkową",
+            "sprawdza się również w uprawach doświetlanych"
+        ],
+        "benefits": [
+            {
+                "description":"?"
+            }
+        ],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["szklarnia"]
+    },
+    "forenza":{
+        "active": true,
+        "new": false,
+        "vitalis": true,
+        "action": "/pomidory/uprawiaj_ze_smakiem.jpg",
+        "name": "Forenza",
+        "imgs":["/pomidory/forenza.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "TO",
+        "color": "#467F31",
+        "type":"Najsmaczniejszy czerwony „beef” na rynku",
+        "family":"pomidor",
+        "segment": "pomidor mięsisty",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "220-240",
+            "unit":"g"
+        },
+        "frut": [
+            "wyróżniający się smak",
+            "kolor: czerwony z połyskiem, owoce wybarwiają się bardzo szybko",
+            "wysoka odporność na mikrospękania"
+        ],
+        "shape": "owoce na początku produkcji lekko spłaszczone, żebrowane, w późniejszym okresie – kuliste, lekko żebrowane",
+        "plant": [
+            "roślina o generatywnym typie wzrostu",
+            "pokrój rośliny otwarty",
+            "międzywęźla średniej długości",
+            "roślina łatwa w pielęgnacji, pęd nie ma tendencji do odchylania się od sznurka"
+        ],
+        "benefits": [
+            {
+                "description":"?"
+            }
+        ],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["szklarnia"]
+    },
+    "maxeza":{
+        "active": true,
+        "new": false,
+        "vitalis": true,
+        "name": "maxeza",
+        "imgs":["/pomidory/maxeza.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "TO",
+        "color": "#467F31",
+        "type":"Duże grono, wysoki plon",
+        "family":"pomidor",
+        "segment": "pomidor gruntowy",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "150-170",
+            "unit":"g (przy regulacji do 5 owoców w gronie)"
+        },
+        "frut": [
+            "kolor: intensywnie czerwony, wyróżniający się w tym segmencie",
+            "bardzo wysoka jakość owoców, duża tolerancja na pękanie",
+            "doskonała trwałość pozbiorcza",
+            "wysoki plon wczesny i całkowity"
+        ],
+        "shape": "okrągłe z szypułką bez „kolanka”",
+        "plant": [
+            "roślina silna",
+            "pokrój rośliny początkowo otwarty, w późniejszym okresie półotwarty",
+            "roślina długa, zwłaszcza przez 3 pierwsze miesiące produkcji",
+            "łatwa w uprawie i pielęgnacji"
+        ],
+        "benefits": [
+            {
+                "description":"brak niedoborów towaru nawet po okresach niskiego natężenia światła czy bardzo wysokich temperatur – Maxeza świetnie zawiązuje owoce w trudnych warunkach"
+            },
+            {
+                "description":"nikoma liczba zwrotów czy reklamacji – Maxeza charakteryzuje się twardymi owocami o doskonałej trwałości pozbiorczej"
+            },
+            {
+                "description":"niskie nakłady pracy – czubek rośliny nie ma tendencji do odchylania się od sznurka"
+            },
+            {
+                "title": "Wysoki plon",
+                "description":"Maxeza jest jedną z najlepiej plonujących odmian w segmencie pomidora gronowego.",
+                "src": "/pomidory/wysoki_plon.jpg"
+            },
+            {
+                "title": "Wysoki plon",
+                "description":"przechowywania w temperaturze 20°C zachowuje większą twardość owoców niż odmiany konkurencyjne. Wyższa wartość oznacza lepszą twardość (zmierzono urządzeniem Durafel).",
+                "src": "/pomidory/przechowywanie.jpg"
+            }
+        ],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["szklarnia"]
+    }
+}
