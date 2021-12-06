@@ -94,6 +94,7 @@
       shift
     >
       <v-btn
+        dark
         v-for="link in links"
         :key="link.title"
         nuxt
@@ -108,7 +109,9 @@
     </v-bottom-navigation>
 
     <v-footer :absolute="!fixed" app>
-      <span>&copy; {{ $config.AUTHOR_NAME }} {{ new Date().getFullYear() }}</span>
+      <span
+        >&copy; {{ $config.AUTHOR_NAME }} {{ new Date().getFullYear() }}</span
+      >
     </v-footer>
   </v-app>
 </template>
@@ -121,59 +124,59 @@ export default {
       clipped: false,
       drawer: false,
       fixed: false,
-      tab: 'null',
+      tab: "null",
       links: [
         {
-          icon: 'mdi-apps',
-          title: 'Główna',
-          to: '/',
+          icon: "mdi-apps",
+          title: "Główna",
+          to: "/",
         },
         {
-          icon: 'mdi-book-open-variant',
-          title: 'Katalog',
-          to: '/katalog',
+          icon: "mdi-book-open-variant",
+          title: "Katalog",
+          to: "/katalog",
         },
       ],
       miniVariant: false,
       right: true,
       rightDrawer: false,
-      title: 'EZapp',
+      title: "EZapp",
       value: 1,
-    }
+    };
   },
   fetch() {
-    this.$store.dispatch('fetchVarieties')
+    this.$store.dispatch("fetchVarieties");
   },
   computed: {
     color() {
       switch (this.value) {
         case 0:
-          return 'blue-grey'
+          return "blue-grey";
         case 1:
-          return 'teal'
+          return "teal";
         case 2:
-          return 'brown'
+          return "brown";
         case 3:
-          return 'indigo'
+          return "indigo";
         default:
-          return 'blue-grey'
+          return "blue-grey";
       }
     },
   },
   methods: {
-    onScroll(e){
-      if (typeof window === 'undefined') return
-        const top = window.pageYOffset ||   e.target.scrollTop || 0
-        this.fab = top > 40
-    }
-  }
-}
+    onScroll(e) {
+      if (typeof window === "undefined") return;
+      const top = window.pageYOffset || e.target.scrollTop || 0;
+      this.fab = top > 40;
+    },
+  },
+};
 </script>
 <style scoped>
-  .v-item-group.v-bottom-navigation .v-btn.v-size--default {
-      height: inherit;
-  }
-  .v-btn.v-btn--has-bg{
-    background-color: inherit;
-  }
+.v-item-group.v-bottom-navigation .v-btn.v-size--default {
+  height: inherit;
+}
+.v-btn.v-btn--has-bg {
+  background-color: inherit;
+}
 </style>
