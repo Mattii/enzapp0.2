@@ -38,7 +38,7 @@
         >
         <div class="top-card-bar">
           <div v-if="v.new" class="chip">NEW</div>
-          <img v-if="v.provider == 'takii'"class="takiiLogo" src="/takiiLogoCut.png" />
+          <img v-if="v.provider == 'takii'" class="takiiLogo" src="/takiiLogoCut.png" />
         </div>
           <v-card-subtitle class="pb-0">{{ v.segment }}</v-card-subtitle>
           <v-card-title class="text-h4 text-uppercase pt-0"

@@ -100,6 +100,7 @@
         nuxt
         :to="link.to"
         exact-path
+        background-color="#41a62a"
       >
         <span>{{ link.title }}</span>
 
