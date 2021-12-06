@@ -129,7 +129,7 @@ export default {
   },
   mounted() {
     this.timeToPromotionEnd(this.promotion[0].endTime)
-    setInterval(this.tic, 1000)
+    //setInterval(this.tic, 1000)
   },
   computed: {
     promotionClock() {
