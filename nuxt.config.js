@@ -18,6 +18,9 @@ export default {
     ]
   },
 
+  env: {
+    authorName: 'Mateusz Śliwowski'
+  },
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
   ],

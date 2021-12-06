@@ -109,7 +109,7 @@
     </v-bottom-navigation>
 
     <v-footer :absolute="!fixed" app>
-      <span>&copy; Mateusz Śliwowski {{ new Date().getFullYear() }}</span>
+      <span>&copy; { process.env.authorName }{{ new Date().getFullYear() }}</span>
     </v-footer>
   </v-app>
 </template>
