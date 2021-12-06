@@ -86,6 +86,7 @@
       <v-icon>mdi-chevron-up</v-icon>
     </v-btn>
     <v-bottom-navigation
+      dark
       class="d-sm-none"
       grow
       app
@@ -94,7 +95,6 @@
       shift
     >
       <v-btn
-        dark
         v-for="link in links"
         :key="link.title"
         nuxt
