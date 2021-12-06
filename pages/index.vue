@@ -174,9 +174,9 @@ export default {
   created() {
     this.$store.dispatch('fetchVarieties')
     this.promos = this.$store.getters.getPromotions
-    setInterval(() => {
-      this.presentTime = new Date().getTime()
-    }, 1000)
+    //setInterval(() => {
+    //  this.presentTime = new Date().getTime()
+    //}, 1000)
   },
   mounted() {},
   methods: {
