@@ -447,10 +447,10 @@
         "resistance": ["HR: kiła kapustnych ", "PB: rasy 0,1,3"],
         "description": "Preduro jest odmianą wyróżniającą się bardzo wysoką odpornością na wybijanie w pędy kwiatostanowe. Dzięki temu niezawodnie plonuje w nasadzeniach wiosennych, również w lata z zimną wiosną. Szczególnie polecamy tę odmianę do nasadzeń pod osłonami. Preduro bardzo dobrze sprawuje się także w uprawie w gruncie otwartym na zbiory w czerwcu i lipcu. Może być zbierana w pełni wyrośnięta dla uzyskania wysokiego plonu. Preduro jest odmianą szybko rosnącą, przez co prędko osiąga handlową wagę. Charakteryzuje się ciemnozielonym kolorem liści i atrakcyjnym, handlowym wyglądem. Cylindryczny kształt główek sprawia, że łatwo i szybko się ją pakuje, ponadto taki kształt jest pożądany przez konsumentów. Odmiana Preduro sprawdza się także w letniej uprawie pod siatką, bez stosowania insektycydów."
     },
-    "orient_suprise":{
+    "orient_surprise":{
         "active": true,
-        "name": "Orient Suprise",
-        "imgs":["/kapustne/B_CC/orient_suprise.jpg"],
+        "name": "Orient Surprise",
+        "imgs":["/kapustne/B_CC/orient_surprise.jpg"],
         "guardian": "Bernard Zioło",
         "hybrid": true,
         "provider": "takii",
