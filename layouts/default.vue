@@ -108,7 +108,7 @@
     </v-bottom-navigation>
 
     <v-footer :absolute="!fixed" app>
-      <span>&copy; {{process.env.AUTHOR_NAME }} {{ new Date().getFullYear() }}</span>
+      <span>&copy; {{ process.env.AUTHOR_NAME }} {{ new Date().getFullYear() }}</span>
     </v-footer>
   </v-app>
 </template>
