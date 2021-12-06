@@ -86,7 +86,7 @@
       <v-icon>mdi-chevron-up</v-icon>
     </v-btn>
     <v-bottom-navigation
-      class="d-flex d-sm-none"
+      class="d-sm-none"
       grow
       app
       v-model="value"
