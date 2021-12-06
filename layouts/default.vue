@@ -173,4 +173,7 @@ export default {
   .v-item-group.v-bottom-navigation .v-btn.v-size--default {
       height: inherit;
   }
+  .v-btn.v-btn--has-bg{
+    background-color: inherit;
+  }
 </style>
