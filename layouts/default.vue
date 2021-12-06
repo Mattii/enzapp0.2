@@ -91,7 +91,6 @@
       app
       v-model="value"
       background-color="#41a62a"
-      dark
       shift
     >
       <v-btn
