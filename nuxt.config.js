@@ -50,7 +50,11 @@ export default {
   pwa: {
     manifest: {
       lang: 'pl',
-      theme_color: "#A3D51C"
+    },
+    meta:{
+      charset: 'utf-8',
+      theme_color: "#A3D51C",
+      viewport: 'width=device-width, initial-scale=1'
     }
   },
 
