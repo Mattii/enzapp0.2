@@ -4113,7 +4113,7 @@
         "color": "#467F31",
         "type":"Duże grono, wysoki plon",
         "family":"pomidor",
-        "segment": "pomidor gruntowy",
+        "segment": "pomidor gronowe",
         "intended": ["?"],
         "production": ["?"],
         "compaction": {
@@ -4156,6 +4156,207 @@
                 "title": "Wysoki plon",
                 "description":"przechowywania w temperaturze 20°C zachowuje większą twardość owoców niż odmiany konkurencyjne. Wyższa wartość oznacza lepszą twardość (zmierzono urządzeniem Durafel).",
                 "src": "/pomidory/przechowywanie.jpg"
+            }
+        ],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["szklarnia"]
+    },
+    "extenza":{
+        "active": true,
+        "new": true,
+        "vitalis": false,
+        "code": "E15A.41599",
+        "name": "Extenza",
+        "imgs":["/pomidory/extenza.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "TO",
+        "color": "#467F31",
+        "type":"Idealna gałązka na upalne lato",
+        "family":"pomidor",
+        "segment": "pomidor gronowe",
+        "intended": ["grona", "do zbioru „na luz”"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "150-160",
+            "unit":"g"
+        },
+        "frut": [
+            "kolor: czerwony",
+            "bardzo wysoka jakość owoców, duża tolerancja na pękanie",
+            "doskonała trwałość pozbiorcza",
+            "wysoki plon wczesny i całkowity"
+        ],
+        "shape": "okrągłe",
+        "plant": [
+            "roślina silna, krótka – nadaje się również do niższych obiektów",
+            "pokrój rośliny otwarty, liście ułożone horyzontalnie",
+            "silne grona",
+            "polecana również do upraw doświetlanych"
+        ],
+        "benefits": [
+            {
+                "description":"?"
+            }
+        ],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["szklarnia"]
+    },
+    "milaneza":{
+        "active": true,
+        "new": false,
+        "vitalis": false,
+        "name": "Milaneza",
+        "imgs":["/pomidory/milaneza.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "TO",
+        "color": "#467F31",
+        "type":"Idealna gałązka na upalne lato",
+        "family":"pomidor",
+        "segment": "pomidor gruntowy",
+        "intended": ["grona", "do zbioru „na luz”"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "110-120 (bez regulacji) 130-140 (przy regulacji do 6 owoców)",
+            "unit":"g"
+        },
+        "frut": [
+            "kolor: czerwony z połyskiem",
+            "doskonała twardość owoców i jakość skórki – brak mikrospękań",
+            "idealna odmiana do długotrwałego transportu",
+            "owoce z szypułką bez „kolanka”"
+        ],
+        "shape": "okrągłe",
+        "plant": [
+            "roślina silna",
+            "pokrój rośliny otwarty",
+            "roślina długa, zwłaszcza w pierwszych miesiącach uprawy",
+            "doskonałe wiązanie owoców w każdych warunkach"
+        ],
+        "benefits": [
+            {
+                "title": "Elastyczność wielkości owaców",
+                "description":"możliwość dostosowania wielkości owoców do aktualnego zapotrzebowania na rynku – Milaneza jest odmianą, którą można zbierać w postaci całych gron, jak również „na luz”, a poprzez regulację liczby zawiązków w gronie można otrzymać owoce wielkości od 110 do 140 gramów",
+                "src": "/pomidory/regulowana_milaneza.jpg"
+            },
+            {
+                "title": "Wysoki plon całkowity",
+                "description":"doskonałe wiązanie owoców zarówno w okresach niedoborów światła, jak i bardzo wysokich temperatur pozwala na uzyskanie wysokiego plonu, podczas gdy inne odmiany plonują gorzej z powodu słabo zawiązanych gron"
+            }
+        ],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["szklarnia"]
+    },
+    "graziano":{
+        "active": true,
+        "new": false,
+        "vitalis": true,
+        "name": "Graziano",
+        "imgs":["/pomidory/graziano.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "TO",
+        "color": "#467F31",
+        "type":"Pomidor w rozmiarze A do każdego typu obiektu",
+        "family":"pomidor",
+        "segment": "pomidory „na luz”",
+        "intended": ["grona", "do zbioru „na luz”"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "70-80 (bez regulacji) 90-100 (przy regulacji do 6 owoców w gronie)",
+            "unit":"g"
+        },
+        "frut": [
+            "kolor: czerwony z połyskiem",
+            "szybkie, równe wybarwianie",
+            "wysoki plon wczesny",
+            "łatwo wiąże zarówno latem, jak i w niesprzyjających warunkach świetlnych",
+            "znakomita twardość i trwałość owoców",
+            "wysoka odporność na mikrospękania",
+            "zarówno do zbioru „na luz”, jak i na grono",
+            "trwała, zielona szypułka z „kolankiem”"
+        ],
+        "shape": "okrągłe",
+        "plant": [
+            "roślina silna, bardzo dobrze znosi wysokie temperatury",
+            "pokrój rośliny otwarty, uniesione liście",
+            "krótkie międzywęźla",
+            "nieredukowane grona zawiązują 8-10 owoców wiosną, 7-8 owoców w późniejszym okresie",
+            "silne grona, nie mają tendencji do załamywania się",
+            "wysoka zdrowotność rośliny oraz odporność na mączniaka prawdziwego i szarą pleśń"
+        ],
+        "benefits": [
+            {
+                "description":"?"
+            }
+        ],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["szklarnia"]
+    },
+    "caroleza":{
+        "active": true,
+        "new": false,
+        "vitalis": false,
+        "name": "Caroleza",
+        "imgs":["/pomidory/caroleza.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "TO",
+        "color": "#467F31",
+        "type":"Niska pracochłonność, wysokie zyski",
+        "family":"pomidor",
+        "segment": "pomidory „na luz”",
+        "intended": ["grona", "do zbioru „na luz”"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "80-90 (bez regulacji) 95-110 (przy regulacji do 6 owoców w gronie)",
+            "unit":"g"
+        },
+        "frut": [
+            "kolor: czerwony z połyskiem",
+            "doskonale wyrównane owoce w gronie",
+            "znakomita trwałość i twardość owoców",
+            "wysoka odporność na mikrospękania",
+            "owoce z szypułką bez „kolanka”"
+        ],
+        "shape": "okrągłe",
+        "plant": [
+            "roślina o generatywnym typie wzrostu",
+            "pokrój rośliny otwarty",
+            "długie międzywęźla",
+            "bardzo dobrze zawiązuje owoce, nieredukowane grona zawiązują 8-10 owoców wiosną, 8 owoców w późniejszym okresie",
+            "silne grona, nie mają tendencji do załamywania się",
+            "bardzo szybki rozwój rośliny i gron",
+            "iska pracochłonność przy pielęgnacji rośliny"
+        ],
+        "benefits": [
+            {
+                "description":"?"
             }
         ],
         "planting": [1, 12],
