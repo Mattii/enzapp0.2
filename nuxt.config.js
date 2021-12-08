@@ -54,7 +54,6 @@ export default {
     meta:{
       charset: 'utf-8',
       theme_color: "#A3D51C",
-      viewport: 'width=device-width, initial-scale=1'
     }
   },
 
