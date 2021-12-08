@@ -4362,5 +4362,98 @@
         "planting": [1, 12],
         "harvest": [1, 12],
         "cultivation": ["szklarnia"]
+    },
+    "bjorn":{
+        "active": true,
+        "new": false,
+        "vitalis": false,
+        "name": "Bjorn",
+        "imgs":["/ogorki/bjorn.jpg"],
+        "guardian": "Mateusz Janas",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "CC",
+        "color": "#467F31",
+        "type":"Najlepszy na eksport i do marketów",
+        "family":"ogórek",
+        "segment": "ogórek partenokarpiczne, brodawkowe",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "frut": [
+            "długość: 10-12 cm",
+            "kolor: jednolity ciemnozielony",
+            "gęsta brodawka",
+            "z połyskiem",
+            "wysoka jakość",
+            "świetna trwałość pozbiorcza",
+            "dobrze wypełnione"
+        ],
+        "shape": "cylindryczne",
+        "plant": [
+            "krótkie międzywęźla",
+            "2-4 owoce w węźle",
+            "długie międzywęźla",
+            "generatywne pędy boczne",
+            "otwarty pokrój",
+            "silny system korzeniowy"
+        ],
+        "remarks": [
+            "polecana do uprawy w obiektach ogrzewanych",
+            "nie traci brodawek po okresie upałów",
+            "do uprawy na wszystkich rodzajach podłoży",
+            "istnieje możliwość uprawy bez ogrzewania",
+            "owoce idealne do handlu z supermarketami"
+        ],
+        "planting": [1, 3],
+        "harvest": [1, 12],
+        "cultivation": ["szklarnia"]
+    },
+    "severin":{
+        "active": true,
+        "new": false,
+        "vitalis": false,
+        "name": "Severin",
+        "imgs":["/ogorki/severin.jpg"],
+        "guardian": "Mateusz Janas",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "CC",
+        "color": "#467F31",
+        "type":"Doskonały plon w niegrzanych obiektach",
+        "family":"ogórek",
+        "segment": "ogórek partenokarpiczne, brodawkowe",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "frut": [
+            "długość: 11-13 cm",
+            "kolor: jednolity ciemnozielony",
+            "gęsta brodawka"
+        ],
+        "shape": "cylindryczne",
+        "plant": [
+            "krótkie międzywęźla",
+            "mocny wigor",
+            " 1-2 owoce w węźle na pędzie głównym oraz 2-4 w węźle na pędach bocznych",
+            "wczesny plon",
+            "silny system korzeniowy"
+        ],
+        "remarks": [
+            "odmiana polecana do obiektów nieogrzewanych",
+            "dobrze znosi temperaturę poniżej optymalnej",
+            "do uprawy na wszystkich rodzajach podłoży",
+            "owoce nie tracą brodawek nawet po upalnym okresie lata",
+            "szeroki wachlarz odporności"
+        ],
+        "planting": [3, 10],
+        "harvest": [1, 12],
+        "cultivation": ["szklarnia"]
     }
 }
