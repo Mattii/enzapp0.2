@@ -49,7 +49,8 @@ export default {
   // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {
     manifest: {
-      lang: 'pl'
+      lang: 'pl',
+      theme_color: "#A3D51C"
     }
   },
 
