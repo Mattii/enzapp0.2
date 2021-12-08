@@ -164,7 +164,7 @@ export default {
       selection: 0,
       card: {
         src: '/hero.jpg',
-        title: 'Sięgnij po cyfrowy ktalog',
+        title: 'Sięgnij po cyfrowy katalog',
       },
       promos: [],
       presentTime: new Date().getTime(),
