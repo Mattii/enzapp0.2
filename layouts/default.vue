@@ -95,6 +95,8 @@
       shift
     >
       <v-btn
+        dark
+        class="text-color-white"
         v-for="link in links"
         :key="link.title"
         nuxt
