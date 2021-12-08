@@ -53,7 +53,7 @@ export default {
     },
     meta:{
       charset: 'utf-8',
-      theme_color: "#A3D51C",
+      theme_color: "#41a62a",
     }
   },
 
