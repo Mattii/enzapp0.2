@@ -4363,6 +4363,515 @@
         "harvest": [1, 12],
         "cultivation": ["szklarnia"]
     },
+    "savantas":{
+        "active": true,
+        "new": false,
+        "vitalis": true,
+        "name": "Savantas",
+        "imgs":["/pomidory/savantas.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "TO",
+        "color": "#467F31",
+        "type":"„Śliwka” w jakości premium",
+        "family":"pomidor",
+        "segment": "pomidory śliwkokształtne",
+        "intended": ["grona", "do zbioru „na luz”"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "100-110",
+            "unit":"g"
+        },
+        "frut": [
+            "kolor: owoce dojrzewają szybko i wybarwiają się równomiernie na intensywny, czerwony kolor",
+            "doskonała jakość owoców",
+            "do zbioru zarówno w formie całych gron, jak i „na luz”"
+        ],
+        "shape": "śliwkokształtne",
+        "plant": [
+            "roślina silna",
+            "międzywęźla średniej długości, liście ułożone horyzontalnie",
+            "sprawdzona w uprawach doświetlanych"
+        ],
+        "benefits": [
+            {
+                "description":"?"
+            }
+        ],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["szklarnia"]
+    },
+    "ardiles":{
+        "active": true,
+        "new": false,
+        "vitalis": true,
+        "name": "Ardiles",
+        "imgs":["/pomidory/ardiles.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "TO",
+        "color": "#467F31",
+        "type":"„?",
+        "family":"pomidor",
+        "segment": "pomidory śliwkokształtne",
+        "intended": ["grona", "do zbioru „na luz”"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "35",
+            "unit":"g"
+        },
+        "frut": [
+            "kolor: czerwony z połyskiem",
+            "wysoka odporność na mikrospękania",
+            "doskonała twardość",
+            "owoce wyróżniające się smakiem"
+        ],
+        "shape": "śliwkokształtne",
+        "plant": [
+            "roślina silna",
+            "międzywęźla średniej długości, liście opadające",
+            "odmiana łatwa w uprawie",
+            "polecana również do upraw doświetlanych"
+        ],
+        "benefits": [
+            {
+                "description":"?"
+            }
+        ],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["szklarnia"]
+    },
+    "ardirose":{
+        "active": true,
+        "new": true,
+        "vitalis": false,
+        "code":"E15T.41979",
+        "name": "Ardirose",
+        "imgs":["/pomidory/ardirose.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "TO",
+        "color": "#467F31",
+        "type":"?",
+        "family":"pomidor",
+        "segment": "pomidory śliwkokształtne",
+        "intended": ["grona", "do zbioru „na luz”"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "35",
+            "unit":"g"
+        },
+        "frut": [
+            "kolor: malinowy",
+            "wysoka odporność na mikrospękania",
+            "doskonała twardość",
+            "owoce wyróżniające się smakiem"
+        ],
+        "shape": "śliwkokształtne",
+        "plant": [
+            "roślina silna",
+            "międzywęźla średniej długości, liście opadające",
+            "odmiana łatwa w uprawie",
+            "polecana również do upraw doświetlanych"
+        ],
+        "benefits": [
+            {
+                "description":"?"
+            }
+        ],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["szklarnia"]
+    },
+    "vespolino":{
+        "active": true,
+        "new": false,
+        "vitalis": true,
+        "name": "Vespolino",
+        "imgs":["/pomidory/vespolino.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "TO",
+        "color": "#467F31",
+        "type":"„?",
+        "family":"pomidor",
+        "segment": "pomidory śliwkokształtne",
+        "intended": ["grona", "do zbioru „na luz”"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "20-25",
+            "unit":"g"
+        },
+        "frut": [
+            "kolor: czerwony",
+            "kształt: lekko karbowane",
+            "owoce wyjątkowo trwałe, długo zachowujące świeżość po zbiorze",
+            "odmiana polecana do zbioru „na luz”"
+        ],
+        "shape": "śliwkokształtne",
+        "plant": [
+            "roślina silna",
+            "międzywęźla średniej długości, duże liście",
+            "silne grona",
+            "odmiana polecana zarówno do obiektów ogrzewanych, jak i nieogrzewanych"
+        ],
+        "benefits": [
+            {
+                "description":"?"
+            }
+        ],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["szklarnia"]
+    },
+    "annaisa":{
+        "active": true,
+        "new": false,
+        "vitalis": false,
+        "name": "Annaisa",
+        "imgs":["/pomidory/annaisa.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "TO",
+        "color": "#467F31",
+        "type":"„?",
+        "family":"pomidor",
+        "segment": "pomidory koktajlowe i cherry",
+        "intended": ["grona", "do zbioru „na luz”"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "40",
+            "unit":"g"
+        },
+        "frut": [
+            "kolor: intensywnie czerwony",
+            "kształt: lekko karbowane",
+            "doskonała jakość skórki",
+            "wyrazisty, słodki smak",
+            "odmiana polecana do zbioru zarówno „na luz”, jak i w postaci całych gron"
+        ],
+        "shape": "okrągłe",
+        "plant": [
+            "roślina silna",
+            "średniej długości międzywęźla",
+            "bardzo dobre wiązanie owoców",
+            "silne grona",
+            "wysoki plon wczesny i całkowity",
+            "polecana również do upraw doświetlanych"
+        ],
+        "benefits": [
+            {
+                "description":"?"
+            }
+        ],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "resistance":["HR: PepMV(wirusa mozaiki pepino)"],
+        "cultivation": ["szklarnia"]
+    },
+    "tomagino":{
+        "active": true,
+        "new": false,
+        "vitalis": true,
+        "action": "/pomidory/uprawiaj_ze_smakiem.jpg",
+        "name": "Tomagino",
+        "imgs":["/pomidory/tomagino.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "TO",
+        "color": "#467F31",
+        "type":"„?",
+        "family":"pomidor",
+        "segment": "pomidory koktajlowe i cherry",
+        "intended": ["grona", "do zbioru „na luz”"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "20-22",
+            "unit":"g"
+        },
+        "frut": [
+            "kolor: intensywnie czerwony",
+            "wyrównane owoce w gronie",
+            "bardzo dobra trwałość owoców",
+            "jedna z najsmaczniejszych odmian typu cherry",
+            "odmiana polecana do zbioru zarówno „na luz”, jak i w postaci całych gron"
+        ],
+        "shape": "okrągłe",
+        "plant": [
+            "generatywny charakter wzrostu",
+            "średniej długości międzywęźla, pokrój otwarty",
+            "odmiana polecana do uprawy zarówno w obiektach ogrzewanych, jak i nieogrzewanych",
+            "bardzo dobre wiązanie owoców nawet w niesprzyjających warunkach",
+            "polecana również do upraw doświetlanych"
+        ],
+        "benefits": [
+            {
+                "description":"?"
+            }
+        ],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["szklarnia"]
+    },
+    "laudrup":{
+        "active": true,
+        "new": true,
+        "vitalis": true,
+        "name": "Laudrup",
+        "imgs":["/pomidory/laudrup.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "TO",
+        "color": "#467F31",
+        "type":"„?",
+        "family":"pomidor",
+        "segment": "pomidory snack",
+        "intended": ["grona", "do zbioru „na luz”"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "12-13",
+            "unit":"g"
+        },
+        "frut": [
+            "kolor: intensywnie czerwony",
+            "lekko żebrowane",
+            "bardzo dobry słodki smak",
+            "odmiana polecana do zbioru „na luz”"
+        ],
+        "shape": "śliwkokształtne",
+        "plant": [
+            "roślina silna",
+            "średniej długości międzywęźla, liście o dużej powierzchni",
+            "długie, rozbudowane grona",
+            "odmiana nadaje się zarówno do obiektów ogrzewanych, jak i nieogrzewanych"
+        ],
+        "benefits": [
+            {
+                "description":"?"
+            }
+        ],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["szklarnia"]
+    },
+    "baikonur":{
+        "active": true,
+        "new": false,
+        "vitalis": false,
+        "name": "Baikonur",
+        "imgs":["/pomidory/baikonur.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "TO",
+        "color": "#467F31",
+        "type":"„?",
+        "family":"pomidor",
+        "segment": "pomidor mięsisty",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "200",
+            "unit":"g"
+        },
+        "frut": [
+            "kolor: intensywnie czerwony z połyskiem",
+            "duża szypułka, ładnie rozłożona na owocu, długo utrzymuje zielony kolor",
+            "odmiana niepodatna na pękanie i przebarwienia owoców typu „blotchy”"
+        ],
+        "shape": "kuliste, wyrównany",
+        "plant": [
+            "odmiana wczesna polecana do wiosennej uprawy w tunelach foliow",
+            "rośliny otwarte, z dobrym wigorem",
+            "odmiana bardzo dobrze wiąże owoce w zmiennych warunkach pogodowych"
+        ],
+        "benefits": [
+            {
+                "description":"?"
+            }
+        ],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["tunel"]
+    },
+    "bellfort":{
+        "active": true,
+        "new": false,
+        "vitalis": true,
+        "name": "Bellfort",
+        "imgs":["/pomidory/bellfort.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "TO",
+        "color": "#467F31",
+        "type":"„?",
+        "family":"pomidor",
+        "segment": "pomidor mięsisty",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "250-280",
+            "unit":"g"
+        },
+        "frut": [
+            "kolor: czerwony",
+            "owoce wielokomorowe, smaczne",
+            "woce twarde, niepękające, wybarwiające się na intensywny kolor, bez zielonej piętki",
+            "skórka mocna, błyszcząca, bez mikrospękań"
+        ],
+        "shape": "lekko spłaszczone",
+        "plant": [
+            "odmiana wczesna, bardzo plenna, nadaje się do uprawy wiosennej i jesiennej",
+            "rośliny z mocnym ulistnieniem, średniowysokie",
+            "polecana do krótkich cykli – do 8 gron",
+            "bardzo dobre wiązanie owoców przez cały okres uprawy"
+        ],
+        "benefits": [
+            {
+                "description":"?"
+            }
+        ],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["tunel"]
+    },
+    "berberana":{
+        "active": true,
+        "new": false,
+        "vitalis": false,
+        "name": "Berberana",
+        "imgs":["/pomidory/berberana.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "TO",
+        "color": "#467F31",
+        "type":"„?",
+        "family":"pomidor",
+        "segment": "pomidor mięsisty",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "220-250",
+            "unit":"g"
+        },
+        "frut": [
+            "kolor: intensywnie czerwony, również po zbiorze „na zielono”",
+            "owoce duże, wielokomorowe, bez zielonej piętki",
+            "charakteryzują się wysoką twardością"
+        ],
+        "shape": "?",
+        "plant": [
+            "odmiana polecana do jesiennej produkcji w szklarniach i tunelach foliowych",
+            "rośliny z mocnym wigorem, o krótkich międzywęźlach",
+            "odmiana przydatna także do uprawy w niskich tunelach, dobrze adaptująca się do uprawy w różnych warunkach",
+            "odmiana o szerokim spektrum odporności"
+        ],
+        "benefits": [
+            {
+                "description":"?"
+            }
+        ],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["tunel"]
+    },
+    "elpida":{
+        "active": true,
+        "new": false,
+        "vitalis": false,
+        "name": "Elpida",
+        "imgs":["/pomidory/elpida.jpg"],
+        "guardian": "Agnieszka Wiśniewska",
+        "hybrid": true,
+        "provider": "eznl",
+        "crop": "TO",
+        "color": "#467F31",
+        "type":"„?",
+        "family":"pomidor",
+        "segment": "pomidor mięsisty",
+        "intended": ["?"],
+        "production": ["?"],
+        "compaction": {
+            "value": "?",
+            "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "230-250",
+            "unit":"g"
+        },
+        "frut": [
+            "kolor: ?",
+            "grona zwykle 5-6-owocowe",
+            "owoce łatwe do zbioru, z szypułką, która długo utrzymuje świeżość",
+            "bardzo dobra trwałość",
+            "nasada grona stosunkowo krótka"
+        ],
+        "shape": "kuliste, lekko spłaszczone, bardzo wyrównane",
+        "plant": [
+            "odmiana wczesna polecana do produkcji w tunelach foliowych i starszych szklarniach",
+            "roślina o półotwartym pokroju bez tendencji do nadmiernej wegetatywności",
+            "w okresie bardzo wysokich temperatur tworzy prawidłowo uformowane grona"
+        ],
+        "benefits": [
+            {
+                "description":"?"
+            }
+        ],
+        "planting": [1, 12],
+        "harvest": [1, 12],
+        "cultivation": ["tunel"]
+    },
     "bjorn":{
         "active": true,
         "new": false,

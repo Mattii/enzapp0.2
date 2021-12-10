@@ -8,9 +8,7 @@
         max-height="68"
         src="/logo.jpg"
       ></v-img>
-      <div class="pl-3 text-h5">
-        <span class="font-weight-medium">EZ</span
-        ><span class="font-weight-light">app</span>
+      <div class="pl-3 text-h5" id="serchPlaceholder">
       </div>
       <template>
         <v-tabs v-model="tab" align-with-title class="d-none d-sm-flex">
