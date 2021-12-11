@@ -36,7 +36,7 @@
           :src="v.imgs[0]"
           dark
         >
-        <div class="top-card-bar">
+        <div class="top-card-bar" dark>
           <div v-if="v.new" class="chip">NEW</div>
           <img v-if="v.provider == 'takii'" class="takiiLogo" src="/takiiLogoCut.png" />
         </div>
