@@ -80,7 +80,7 @@ export default {
   align-items:center;
 }
 .chip {
-  border: 2px solid white;
+  border: 2px solid white !important;
   border-radius: 0.6rem;
   font-weight: 900;
   padding:.4rem;
