@@ -3,6 +3,7 @@ import priceList from '../static/price_list.json'
 export const state = () => ({
     varieties: [],
     priceList,
+    segments: [],
     promotions: [
       {
         title:'ogóriki',
@@ -172,12 +173,20 @@ export const actions = {
       varietiesArray.push({id: varieti, ...varieties[varieti]})
     }
     context.commit('setVarieties', varietiesArray)
+    context.dispatch('allSegments')
+  },
+  allSegments({state, commit}){
+    const segments = [...new Set(state.varieties.map(ele => ele.segment))]
+    commit('setSegments', segments)
   }
 }
 
 export const mutations = {
   setVarieties(state, payload){
     state.varieties = payload
+  },
+  setSegments(state, payload) {
+    state.segments = payload
   }
 }
 
@@ -190,5 +199,8 @@ export const getters = {
     },
     getCropsPrice(state){
       return state.priceList
+    },
+    getSegments(state){
+      return state.segments
     }
 }

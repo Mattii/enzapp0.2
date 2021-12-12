@@ -12,9 +12,33 @@
           <v-card-subtitle class="subtitle-1">zawsze pod ręką</v-card-subtitle>
         </v-img>
       </v-card>
+      <v-card>
+        <v-expansion-panels>
+          <v-expansion-panel>
+            <v-expansion-panel-header>
+              <h3>Filtry ({{segmentsFilter.length}})</h3>
+            </v-expansion-panel-header>
+            <v-expansion-panel-content>
+              <v-chip-group v-model="segmentsFilter" column multiple>
+                <v-chip
+                  v-for="(segment, index) in segments"
+                  :key="index"
+                  filter
+                  outlined
+                  label
+                  :value="segment"
+                >
+                  {{ segment }}
+                </v-chip>
+              </v-chip-group>
+            </v-expansion-panel-content>
+          </v-expansion-panel>
+        </v-expansion-panels>
+      </v-card>
+
       <v-card
         :loading="loading"
-        v-for="(v, key) in varieties"
+        v-for="(v, key) in filterdVarieties"
         :key="key"
         class="mx-auto mt-9 rounded-sm"
         elevation="6"
@@ -36,15 +60,19 @@
           :src="v.imgs[0]"
           dark
         >
-        <div class="top-card-bar" dark>
-          <div v-if="v.new" class="chip">NEW</div>
-          <img v-if="v.provider == 'takii'" class="takiiLogo" src="/takiiLogoCut.png" />
-        </div>
+          <div class="top-card-bar" dark>
+            <div v-if="v.new" class="chip">NEW</div>
+            <img
+              v-if="v.provider == 'takii'"
+              class="takiiLogo"
+              src="/takiiLogoCut.png"
+            />
+          </div>
           <v-card-subtitle class="pb-0">{{ v.segment }}</v-card-subtitle>
           <v-card-title class="text-h4 text-uppercase pt-0"
-            >{{ v.name }} {{ v.hybrid ? 'F1' : '' }}</v-card-title
+            >{{ v.name }} {{ v.hybrid ? "F1" : "" }}</v-card-title
           >
-          <v-card-subtitle class=""> {{ v.type || '?' }} </v-card-subtitle>
+          <v-card-subtitle class=""> {{ v.type || "?" }} </v-card-subtitle>
         </v-img>
       </v-card>
     </v-col>
@@ -54,36 +82,48 @@
 //import varieties from '../static/varieties.json'
 
 export default {
-  name: 'katalog',
+  name: "katalog",
   data() {
     return {
       open: false,
       loading: false,
-      varieties: {},
+      varieties: [],
+      segmentsFilter: []
+    };
+  },
+  computed: {
+    segments() {
+      return this.$store.getters.getSegments;
+    },
+    filterdVarieties(){
+      if(this.segmentsFilter.length > 0){
+        return this.varieties.filter(ele => this.segmentsFilter.includes(ele.segment))
+      }
+      return this.varieties
     }
   },
   created() {
-    this.varieties = this.$store.getters.getVarieties
+    this.varieties = this.$store.getters.getVarieties;
   },
   methods: {},
-}
+};
 </script>
 
 <style>
-.top-card-bar{
+.top-card-bar {
   display: flex;
   width: 100%;
   top: 0;
   position: absolute;
   padding: 0.9rem;
   justify-content: space-between;
-  align-items:center;
+  align-items: center;
 }
 .chip {
   border: 2px solid white !important;
   border-radius: 0.6rem;
   font-weight: 900;
-  padding:.4rem;
+  padding: 0.4rem;
 }
 .takiiLogo {
   border-radius: 0.6rem;
