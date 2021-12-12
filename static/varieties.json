@@ -4113,7 +4113,7 @@
         "color": "#467F31",
         "type":"Duże grono, wysoki plon",
         "family":"pomidor",
-        "segment": "pomidor gronowe",
+        "segment": "pomidor gronowy",
         "intended": ["?"],
         "production": ["?"],
         "compaction": {
@@ -4176,7 +4176,7 @@
         "color": "#467F31",
         "type":"Idealna gałązka na upalne lato",
         "family":"pomidor",
-        "segment": "pomidor gronowe",
+        "segment": "pomidor gronowy",
         "intended": ["grona", "do zbioru „na luz”"],
         "production": ["?"],
         "compaction": {
@@ -4222,7 +4222,7 @@
         "color": "#467F31",
         "type":"Idealna gałązka na upalne lato",
         "family":"pomidor",
-        "segment": "pomidor gruntowy",
+        "segment": "pomidor gronowy",
         "intended": ["grona", "do zbioru „na luz”"],
         "production": ["?"],
         "compaction": {
