@@ -3,11 +3,22 @@
     <v-app-bar fixed app elevate-on-scroll>
       <v-img
         contain
-        class="align-self-start"
+        class="align-self-start mr-3"
         max-width="68"
         max-height="68"
         src="/logo.jpg"
+        
       ></v-img>
+      <v-text-field
+        label="Wyszukaj nasiona"
+        solo
+        dense
+        clearable
+        class="mx-lg-9 mx-xs-6 mt-6"
+        flat
+        @keyup="serch"
+        append-icon="mdi-magnify"
+      ></v-text-field>
       <template>
         <v-tabs v-model="tab" align-with-title class="d-none d-sm-flex">
           <v-tabs-slider color="#A3D51C"></v-tabs-slider>
@@ -19,6 +30,7 @@
       </template>
       <v-spacer />
       <v-btn
+      class="ml-3"
         aria-label="open drawer"
         icon
         @click.stop="rightDrawer = !rightDrawer"
@@ -167,6 +179,9 @@ export default {
       if (typeof window === "undefined") return;
       const top = window.pageYOffset || e.target.scrollTop || 0;
       this.fab = top > 40;
+    },
+    serch(input) {
+      this.$store.dispatch("setSearchPhrase", input.target.value);
     },
   },
 };

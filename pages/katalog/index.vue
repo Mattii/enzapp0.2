@@ -82,6 +82,7 @@
 //import varieties from '../static/varieties.json'
 
 export default {
+  layout: 'katalog',
   name: "katalog",
   data() {
     return {
@@ -97,9 +98,9 @@ export default {
     },
     filterdVarieties(){
       if(this.segmentsFilter.length > 0){
-        return this.varieties.filter(ele => this.segmentsFilter.includes(ele.segment))
+        return this.varieties.filter(ele => this.segmentsFilter.includes(ele.segment) && ele.name.includes(this.$store.getters.getSearchPhrase))
       }
-      return this.varieties
+      return this.varieties.filter(ele => ele.name.toLowerCase().includes(this.$store.getters.getSearchPhrase))
     }
   },
   created() {

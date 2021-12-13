@@ -164,6 +164,7 @@ export const state = () => ({
         timer: '',
       }
     ],
+    searchPhrase: ''
 })
 
 export const actions = {
@@ -178,6 +179,9 @@ export const actions = {
   allSegments({state, commit}){
     const segments = [...new Set(state.varieties.map(ele => ele.segment))]
     commit('setSegments', segments)
+  },
+  setSearchPhrase({commit}, searchPhrase){
+    commit('setSearchPhrase', searchPhrase)
   }
 }
 
@@ -187,7 +191,10 @@ export const mutations = {
   },
   setSegments(state, payload) {
     state.segments = payload
-  }
+  },
+  setSearchPhrase(state, payload) {
+    state.searchPhrase = payload
+  },
 }
 
 export const getters = {
@@ -202,5 +209,8 @@ export const getters = {
     },
     getSegments(state){
       return state.segments
+    },
+    getSearchPhrase(state){
+      return state.searchPhrase
     }
 }

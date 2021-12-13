@@ -1,6 +1,6 @@
 <template>
-  <v-row>
-    <v-col>
+    <v-row justify="center" align="center">
+      <v-col cols="12" sm="8" md="6">
       <v-btn class="mt-6" outlined @click="$router.back()">
         <v-icon class="pr-3">mdi-arrow-left</v-icon> wróć</v-btn
       >
