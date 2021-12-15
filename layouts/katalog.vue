@@ -7,18 +7,7 @@
         max-width="68"
         max-height="68"
         src="/logo.jpg"
-        
       ></v-img>
-      <v-text-field
-        label="Wyszukaj nasiona"
-        solo
-        dense
-        clearable
-        class="mx-lg-9 mx-xs-6 mt-6"
-        flat
-        @keyup="serch"
-        append-icon="mdi-magnify"
-      ></v-text-field>
       <template>
         <v-tabs v-model="tab" align-with-title class="d-none d-sm-flex">
           <v-tabs-slider color="#A3D51C"></v-tabs-slider>
@@ -29,8 +18,20 @@
         </v-tabs>
       </template>
       <v-spacer />
+      <v-text-field
+        label="Wyszukaj nasiona"
+        solo
+        dense
+        clearable
+        class="mx-lg-9 mx-xs-6"
+        flat
+        v-model="search"
+        hide-no-data
+        hide-details
+        append-icon="mdi-magnify"
+      ></v-text-field>
       <v-btn
-      class="ml-3"
+        class="ml-3"
         aria-label="open drawer"
         icon
         @click.stop="rightDrawer = !rightDrawer"
@@ -136,6 +137,7 @@ export default {
       drawer: false,
       fixed: false,
       tab: "null",
+      search: null,
       links: [
         {
           icon: "mdi-apps",
@@ -174,14 +176,16 @@ export default {
       }
     },
   },
+  watch: {
+    search(input) {
+      this.$store.dispatch("setSearchPhrase", input);
+    },
+  },
   methods: {
     onScroll(e) {
       if (typeof window === "undefined") return;
       const top = window.pageYOffset || e.target.scrollTop || 0;
       this.fab = top > 40;
-    },
-    serch(input) {
-      this.$store.dispatch("setSearchPhrase", input.target.value);
     },
   },
 };

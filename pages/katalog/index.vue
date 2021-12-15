@@ -1,6 +1,6 @@
 <template>
   <v-row justify="center" align="center">
-    <v-col cols="12" sm="8" md="6">
+    <v-col cols="12" sm="9" md="8" lg="7">
       <v-card class="pt-3">
         <v-img
           src="hero.jpg"
