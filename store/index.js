@@ -181,7 +181,7 @@ export const actions = {
     commit('setSegments', segments)
   },
   setSearchPhrase({commit}, searchPhrase){
-    commit('setSearchPhrase', searchPhrase.toLowerCase() || "")
+    commit('setSearchPhrase', searchPhrase ? searchPhrase.toLowerCase() : "")
   }
 }
 

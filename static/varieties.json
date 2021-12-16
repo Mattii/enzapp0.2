@@ -5175,7 +5175,12 @@
             "wysoka jakość",
             "dobra trwałość pozbiorcza"
         ],
+        "weight": {
+            "value": "240-280",
+            "unit":"g"
+        },
         "shape": "cylindryczne",
+        "earlys": "średnio wczesny",
         "plant": [
             "zbalansowana",
             "średniej długości międzywęźla",
@@ -5190,8 +5195,9 @@
             "nie ma tendencji do zrzucania zawiązków",
             "dobra odporność na mączniaka prawdziwego"
         ],
-        "planting": [2, 10],
+        "planting": [2, 7],
         "harvest": [1, 12],
+        "resistance": ["HR: Ccu", "IR: CMV/CVYU/Px"],
         "cultivation": ["szklarnia"]
     },
     "melen":{
@@ -5214,6 +5220,10 @@
             "value": "?",
             "unit": "na metr bieżący"
         },
+        "weight": {
+            "value": "220-240",
+            "unit":"g"
+        },
         "frut": [
             "długość: 20-22 cm",
             "kolor: ciemnozielony",
@@ -5221,6 +5231,7 @@
             "nie przerastają na długość"
         ],
         "shape": "cylindryczne",
+        "earlys": "wczesny",
         "plant": [
             "dobrze zbalansowana",
             "krótkie międzywęźla",
@@ -5233,8 +5244,9 @@
             "wykazuje dobrą tolerancję na zaburzenia pokarmowe",
             "niska pracochłonność"
         ],
-        "planting": [2, 10],
+        "planting": [2, 7],
         "harvest": [1, 12],
+        "resistance": ["HR: Cca/Ccu", "IR: CMV/CVYU/Px"],
         "cultivation": ["szklarnia"]
     },
     "bjorn":{
@@ -5632,7 +5644,7 @@
     "status":{
         "active": true,
         "new": false,
-        "vitalis": true,
+        "vitalis": false,
         "name": "Status",
         "imgs":["/ogorki/status.jpg"],
         "guardian": "Mateusz Janas",
@@ -5658,6 +5670,7 @@
         ],
         "planting": [1, 12],
         "harvest": [1, 12],
+
         "cultivation": ["szklarnia"]
     }
 }

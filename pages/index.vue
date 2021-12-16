@@ -1,7 +1,7 @@
 <template>
   <v-sheet>
     <v-row justify="center" align="center">
-      <v-col cols="12" sm="9" md="8" lg="7">
+      <v-col cols="12" sm="9" md="8" lg="6">
         <v-card class="mt-6">
           <v-img
             :src="card.src"

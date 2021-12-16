@@ -54,6 +54,7 @@ export default {
     meta:{
       charset: 'utf-8',
       theme_color: "#41a62a",
+      color_scheme: "dark light"
     }
   },
 

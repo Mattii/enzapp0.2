@@ -18,6 +18,10 @@
         </v-tabs>
       </template>
       <v-spacer />
+      <v-chip class="text-h6 ma-2" color="orange" label text-color="white" >
+        <v-icon left> mdi-weather-partly-cloudy </v-icon>
+        26°C
+      </v-chip>
       <v-btn
         aria-label="open drawer"
         icon

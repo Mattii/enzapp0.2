@@ -1,12 +1,12 @@
 <template>
   <v-row justify="center" align="center">
-    <v-col cols="12" sm="9" md="8" lg="7">
-      <v-card class="pt-3">
+    <v-col cols="12" sm="9" md="8" lg="6">
+      <v-card class="mt-3">
         <v-img
           src="hero.jpg"
           class="white--text align-end my-3"
           gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.5)"
-          height="250px"
+          max-height="200px"
         >
           <v-card-title class="text-h4">Twoje odmiany</v-card-title>
           <v-card-subtitle class="subtitle-1">zawsze pod ręką</v-card-subtitle>
