@@ -23,14 +23,11 @@
         </v-img>
       </v-card>
       <v-subheader class="mt-3">do końca promocji zostało</v-subheader>
-      <v-card 
-        dark
-        class="mx-auto text-center pa-6"
-        :color="promotion[0].color"
-      >
+      <v-card dark class="mx-auto text-center pa-6" :color="promotion[0].color">
         <div class="text-h4">{{ promotionClock }}</div>
         <div class="text-subtitle-2 font-weight-light">
-          promocja obowiązuje do {{ promotion[0].endTime }} <br />lub do wyczerpania zapasów
+          promocja obowiązuje do {{ promotion[0].endTime }} <br />lub do
+          wyczerpania zapasów
         </div>
       </v-card>
       <v-card class="mx-auto mt-6">
@@ -98,9 +95,9 @@
           </div>
           <v-card-subtitle class="pb-0">{{ v.segment }}</v-card-subtitle>
           <v-card-title class="text-h4 text-uppercase pt-0"
-            >{{ v.name }} {{ v.hybrid ? 'F1' : '' }}</v-card-title
+            >{{ v.name }} {{ v.hybrid ? "F1" : "" }}</v-card-title
           >
-          <v-card-subtitle class=""> {{ v.type || '?' }} </v-card-subtitle>
+          <v-card-subtitle class=""> {{ v.type || "?" }} </v-card-subtitle>
         </v-img>
       </v-card>
       <v-subheader class="mt-3">kontakt</v-subheader>
@@ -113,63 +110,73 @@
 
 <script>
 export default {
-  name: 'promocja',
+  name: "promocja",
   data() {
     return {
       promotion: [],
-      promotionEnds: '',
+      promotionEnds: "",
       loading: false,
-    }
+      idTimer: null,
+    };
   },
   created() {
     //console.log(context.store.getters.getPromotions);
     this.promotion = this.$store.getters.getPromotions.filter(
       (p) => p.title === this.$route.params.id
-    )
+    );
   },
   mounted() {
-    this.timeToPromotionEnd(this.promotion[0].endTime)
-    //setInterval(this.tic, 1000)
+    this.timeToPromotionEnd(this.promotion[0].endTime);
+    if (process.client) {
+      if (window.idPromoTimer) {
+        clearInterval(window.idPromoTimer);
+      }
+      window.idPromoTimer = setInterval(this.tic, 1000);
+    }
+  },
+  beforeUnmount() {
+    clearInterval(this.idPromoTimer);
   },
   computed: {
     promotionClock() {
-      const sec = this.promotionEnds
-      const min = sec / 60
-      const hour = min / 60
-      const days = hour / 24
-      const month = days / 30
-      const secT = Math.floor(sec % 60)
-      const minT = Math.floor(min % 60)
-      const hourT = Math.floor(hour % 24)
-      const dayT = Math.floor(days % 30)
-      const monthT = Math.floor(month)
+      const sec = this.promotionEnds;
+      const min = sec / 60;
+      const hour = min / 60;
+      const days = hour / 24;
+      const month = days / 30;
+      const secT = Math.floor(sec % 60);
+      const minT = Math.floor(min % 60);
+      const hourT = Math.floor(hour % 24);
+      const dayT = Math.floor(days % 30);
+      const monthT = Math.floor(month);
       if (month >= 1) {
         return `${this.toDubleDiget(monthT)}m :${this.toDubleDiget(
           dayT
-        )}d :${this.toDubleDiget(hourT)}h`
+        )}d :${this.toDubleDiget(hourT)}h`;
       }
       return `${this.toDubleDiget(dayT)}d :${this.toDubleDiget(
         hourT
-      )}h :${this.toDubleDiget(minT)}m :${this.toDubleDiget(secT)}s`
+      )}h :${this.toDubleDiget(minT)}m :${this.toDubleDiget(secT)}s`;
     },
     promotionCrop() {
       return this.$store.getters.getVarieties.filter((ele) =>
         this.promotion[0].crops.includes(ele.name.toLowerCase())
-      )
+      );
     },
   },
   methods: {
     timeToPromotionEnd(time) {
-      this.promotionEnds = (new Date(time).getTime() - Date.now()) / 1000
+      this.promotionEnds = (new Date(time).getTime() - Date.now()) / 1000;
     },
     toDubleDiget(time) {
-      return time < 10 ? '0' + time : time
+      return time < 10 ? "0" + time : time;
     },
     tic() {
-      this.promotionEnds--
+      this.promotionEnds--;
+      console.log("!");
     },
   },
-}
+};
 </script>
 
 <style></style>

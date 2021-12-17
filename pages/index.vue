@@ -103,7 +103,7 @@
               @click="card.show = !card.show"
             >
               <v-icon>{{
-                card.show ? 'mdi-chevron-up' : 'mdi-chevron-down'
+                card.show ? "mdi-chevron-up" : "mdi-chevron-down"
               }}</v-icon>
             </v-btn>
           </v-card-actions>
@@ -129,8 +129,8 @@
 </template>
 
 <script>
-import Logo from '~/components/Logo.vue'
-import EzappLogo from '~/components/EzappLogo.vue'
+import Logo from "~/components/Logo.vue";
+import EzappLogo from "~/components/EzappLogo.vue";
 
 export default {
   components: {
@@ -142,89 +142,96 @@ export default {
       varieties: [],
       cards: [
         {
-          src: '/kapustne/B_WC/cheeta.jpg',
-          title: 'Kapusty',
-          crop: ['B_WC', 'B_CC', 'B_SC'],
+          src: "/kapustne/B_WC/cheeta.jpg",
+          title: "Kapusty",
+          crop: ["B_WC", "B_CC", "B_SC"],
           show: false,
         },
         {
-          src: '/kapustne/B_CF/elintos.jpg',
-          title: 'Kalafiory',
-          crop: ['B_CF'],
+          src: "/kapustne/B_CF/elintos.jpg",
+          title: "Kalafiory",
+          crop: ["B_CF"],
           show: false,
         },
         {
-          src: '/kapustne/B_KR/timpano.jpg',
-          title: 'Kalarepy',
-          crop: ['B_KR'],
+          src: "/kapustne/B_KR/timpano.jpg",
+          title: "Kalarepy",
+          crop: ["B_KR"],
           show: false,
         },
       ],
       show: false,
       selection: 0,
       card: {
-        src: '/hero.jpg',
-        title: 'Sięgnij po cyfrowy katalog',
+        src: "/hero.jpg",
+        title: "Sięgnij po cyfrowy katalog",
       },
       promos: [],
       presentTime: new Date().getTime(),
-    }
+    };
   },
   computed: {},
   created() {
-    this.$store.dispatch('fetchVarieties')
-    this.promos = this.$store.getters.getPromotions
-    //setInterval(() => {
-    //  this.presentTime = new Date().getTime()
-    //}, 1000)
+    this.$store.dispatch("fetchVarieties");
+    this.promos = this.$store.getters.getPromotions;
+    if (process.client) {
+      if (window.idTimer) {
+        clearInterval(window.idTimer);
+      }
+      window.idTimer = setInterval(() => {
+        this.presentTime = new Date().getTime();
+
+        console.log("?", window.idTimer);
+      }, 1000);
+    }
   },
   mounted() {},
   methods: {
     promotionCounter(endTime) {
       //const current = Date.now()
-      const promotionEnd = new Date(endTime).getTime()
-      const timeToCountDown = promotionEnd - this.presentTime
-      const sec = timeToCountDown / 1000
-      const min = sec / 60
-      const hour = min / 60
-      const days = hour / 24
-      const month = days / 30
-      const secT = Math.floor(sec % 60)
-      const minT = Math.floor(min % 60)
-      const hourT = Math.floor(hour % 24)
-      const dayT = Math.floor(days % 30)
-      const monthT = Math.floor(month)
+      const promotionEnd = new Date(endTime).getTime();
+      const timeToCountDown = promotionEnd - this.presentTime;
+      const sec = timeToCountDown / 1000;
+      const min = sec / 60;
+      const hour = min / 60;
+      const days = hour / 24;
+      const month = days / 30;
+      const secT = Math.floor(sec % 60);
+      const minT = Math.floor(min % 60);
+      const hourT = Math.floor(hour % 24);
+      const dayT = Math.floor(days % 30);
+      const monthT = Math.floor(month);
       if (month >= 1) {
         return `${this.toDubleDiget(monthT)}m :${this.toDubleDiget(
           dayT
-        )}d :${this.toDubleDiget(hourT)}h`
+        )}d :${this.toDubleDiget(hourT)}h`;
       }
       return `${this.toDubleDiget(monthT)}m :${this.toDubleDiget(
         dayT
       )}d :${this.toDubleDiget(hourT)}h :${this.toDubleDiget(
         minT
-      )}m :${this.toDubleDiget(secT)}s`
+      )}m :${this.toDubleDiget(secT)}s`;
     },
     toDubleDiget(time) {
-      return time < 10 ? '0' + time : time
+      return time < 10 ? "0" + time : time;
     },
     toFullCrop(crop) {
       switch (crop) {
-        case 'TO':
-          return 'buenarosa, enroza, ...'
-          break
-        case 'CC':
-          return 'bjorn, severin, melen, ...'
-          break
-        case 'CF':
-          return 'bielic, xenia, ...'
-          break
+        case "TO":
+          return "buenarosa, enroza, ...";
+          break;
+        case "CC":
+          return "bjorn, severin, melen, ...";
+          break;
+        case "CF":
+          return "bielic, xenia, ...";
+          break;
         default:
-          break
+          break;
       }
     },
   },
-}
+};
 </script>
 <style>
 .test {
