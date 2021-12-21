@@ -9,7 +9,7 @@
           class="white--text align-end"
           min-height="200px"
           max-height="300px"
-          :src="promotion[0].src[0]"
+          :src="require(`~/assets/img/${promotion[0].src[0]}`)"
           :gradient="`to bottom, rgba(0,0,0,.1), rgba(0,0,0,.6)`"
         >
           <v-card-title class="text-h4"

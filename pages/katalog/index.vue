@@ -3,7 +3,7 @@
     <v-col cols="12" sm="9" md="8" lg="6">
       <v-card class="mt-3">
         <v-img
-          src="hero.jpg"
+          :src="require(`~/assets/img/hero.jpg`)"
           class="white--text align-end my-3"
           gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.5)"
           max-height="200px"
@@ -57,7 +57,7 @@
           height="250"
           class="white--text align-end"
           gradient="to bottom, rgba(0,0,0,.01), rgba(0,0,0,.5)"
-          :src="v.imgs[0]"
+          :src="require(`~/assets/img/${v.imgs[0]}`)"
           dark
         >
           <div class="top-card-bar" dark>

@@ -17,7 +17,7 @@
           height="250"
           class="white--text align-end"
           gradient="to bottom, rgba(0,0,0,.01), rgba(0,0,0,.5)"
-          :src="varietie[0].imgs[0]"
+          :src="require(`~/assets/img/${varietie[0].imgs[0]}`)"
           dark
         >
           <div class="top-card-bar">

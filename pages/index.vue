@@ -4,7 +4,7 @@
       <v-col cols="12" sm="9" md="8" lg="6">
         <v-card class="mt-6">
           <v-img
-            :src="card.src"
+            :src="require(`~/assets/img/${card.src}`)"
             class="white--text align-end"
             gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.5)"
             height="250px"
@@ -69,7 +69,7 @@
                   width="150"
                   v-for="(item, i) in promo.src"
                   :key="i"
-                  :src="item"
+                  :src="require(`~/assets/img/${item}`)"
                   :gradient="`to bottom, rgba(0,0,0,.1), rgba(0,0,0,.3)`"
                 >
                   <v-card-title
@@ -90,7 +90,7 @@
 
         <v-subheader class="mt-3">nasze odmiany...</v-subheader>
         <v-card v-for="card in cards" :key="card.title" class="mx-auto mb-7">
-          <v-img :src="card.src" height="200px"></v-img>
+          <v-img :src="require(`~/assets/img/${card.src}`)" height="200px"></v-img>
 
           <v-card-title class="text-uppercase"> {{ card.title }} </v-card-title>
 
@@ -142,19 +142,19 @@ export default {
       varieties: [],
       cards: [
         {
-          src: "/kapustne/B_WC/cheeta.jpg",
+          src: "kapustne/B_WC/cheeta.jpg",
           title: "Kapusty",
           crop: ["B_WC", "B_CC", "B_SC"],
           show: false,
         },
         {
-          src: "/kapustne/B_CF/elintos.jpg",
+          src: "kapustne/B_CF/elintos.jpg",
           title: "Kalafiory",
           crop: ["B_CF"],
           show: false,
         },
         {
-          src: "/kapustne/B_KR/timpano.jpg",
+          src: "kapustne/B_KR/timpano.jpg",
           title: "Kalarepy",
           crop: ["B_KR"],
           show: false,
@@ -163,7 +163,7 @@ export default {
       show: false,
       selection: 0,
       card: {
-        src: "/hero.jpg",
+        src: "hero.jpg",
         title: "Sięgnij po cyfrowy katalog",
       },
       promos: [],
@@ -174,16 +174,16 @@ export default {
   created() {
     this.$store.dispatch("fetchVarieties");
     this.promos = this.$store.getters.getPromotions;
-    if (process.client) {
-      if (window.idTimer) {
-        clearInterval(window.idTimer);
-      }
-      window.idTimer = setInterval(() => {
-        this.presentTime = new Date().getTime();
+    // if (process.client) {
+    //   if (window.idTimer) {
+    //     clearInterval(window.idTimer);
+    //   }
+    //   window.idTimer = setInterval(() => {
+    //     this.presentTime = new Date().getTime();
 
-        console.log("?", window.idTimer);
-      }, 1000);
-    }
+    //     console.log("?", window.idTimer);
+    //   }, 1000);
+    // }
   },
   mounted() {},
   methods: {
