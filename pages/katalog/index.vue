@@ -86,7 +86,6 @@ export default {
   name: "katalog",
   data() {
     return {
-      open: false,
       loading: false,
       varieties: [],
       segmentsFilter: []
