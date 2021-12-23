@@ -1,13 +1,13 @@
 <template>
   <v-sheet>
     <v-row justify="center" align="center">
-      <v-col cols="12" sm="9" md="8" lg="6">
-        <v-card class="mt-6">
+      <v-col cols="12" sm="10" lg="8">
+        <v-card class="mr-lg-7">
           <v-img
             :src="require(`~/assets/img/${card.src}`)"
             class="white--text align-end"
-            gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.5)"
-            height="250px"
+            gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.3)"
+            height="auto"
           >
             <v-card-title class="headline" v-text="card.title"></v-card-title>
             <v-card-subtitle class="pb-0"
@@ -28,7 +28,8 @@
             </v-card-actions>
           </v-img>
         </v-card>
-
+      </v-col>
+      <v-col cols="12" sm="10" lg="4">
         <v-subheader class="mt-3">promocje...</v-subheader>
         <v-card
           v-for="promo in promos"
@@ -87,8 +88,12 @@
             </v-avatar>
           </div>
         </v-card>
+      </v-col>
+    </v-row>
 
-        <v-subheader class="mt-3">nasze odmiany...</v-subheader>
+    <v-row justify="center" align="center">
+      <v-col>  
+      <v-subheader class="mt-3">nasze odmiany...</v-subheader>
         <v-card v-for="card in cards" :key="card.title" class="mx-auto mb-7">
           <v-img :src="require(`~/assets/img/${card.src}`)" height="200px"></v-img>
 
@@ -123,8 +128,9 @@
             </div>
           </v-expand-transition>
         </v-card>
-      </v-col>
+      </v-col>  
     </v-row>
+
   </v-sheet>
 </template>
 

@@ -61,55 +61,20 @@
           <v-card-title>{{ crop }}</v-card-title>
         </v-card>
       </div>
-      <v-card
+      <base-medium-card
         :loading="loading"
         v-for="(v, key) in promotionCrop"
         :key="key"
-        class="mx-auto mb-6 rounded-sm"
-        elevation="6"
-        nuxt
-        :to="{ name: 'katalog-id', params: { id: v.id } }"
-      >
-        <template slot="progress">
-          <v-progress-linear
-            color="deep-purple"
-            height="10"
-            indeterminate
-          ></v-progress-linear>
-        </template>
-
-        <v-img
-          height="250"
-          class="white--text align-end"
-          gradient="to bottom, rgba(0,0,0,.01), rgba(0,0,0,.5)"
-          :src="require(`~/assets/img/${v.imgs[0]}`)"
-          dark
-        >
-          <div class="top-card-bar">
-            <div v-if="v.new" class="chip">NEW</div>
-            <img
-              v-if="v.provider == 'takii'"
-              class="takiiLogo"
-              src="/takiiLogoCut.png"
-            />
-          </div>
-          <v-card-subtitle class="pb-0">{{ v.segment }}</v-card-subtitle>
-          <v-card-title class="text-h4 text-uppercase pt-0"
-            >{{ v.name }} {{ v.hybrid ? "F1" : "" }}</v-card-title
-          >
-          <v-card-subtitle class=""> {{ v.type || "?" }} </v-card-subtitle>
-        </v-img>
-      </v-card>
-      <v-subheader class="mt-3">kontakt</v-subheader>
-      <v-card class="mx-auto">
-        <v-card-title height="large">call me &#128521;</v-card-title>
-      </v-card>
+        :varietie="v">
+      </base-medium-card>
     </v-col>
   </v-row>
 </template>
 
 <script>
+import BaseMediumCard from '../../components/BaseMediumCard.vue';
 export default {
+  components: { BaseMediumCard },
   name: "promocja",
   data() {
     return {

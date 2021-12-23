@@ -16,7 +16,7 @@
         <v-expansion-panels>
           <v-expansion-panel>
             <v-expansion-panel-header>
-              <h3>Filtry ({{segmentsFilter.length}})</h3>
+              <h3>Filtry ({{ segmentsFilter.length }})</h3>
             </v-expansion-panel-header>
             <v-expansion-panel-content>
               <v-chip-group v-model="segmentsFilter" column multiple>
@@ -35,46 +35,13 @@
           </v-expansion-panel>
         </v-expansion-panels>
       </v-card>
-
-      <v-card
+      <base-medium-card
         :loading="loading"
         v-for="(v, key) in filterdVarieties"
         :key="key"
-        class="mx-auto mt-9 rounded-sm"
-        elevation="6"
-        nuxt
-        :to="{ name: 'katalog-id', params: { id: v.id } }"
+        :varietie="v"
       >
-        <template slot="progress">
-          <v-progress-linear
-            color="green"
-            height="10"
-            indeterminate
-          ></v-progress-linear>
-        </template>
-
-        <v-img
-          height="250"
-          class="white--text align-end"
-          gradient="to bottom, rgba(0,0,0,.01), rgba(0,0,0,.5)"
-          :src="require(`~/assets/img/${v.imgs[0]}`)"
-          dark
-        >
-          <div class="top-card-bar" dark>
-            <div v-if="v.new" class="chip">NEW</div>
-            <img
-              v-if="v.provider == 'takii'"
-              class="takiiLogo"
-              src="/takiiLogoCut.png"
-            />
-          </div>
-          <v-card-subtitle class="pb-0">{{ v.segment }}</v-card-subtitle>
-          <v-card-title class="text-h4 text-uppercase pt-0"
-            >{{ v.name }} {{ v.hybrid ? "F1" : "" }}</v-card-title
-          >
-          <v-card-subtitle class=""> {{ v.type || "?" }} </v-card-subtitle>
-        </v-img>
-      </v-card>
+      </base-medium-card>
     </v-col>
   </v-row>
 </template>
@@ -82,25 +49,31 @@
 //import varieties from '../static/varieties.json'
 
 export default {
-  layout: 'katalog',
+  layout: "katalog",
   name: "katalog",
   data() {
     return {
       loading: false,
       varieties: [],
-      segmentsFilter: []
+      segmentsFilter: [],
     };
   },
   computed: {
     segments() {
       return this.$store.getters.getSegments;
     },
-    filterdVarieties(){
-      if(this.segmentsFilter.length > 0){
-        return this.varieties.filter(ele => this.segmentsFilter.includes(ele.segment) && ele.name.includes(this.$store.getters.getSearchPhrase))
+    filterdVarieties() {
+      if (this.segmentsFilter.length > 0) {
+        return this.varieties.filter(
+          (ele) =>
+            this.segmentsFilter.includes(ele.segment) &&
+            ele.name.includes(this.$store.getters.getSearchPhrase)
+        );
       }
-      return this.varieties.filter(ele => ele.name.toLowerCase().includes(this.$store.getters.getSearchPhrase))
-    }
+      return this.varieties.filter((ele) =>
+        ele.name.toLowerCase().includes(this.$store.getters.getSearchPhrase)
+      );
+    },
   },
   created() {
     this.varieties = this.$store.getters.getVarieties;
