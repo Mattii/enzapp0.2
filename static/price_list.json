@@ -1,2583 +1,2280 @@
 [
   {
-    "segmant": "beef",
+    "segment": "beef",
     "name": "BARTEZA",
     "quantity": "1000",
-    "unit": "nasion",
     "price": "2348.43",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "beef",
+    "segment": "beef",
     "name": "FIZUMA",
     "quantity": "1000",
-    "unit": "nasion",
     "price": "2046.684344061",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "beef",
+    "segment": "beef",
     "name": "FORENZA",
     "quantity": "500",
-    "unit": "nasion",
     "price": "1051.462488216",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "beef",
-    "name": "FORENZA",
-    "vitalis":true,
+    "segment": "beef",
+    "name": "FORENZA ORGANIC",
+    "vitalis": true,
     "quantity": "500",
-    "unit": "nasion",
     "price": "1266.0375",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "beef",
+    "segment": "beef",
     "name": "BAIKONUR",
     "quantity": "500",
-    "unit": "nasion",
     "price": "367.0518953535",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "beef",
+    "segment": "beef",
     "name": "BELLFORT",
     "quantity": "500",
-    "unit": "nasion",
     "price": "344.1093069225",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "beef",
-    "name": "BELLFORT",
-    "vitalis":true,
+    "segment": "beef",
+    "name": "BELLFORT ORGANIC",
+    "vitalis": true,
     "quantity": "500",
-    "unit": "nasion",
     "price": "381.759",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "beef",
+    "segment": "beef",
     "name": "BERBERANA",
     "quantity": "500",
-    "unit": "nasion",
     "price": "372.7904944155",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "beef",
+    "segment": "beef",
     "name": "ENZALINA",
     "quantity": "1000",
-    "unit": "nasion",
     "price": "2467.5",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "beef",
+    "segment": "beef",
     "name": "MATTINARO",
     "quantity": "1000",
-    "unit": "nasion",
     "price": "2614.5",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "beef",
+    "segment": "beef",
     "name": "ELPIDA",
     "quantity": "500",
-    "unit": "nasion",
     "price": "401.465778",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "beef pink",
-    "name": "BUENAROSA (E15A.42078)",
+    "segment": "beef pink",
+    "name": "BUENAROSA",
     "quantity": "500",
-    "unit": "nasion",
     "price": "1200",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "beef pink",
+    "segment": "beef pink",
     "name": "ENROZA",
     "quantity": "500",
-    "unit": "nasion",
-    "price": "1200",
-    "family": "pomidory"
+    "price": "656",
+    "family": "pomidor"
   },
   {
-    "segmant": "beef pink",
-    "name": "ENROZA",
-    "vitalis":true,
+    "segment": "beef pink",
+    "name": "ENROZA ORGANIC",
+    "vitalis": true,
     "quantity": "500",
-    "unit": "nasion",
-    "price": "1322.6697",
-    "family": "pomidory"
+    "price": "787.2",
+    "family": "pomidor"
   },
   {
-    "segmant": "beef pink",
+    "segment": "beef pink",
+    "name": "TAIPINK",
+    "quantity": "500",
+    "price": "366.05",
+    "family": "pomidor"
+  },
+  {
+    "segment": "beef pink",
     "name": "DIMEROSA",
     "quantity": "500",
-    "unit": "nasion",
-    "price": "349.8479059845",
-    "family": "pomidory"
+    "price": "349.85",
+    "family": "pomidor"
   },
   {
-    "segmant": "beef pink",
-    "name": "DIMEROSA",
-    "vitalis":true,
+    "segment": "beef pink",
+    "name": "DIMEROSA ORGANIC",
+    "vitalis": true,
     "quantity": "500",
-    "unit": "nasion",
-    "price": "436.8525",
-    "family": "pomidory"
+    "price": "436.85",
+    "family": "pomidor"
   },
   {
-    "segmant": "beef pink",
+    "segment": "beef pink",
     "name": "PERUGINO",
     "quantity": "500",
-    "unit": "nasion",
-    "price": "260.778",
-    "family": "pomidory"
+    "price": "260.78",
+    "family": "pomidor"
   },
   {
-    "segmant": "beef pink",
+    "segment": "beef pink",
     "name": "PINK BISOU",
     "quantity": "250",
-    "unit": "nasion",
-    "price": "344.11225887675",
-    "family": "pomidory"
+    "price": "327.725960835",
+    "family": "pomidor"
   },
   {
-    "segmant": "beef yellow",
+    "segment": "beef yellow",
     "name": "TAIYO",
     "quantity": "250",
-    "unit": "nasion",
     "price": "344.11225887675",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "specialities",
+    "segment": "specialities",
     "name": "ANNAISA",
     "quantity": "500",
-    "unit": "nasion",
     "price": "2800",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "specialities",
+    "segment": "specialities",
     "name": "ANNADARK",
     "quantity": "500",
-    "unit": "nasion",
     "price": "2800",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "specialities",
+    "segment": "specialities",
     "name": "ANNAORANGE",
     "quantity": "500",
-    "unit": "nasion",
     "price": "2800",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "specialities",
+    "segment": "specialities",
     "name": "ANNAROZAY",
     "quantity": "500",
-    "unit": "nasion",
     "price": "2800",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "specialities",
+    "segment": "specialities",
     "name": "ANNASUN",
     "quantity": "500",
-    "unit": "nasion",
     "price": "2800",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "specialities",
+    "segment": "specialities",
     "name": "ARDIROSE",
     "quantity": "500",
-    "unit": "nasion",
     "price": "1800",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "specialities",
+    "segment": "specialities",
     "name": "ARDILES",
     "quantity": "500",
-    "unit": "nasion",
     "price": "1900",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "specialities",
-    "name": "ARDILES",
-    "vitalis":true,
+    "segment": "specialities",
+    "name": "ARDILES ORGANIC",
+    "vitalis": true,
     "quantity": "500",
-    "unit": "nasion",
     "price": "2090",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "specialities",
+    "segment": "specialities",
     "name": "LAUDRUP",
     "quantity": "1000",
-    "unit": "nasion",
     "price": "4000",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "specialities",
+    "segment": "specialities",
     "name": "TOMAGINO",
     "quantity": "500",
-    "unit": "nasion",
     "price": "1974.1864",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "specialities",
-    "name": "TOMAGINO",
-    "vitalis":true,
+    "segment": "specialities",
+    "name": "TOMAGINO ORGANIC",
+    "vitalis": true,
     "quantity": "500",
-    "unit": "nasion",
     "price": "2369.0257",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "specialities",
+    "segment": "specialities",
     "name": "TOMAGELLOW",
     "quantity": "500",
-    "unit": "nasion",
     "price": "1974.1864",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "specialities",
+    "segment": "specialities",
     "name": "TOMARANGE",
     "quantity": "500",
-    "unit": "nasion",
     "price": "1974.1864",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "specialities",
+    "segment": "specialities",
     "name": "VESPOLINO",
     "quantity": "500",
-    "unit": "nasion",
     "price": "1886.750498",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "small round",
+    "segment": "small round",
     "name": "CAROLEZA",
     "quantity": "1000",
-    "unit": "nasion",
     "price": "3003",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "small round",
+    "segment": "small round",
     "name": "FIOREZA",
     "quantity": "500",
-    "unit": "nasion",
     "price": "1501.5",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "small round",
+    "segment": "small round",
     "name": "GRAZIANO",
     "quantity": "500",
-    "unit": "nasion",
     "price": "1410.15",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "truss large",
+    "segment": "truss large",
     "name": "MAXEZA",
     "quantity": "1000",
-    "unit": "nasion",
     "price": "2547.111436338",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "truss small",
+    "segment": "truss large",
+    "name": "EXTENZA",
+    "quantity": "1000",
+    "price": "2400",
+    "family": "pomidor"
+  },
+  {
+    "segment": "truss small",
     "name": "MILANEZA",
     "quantity": "1000",
-    "unit": "nasion",
     "price": "2423.412745446",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "san marzano",
+    "segment": "san marzano",
     "name": "POZZANO",
     "quantity": "500",
-    "unit": "nasion",
     "price": "372.7904944155",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "san marzano",
-    "name": "POZZANO",
-    "vitalis":true,
+    "segment": "san marzano",
+    "name": "POZZANO ORGANIC",
+    "vitalis": true,
     "quantity": "500",
-    "unit": "nasion",
     "price": "601.5765",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "medium",
+    "segment": "medium",
     "name": "CINDEL",
     "quantity": "500",
-    "unit": "nasion",
     "price": "240.8794668",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "medium",
-    "name": "CINDEL",
-    "vitalis":true,
+    "segment": "medium",
+    "name": "CINDEL ORGANIC",
+    "vitalis": true,
     "quantity": "500",
-    "unit": "nasion",
     "price": "319.9875",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "plum",
+    "segment": "small beef",
+    "name": "KANAVARO",
+    "quantity": "500",
+    "price": "1004.06366167",
+    "family": "pomidor"
+  },
+  {
+    "segment": "plum",
     "name": "GRANADERO",
     "quantity": "500",
-    "unit": "nasion",
     "price": "344.1093069225",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "plum",
-    "name": "GRANADERO",
-    "vitalis":true,
+    "segment": "plum",
+    "name": "GRANADERO ORGANIC",
+    "vitalis": true,
     "quantity": "500",
-    "unit": "nasion",
     "price": "412.7025",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "plum",
+    "segment": "plum",
     "name": "SAVANTAS",
     "quantity": "500",
-    "unit": "nasion",
     "price": "1276.3676982",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "plum",
-    "name": "SAVANTAS",
-    "vitalis":true,
+    "segment": "plum",
+    "name": "SAVANTAS ORGANIC",
+    "vitalis": true,
     "quantity": "500",
-    "unit": "nasion",
     "price": "1416.05625",
-    "family": "pomidory"
+    "family": "pomidor"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "FORTAMINO",
-    "quantity": "1000",
-    "unit": "nasion",
-    "price": "940.693356939",
-    "family": "ogórki"
+    "quantity": "1 000 pills",
+    "price": "895.89843518",
+    "family": "podkładka pomidory"
   },
   {
-    "segmant": "LET",
+    "segment": "LET",
     "name": "GULFSTREAM",
     "quantity": "1000",
-    "unit": "nasion",
     "price": "3068.54440578",
-    "family": "ogórki"
+    "family": "ogórek"
   },
   {
-    "segmant": "LET",
+    "segment": "LET",
     "name": "DEE LITE",
     "quantity": "1000",
-    "unit": "nasion",
     "price": "2980.614",
-    "family": "ogórki"
+    "family": "ogórek"
   },
   {
-    "segmant": "LET",
+    "segment": "LET",
     "name": "DEE ZIRE",
     "quantity": "1000",
-    "unit": "nasion",
     "price": "2980.614",
-    "family": "ogórki"
+    "family": "ogórek"
   },
   {
-    "segmant": "LET",
+    "segment": "LET",
     "name": "DEE FREECE",
     "quantity": "1000",
-    "unit": "nasion",
     "price": "3211",
-    "family": "ogórki"
+    "family": "ogórek"
   },
   {
-    "segmant": "LET",
+    "segment": "LET",
     "name": "KURIOS",
     "quantity": "1000",
-    "unit": "nasion",
     "price": "3037.9335",
-    "family": "ogórki"
+    "family": "ogórek"
   },
   {
-    "segmant": "LET",
+    "segment": "LET",
     "name": "LUCANIA",
     "quantity": "1000",
-    "unit": "nasion",
     "price": "2921.625",
-    "family": "ogórki"
+    "family": "ogórek"
   },
   {
-    "segmant": "LET",
+    "segment": "LET",
     "name": "SUMAPOL",
     "quantity": "1000",
-    "unit": "nasion",
     "price": "2915.3500173",
-    "family": "ogórki"
+    "family": "ogórek"
   },
   {
-    "segmant": "LET",
+    "segment": "LET",
     "name": "TOPLIGHT",
     "quantity": "1000",
-    "unit": "nasion",
     "price": "3086.114666754",
-    "family": "ogórki"
+    "family": "ogórek"
   },
   {
-    "segmant": "MIDI",
+    "segment": "MIDI",
     "name": "GRUMMEL",
     "quantity": "500",
-    "unit": "nasion",
     "price": "873.705",
-    "family": "ogórki"
+    "family": "ogórek"
   },
   {
-    "segmant": "MIDI",
+    "segment": "MIDI",
     "name": "MELEN",
     "quantity": "500",
-    "unit": "nasion",
     "price": "781.4945084544",
-    "family": "ogórki"
+    "family": "ogórek"
   },
   {
-    "segmant": "MIDI",
+    "segment": "MIDI",
     "name": "MELEN",
     "quantity": "250",
-    "unit": "nasion",
     "price": "404.7472542272",
-    "family": "ogórki"
+    "family": "ogórek"
   },
   {
-    "segmant": "BAT",
+    "segment": "BAT",
     "name": "PICOLINO",
     "quantity": "1000",
-    "unit": "nasion",
     "price": "1593.488519784",
-    "family": "ogórki"
+    "family": "ogórek"
   },
   {
-    "segmant": "PICKLING",
+    "segment": "PICKLING",
     "name": "BJORN",
     "quantity": "250",
-    "unit": "nasion",
     "price": "124.115",
-    "family": "ogórki"
+    "family": "ogórek"
   },
   {
-    "segmant": "PICKLING",
+    "segment": "PICKLING",
     "name": "GUNNAR",
     "quantity": "250",
-    "unit": "nasion",
     "price": "70.875",
-    "family": "ogórki"
+    "family": "ogórek"
   },
   {
-    "segmant": "PICKLING",
+    "segment": "PICKLING",
     "name": "SEVERIN",
     "quantity": "250",
-    "unit": "nasion",
     "price": "77.25",
-    "family": "ogórki"
+    "family": "ogórek"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "FLEXIFORT",
     "quantity": "500",
-    "unit": "nasion",
     "price": "127.08420984",
-    "family": "ogórki"
+    "family": "podkładka ogórek"
   },
   {
-    "segmant": "",
-    "name": "FLEXIFORT",
-    "vitalis":true,
+    "segment": "",
+    "name": "FLEXIFORT ORGANIC",
+    "vitalis": true,
     "quantity": "500",
-    "unit": "nasion",
     "price": "158.36625",
-    "family": "ogórki"
+    "family": "podkładka ogórek"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "STATUS",
     "quantity": "500",
-    "unit": "nasion",
     "price": "157.4501893965",
-    "family": "ogórki"
+    "family": "podkładka ogórek"
   },
   {
-    "segmant": "BLOCKY",
-    "name": "ABAY",
-    "vitalis":true,
+    "segment": "BLOCKY",
+    "name": "BANCKERS F1 ORGANIC",
+    "vitalis": true,
     "quantity": "500",
-    "unit": "nasion",
-    "price": "358.2495",
-    "family": "papryka"
-  },
-  {
-    "segmant": "BLOCKY",
-    "name": "BANCKERS",
-    "vitalis":true,
-    "quantity": "500",
-    "unit": "nasion",
     "price": "341.19",
     "family": "papryka"
   },
   {
-    "segmant": "BLOCKY",
-    "name": "BANCKERS",
+    "segment": "BLOCKY",
+    "name": "BANCKERS F1",
     "quantity": "500",
-    "unit": "nasion",
     "price": "273.10918444",
     "family": "papryka"
   },
   {
-    "segmant": "BLOCKY",
-    "name": "MADURO",
+    "segment": "BLOCKY",
+    "name": "MADURO F1",
     "quantity": "500",
-    "unit": "nasion",
     "price": "326.63858459024",
     "family": "papryka"
   },
   {
-    "segmant": "BLOCKY",
-    "name": "BLANCINA",
+    "segment": "BLOCKY",
+    "name": "DEVITO F1",
     "quantity": "500",
-    "unit": "nasion",
     "price": "263.822055231",
     "family": "papryka"
   },
   {
-    "segmant": "BLOCKY",
-    "name": "DEVITO",
+    "segment": "BLOCKY",
+    "name": "DRAGONEY F1",
     "quantity": "500",
-    "unit": "nasion",
-    "price": "263.822055231",
-    "family": "papryka"
-  },
-  {
-    "segmant": "BLOCKY",
-    "name": "DRAGONEY",
-    "quantity": "500",
-    "unit": "nasion",
     "price": "286.764643662",
     "family": "papryka"
   },
   {
-    "segmant": "BLOCKY",
-    "name": "MAGNO",
+    "segment": "BLOCKY",
+    "name": "MAGNO F1",
     "quantity": "500",
-    "unit": "nasion",
     "price": "401.465778",
     "family": "papryka"
   },
   {
-    "segmant": "BLOCKY",
-    "name": "MILENA",
+    "segment": "BLOCKY",
+    "name": "MILENA F1",
     "quantity": "500",
-    "unit": "nasion",
     "price": "326.63858459024",
     "family": "papryka"
   },
   {
-    "segmant": "BLOCKY",
-    "name": "TAMARIN",
-    "vitalis":true,
+    "segment": "STOłEK",
+    "name": "SIXTO F1",
     "quantity": "500",
-    "unit": "nasion",
-    "price": "1100.2845",
-    "family": "papryka"
-  },
-  {
-    "segmant": "STO?EK",
-    "name": "SIXTO",
-    "quantity": "500",
-    "unit": "nasion",
     "price": "854.99925",
     "family": "papryka"
   },
   {
-    "segmant": "JALAPENIO",
-    "name": "CUATRERO",
+    "segment": "JALAPENIO",
+    "name": "CUATRERO F1",
     "quantity": "250",
-    "unit": "nasion",
     "price": "106.270353",
     "family": "papryka"
   },
   {
-    "segmant": "HOT",
-    "name": "HYFFAE",
+    "segment": "HOT",
+    "name": "HYFFAE F1",
     "quantity": "250",
-    "unit": "nasion",
     "price": "121.0407512853",
     "family": "papryka"
   },
   {
-    "segmant": "HOT",
-    "name": "SHAKIRA",
+    "segment": "HOT",
+    "name": "SHAKIRA F1",
     "quantity": "250",
-    "unit": "nasion",
     "price": "110.037046623",
     "family": "papryka"
   },
   {
-    "segmant": "",
-    "name": "BIELIC",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "273.9298905",
+    "segment": "",
+    "name": "BIELIC F1",
+    "quantity": "2 500 prec.",
+    "price": "293.104982835",
     "family": "kalafior"
   },
   {
-    "segmant": "",
-    "name": "CHIONE",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "282.172",
+    "segment": "",
+    "name": "CHIONE F1",
+    "quantity": "2 500 prec.",
+    "price": "301.92404",
     "family": "kalafior"
   },
   {
-    "segmant": "",
-    "name": "CRENIQUE",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "260.574447",
+    "segment": "",
+    "name": "CROSSWAY F1",
+    "quantity": "2 500 prec.",
+    "price": "293.104982835",
     "family": "kalafior"
   },
   {
-    "segmant": "",
-    "name": "CROSSWAY",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "273.93156",
+    "segment": "",
+    "name": "ELINTOS F1",
+    "quantity": "2 500 prec.",
+    "price": "278.81465829",
     "family": "kalafior"
   },
   {
-    "segmant": "",
-    "name": "ELINTOS",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "260.574447",
+    "segment": "",
+    "name": "TELERGY F1",
+    "quantity": "2 500 prec.",
+    "price": "278.81465829",
     "family": "kalafior"
   },
   {
-    "segmant": "",
-    "name": "TELERGY",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "260.574447",
+    "segment": "",
+    "name": "XENIA F1",
+    "quantity": "2 500 prec.",
+    "price": "266.9067492",
     "family": "kalafior"
   },
   {
-    "segmant": "",
-    "name": "XENIA",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "249.44556",
+    "segment": "",
+    "name": "MARDI ORGANIC",
+    "quantity": "2 500 prec.",
+    "price": "694.216",
     "family": "kalafior"
   },
   {
-    "segmant": "",
-    "name": "HERSLO",
-    "vitalis":true,
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "648.8",
-    "family": "kalafior"
+    "segment": "",
+    "name": "ENDURO F1",
+    "quantity": "2 500 prec.",
+    "price": "90.3437636158",
+    "family": "kapusta pekiłska"
   },
   {
-    "segmant": "",
-    "name": "MARDI",
-    "vitalis":true,
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "648.8",
-    "family": "kalafior"
+    "segment": "",
+    "name": "ORIENT EXPRES F1",
+    "quantity": "2 500 prec.",
+    "price": "90.3437636158",
+    "family": "kapusta pekiłska"
   },
   {
-    "segmant": "",
-    "name": "ENDURO",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "84.43342394",
-    "family": "kapusta pekińska"
+    "segment": "",
+    "name": "ORIENT SURPRISE F1",
+    "quantity": "2 500 prec.",
+    "price": "90.3437636158",
+    "family": "kapusta pekiłska"
   },
   {
-    "segmant": "",
-    "name": "ORIENT EXPRES",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "84.43342394",
-    "family": "kapusta pekińska"
+    "segment": "",
+    "name": "PREDURO F1",
+    "quantity": "2 500 prec.",
+    "price": "90.3437636158",
+    "family": "kapusta pekiłska"
   },
   {
-    "segmant": "",
-    "name": "ORIENT SURPRISE",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "84.43342394",
-    "family": "kapusta pekińska"
+    "segment": "",
+    "name": "AVAYA F1",
+    "quantity": "2 500 prec.",
+    "price": "185.360448",
+    "family": "kalarepa"
   },
   {
-    "segmant": "",
-    "name": "PREDURO",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "84.43342394",
-    "family": "kapusta pekińska"
+    "segment": "",
+    "name": "SOLARES F1",
+    "quantity": "2 500 prec.",
+    "price": "185.360448",
+    "family": "kalarepa"
   },
   {
-    "segmant": "",
-    "name": "AVAYA",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "179.9616",
-    "family": "kalarapa"
-  },
-  {
-    "segmant": "",
-    "name": "SOLARES",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "179.9616",
-    "family": "kalarapa"
-  },
-  {
-    "segmant": "",
+    "segment": "",
     "name": "TIMPANO",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "144.612",
-    "family": "kalarapa"
+    "quantity": "2 500 prec.",
+    "price": "154.73484",
+    "family": "kalarepa"
   },
   {
-    "segmant": "",
-    "name": "OPUS",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "179.9616",
-    "family": "kalarapa"
+    "segment": "",
+    "name": "OPUS F1",
+    "quantity": "2 500 prec.",
+    "price": "185.360448",
+    "family": "kalarepa"
   },
   {
-    "segmant": "",
-    "name": "VIKORA",
-    "vitalis":true,
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "261.95",
-    "family": "kalarapa"
+    "segment": "",
+    "name": "VIKORA ORGANIC",
+    "vitalis": true,
+    "quantity": "2 500 prec.",
+    "price": "269.8085",
+    "family": "kalarepa"
   },
   {
-    "segmant": "",
-    "name": "SONHO",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "142.237026",
+    "segment": "",
+    "name": "SONHO F1",
+    "quantity": "2 500 prec.",
+    "price": "156.4607286",
     "family": "kapusta włoska"
   },
   {
-    "segmant": "",
-    "name": "CONVOY",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "142.2359239",
+    "segment": "",
+    "name": "CONVOY F1",
+    "quantity": "2 500 prec.",
+    "price": "152.192438573",
     "family": "kapusta włoska"
   },
   {
-    "segmant": "",
-    "name": "DEUCE",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "149.352",
+    "segment": "",
+    "name": "DEUCE F1",
+    "quantity": "2 500 prec.",
+    "price": "179.2224",
     "family": "kapusta włoska"
   },
   {
-    "segmant": "",
-    "name": "CHEERS",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "135.20512742",
+    "segment": "",
+    "name": "CHEETA F1",
+    "quantity": "2 500 prec.",
+    "price": "149.2992828",
     "family": "kapusta biała"
   },
   {
-    "segmant": "",
-    "name": "CHEETA",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "139.53204",
+    "segment": "",
+    "name": "COMMANDER (TCA-577) F1",
+    "quantity": "2 500 prec.",
+    "price": "158.78",
     "family": "kapusta biała"
   },
   {
-    "segmant": "",
-    "name": "COMPASS",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "135.20512742",
+    "segment": "",
+    "name": "COMPASS F1",
+    "quantity": "2 500 prec.",
+    "price": "144.6694863394",
     "family": "kapusta biała"
   },
   {
-    "segmant": "",
-    "name": "CORONATA",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "143.7207001296",
+    "segment": "",
+    "name": "CORONATA F1",
+    "quantity": "2 500 prec.",
+    "price": "153.781149138672",
     "family": "kapusta biała"
   },
   {
-    "segmant": "",
-    "name": "PREDECO",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "139.53466032",
+    "segment": "",
+    "name": "PREDECO F1",
+    "quantity": "2 500 prec.",
+    "price": "149.3020865424",
     "family": "kapusta biała"
   },
   {
-    "segmant": "",
-    "name": "STORKA",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "139.53466032",
+    "segment": "",
+    "name": "STORKA F1",
+    "quantity": "2 500 prec.",
+    "price": "149.3020865424",
     "family": "kapusta biała"
   },
   {
-    "segmant": "",
-    "name": "STRUKTA",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "139.53466032",
+    "segment": "",
+    "name": "STRUKTA F1",
+    "quantity": "2 500 prec.",
+    "price": "149.3020865424",
     "family": "kapusta biała"
   },
   {
-    "segmant": "",
-    "name": "SUNTA",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "135.20512742",
+    "segment": "",
+    "name": "SUNTA F1",
+    "quantity": "2 500 prec.",
+    "price": "144.6694863394",
     "family": "kapusta biała"
   },
   {
-    "segmant": "",
-    "name": "VERDECO",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "139.53466032",
+    "segment": "",
+    "name": "TCA-581 F1",
+    "quantity": "2 500 prec.",
+    "price": "158.78",
     "family": "kapusta biała"
   },
   {
-    "segmant": "",
-    "name": "VERTEX",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "139.53466032",
+    "segment": "",
+    "name": "VERDECO F1",
+    "quantity": "2 500 prec.",
+    "price": "149.3020865424",
     "family": "kapusta biała"
   },
   {
-    "segmant": "",
-    "name": "AUTUMN QUEEN",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "139.53466032",
+    "segment": "",
+    "name": "AUTUMN KING F1",
+    "quantity": "2 500 prec.",
+    "price": "158.49",
     "family": "kapusta płaska"
   },
   {
-    "segmant": "",
-    "name": "GREEN LUNAR",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "139.53466032",
+    "segment": "",
+    "name": "AUTUMN QUEEN F",
+    "quantity": "2 500 prec.",
+    "price": "153.488126352",
     "family": "kapusta płaska"
   },
   {
-    "segmant": "",
-    "name": "O-S-CROSS",
-    "quantity": "2500",
-    "unit": "nasion",
-    "price": "139.53466032",
+    "segment": "",
+    "name": "GREEN LUNAR F1",
+    "quantity": "2 500 prec.",
+    "price": "153.488126352",
     "family": "kapusta płaska"
   },
   {
-    "segmant": "",
-    "name": "PRELUDIO",
-    "vitalis":true,
-    "quantity": "1000",
-    "unit": "nasion",
-    "price": "98.15",
+    "segment": "",
+    "name": "GEEN STELLAR F1",
+    "quantity": "2 500 prec.",
+    "price": "158.49",
+    "family": "kapusta płaska"
+  },
+  {
+    "segment": "",
+    "name": "O-S-CROSS F1",
+    "quantity": "2 500 prec.",
+    "price": "153.488126352",
+    "family": "kapusta płaska"
+  },
+  {
+    "segment": "",
+    "name": "INFINITY F1",
+    "quantity": "2 500 prec.",
+    "price": "158.49",
+    "family": "kapusta płaska"
+  },
+  {
+    "segment": "",
+    "name": "PRELUDIO ORGANIC",
+    "vitalis": true,
+    "quantity": "1000 pills",
+    "price": "107.965",
     "family": "koper włoski"
   },
   {
-    "segmant": "",
-    "name": "PRELUDIO",
-    "vitalis":true,
-    "quantity": "1000",
-    "unit": "nasion",
-    "price": "81.81",
+    "segment": "",
+    "name": "PRELUDIO ORGANIC",
+    "vitalis": true,
+    "quantity": "1000 prec.",
+    "price": "85.9005",
     "family": "koper włoski"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "ASCARI",
-    "quantity": "10000",
-    "unit": "nasion",
-    "price": "853.5536664",
+    "quantity": "10 000 pills",
+    "price": "879.160276392",
     "family": "endywia"
   },
   {
-    "segmant": "",
-    "name": "BENEFINE",
-    "quantity": "10000",
-    "unit": "nasion",
-    "price": "944.38434",
+    "segment": "",
+    "name": "COMANECI",
+    "quantity": "10 000 pills",
+    "price": "1038.822774",
     "family": "endywia"
   },
   {
-    "segmant": "",
-    "name": "COMANECHI",
-    "quantity": "10000",
-    "unit": "nasion",
-    "price": "944.38434",
-    "family": "endywia"
-  },
-  {
-    "segmant": "",
+    "segment": "",
     "name": "CONFIANCE",
-    "quantity": "10000",
-    "unit": "nasion",
-    "price": "853.5536664",
+    "quantity": "10 000 pills",
+    "price": "938.90903304",
     "family": "endywia"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "CURLESI",
-    "quantity": "10000",
-    "unit": "nasion",
-    "price": "944.38434",
+    "quantity": "10 000 pills",
+    "price": "972.7158702",
     "family": "endywia"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "DOMARI",
-    "quantity": "10000",
-    "unit": "nasion",
-    "price": "853.5536664",
+    "quantity": "10 000 pills",
+    "price": "879.160276392",
     "family": "endywia"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "ELIANCE",
-    "quantity": "10000",
-    "unit": "nasion",
-    "price": "853.5536664",
+    "quantity": "10 000 pills",
+    "price": "879.160276392",
     "family": "endywia"
   },
   {
-    "segmant": "",
-    "name": "FLESTER",
-    "quantity": "10000",
-    "unit": "nasion",
-    "price": "853.5536664",
-    "family": "endywia"
-  },
-  {
-    "segmant": "",
+    "segment": "",
     "name": "IMARI",
-    "quantity": "10000",
-    "unit": "nasion",
-    "price": "853.5536664",
+    "quantity": "10 000 pills",
+    "price": "1024.26439968",
     "family": "endywia"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "MARATONETA",
-    "quantity": "10000",
-    "unit": "nasion",
-    "price": "911.10888",
+    "quantity": "10 000 pills",
+    "price": "974.8865016",
     "family": "endywia"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "MYRNA",
-    "quantity": "10000",
-    "unit": "nasion",
-    "price": "853.5536664",
+    "quantity": "10 000 pills",
+    "price": "879.160276392",
     "family": "endywia"
   },
   {
-    "segmant": "",
-    "name": "NUANCE",
-    "quantity": "10000",
-    "unit": "nasion",
-    "price": "853.5536664",
-    "family": "endywia"
-  },
-  {
-    "segmant": "",
+    "segment": "",
     "name": "MILIARI",
-    "quantity": "10000",
-    "unit": "nasion",
-    "price": "853.5536664",
+    "quantity": "10 000 pills",
+    "price": "913.302423048",
     "family": "endywia"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "PARMANCE",
-    "quantity": "10000",
-    "unit": "nasion",
-    "price": "853.5536664",
+    "quantity": "10 000 pills",
+    "price": "879.160276392",
     "family": "endywia"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "PERFORMANCE",
-    "quantity": "10000",
-    "unit": "nasion",
-    "price": "853.5536664",
+    "quantity": "10 000 pills",
+    "price": "938.90903304",
     "family": "endywia"
   },
   {
-    "segmant": "",
+    "segment": "",
+    "name": "SEANCE",
+    "quantity": "10 000 pills",
+    "price": "960",
+    "family": "endywia"
+  },
+  {
+    "segment": "",
     "name": "SIMBARI",
-    "quantity": "10000",
-    "unit": "nasion",
-    "price": "944.38434",
+    "quantity": "10 000 pills",
+    "price": "972.7158702",
     "family": "endywia"
   },
   {
-    "segmant": "Batavia",
+    "segment": "Batavia",
     "name": "CAIPIRA",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.4972332",
+    "quantity": "10 000 pills",
+    "price": "989.744079048",
     "family": "sałata"
   },
   {
-    "segmant": "Batavia",
-    "name": "MELINA",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.4972332",
-    "family": "sałata"
-  },
-  {
-    "segmant": "Batavia",
+    "segment": "Batavia",
     "name": "OLANA",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "478.538",
+    "quantity": "10 000 pills",
+    "price": "1024.07132",
     "family": "sałata"
   },
   {
-    "segmant": "Butterhead",
+    "segment": "Butterhead",
     "name": "AFERDITA",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.47",
+    "quantity": "10 000 pills",
+    "price": "989.6858",
     "family": "sałata"
   },
   {
-    "segmant": "Butterhead",
+    "segment": "Butterhead",
     "name": "ANALENA",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.47",
+    "quantity": "5000 pills",
+    "price": "494.8429",
     "family": "sałata"
   },
   {
-    "segmant": "Butterhead",
+    "segment": "Butterhead",
     "name": "ANANDRA",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.47",
+    "quantity": "5000 pills",
+    "price": "494.8429",
     "family": "sałata"
   },
   {
-    "segmant": "Butterhead",
+    "segment": "Butterhead",
     "name": "CASEY",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "459.895",
+    "quantity": "10 000 pills",
+    "price": "1040",
     "family": "sałata"
   },
   {
-    "segmant": "Butterhead",
+    "segment": "Butterhead",
+    "name": "DICATA",
+    "quantity": "10 000 pills",
+    "price": "1160",
+    "family": "sałata"
+  },
+  {
+    "segment": "Butterhead",
     "name": "FAIRLY",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "459.90015",
+    "quantity": "10 000 pills",
+    "price": "984.186321",
     "family": "sałata"
   },
   {
-    "segmant": "Butterhead",
-    "name": "FAIRLY",
-    "vitalis":true,
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "596.2",
+    "segment": "Butterhead",
+    "name": "FAIRLY ORGANIC",
+    "vitalis": true,
+    "quantity": "10 000 pills",
+    "price": "1275.868",
     "family": "sałata"
   },
   {
-    "segmant": "Butterhead",
+    "segment": "Butterhead",
     "name": "LOBETINA",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "480",
+    "quantity": "10 000 pills",
+    "price": "1027.2",
     "family": "sałata"
   },
   {
-    "segmant": "Butterhead",
+    "segment": "Butterhead",
     "name": "ILONA",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "485.5935",
+    "quantity": "10 000 pills",
+    "price": "1039.17009",
     "family": "sałata"
   },
   {
-    "segmant": "Butterhead",
+    "segment": "Butterhead",
     "name": "MELODION",
-    "quantity": "5",
-    "unit": "g",
-    "price": "111.458154",
+    "quantity": "5 g",
+    "price": "119.26022478",
     "family": "sałata"
   },
   {
-    "segmant": "Butterhead",
+    "segment": "Butterhead",
     "name": "MELODION",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "359.9124468",
+    "quantity": "10 000 pills",
+    "price": "770.212636152",
     "family": "sałata"
   },
   {
-    "segmant": "Butterhead",
+    "segment": "Butterhead",
     "name": "STRETCHA",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.47",
+    "quantity": "10 000 pills",
+    "price": "989.6858",
     "family": "sałata"
   },
   {
-    "segmant": "Butterhead",
+    "segment": "Butterhead",
     "name": "STRETCHA",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "161.8848528",
+    "quantity": "5000 prec.",
+    "price": "173.216792496",
     "family": "sałata"
   },
   {
-    "segmant": "Butterhead",
+    "segment": "Butterhead",
     "name": "TAKODA",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "485.5935",
+    "quantity": "5000 pills",
+    "price": "519.585045",
     "family": "sałata"
   },
   {
-    "segmant": "Butterhead",
+    "segment": "Butterhead",
     "name": "VITRINE",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.47",
+    "quantity": "10 000 pills",
+    "price": "989.6858",
     "family": "sałata"
   },
   {
-    "segmant": "Iceberg",
+    "segment": "Iceberg",
     "name": "ADANTO",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "441.0712968",
+    "quantity": "10 000 pills",
+    "price": "943.892575152",
     "family": "sałata"
   },
   {
-    "segmant": "Iceberg",
+    "segment": "Iceberg",
     "name": "ALESSO",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "449.8905585",
+    "quantity": "10 000 pills",
+    "price": "962.76579519",
     "family": "sałata"
   },
   {
-    "segmant": "Iceberg",
+    "segment": "Iceberg",
     "name": "CELLIST",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "445.6702983",
+    "quantity": "10 000 pills",
+    "price": "953.734438362",
     "family": "sałata"
   },
   {
-    "segmant": "Iceberg",
+    "segment": "Iceberg",
     "name": "CASEMIRO",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.47",
+    "quantity": "10 000 pills",
+    "price": "1007.76",
     "family": "sałata"
   },
   {
-    "segmant": "Iceberg",
+    "segment": "Iceberg",
     "name": "DAMION",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "445.6702983",
+    "quantity": "10 000 pills",
+    "price": "953.734438362",
     "family": "sałata"
   },
   {
-    "segmant": "Iceberg",
+    "segment": "Iceberg",
     "name": "DANILO",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "470.916",
+    "quantity": "10 000 pills",
+    "price": "1007.76024",
     "family": "sałata"
   },
   {
-    "segmant": "Iceberg",
-    "name": "EDUARDO",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.47",
-    "family": "sałata"
-  },
-  {
-    "segmant": "Iceberg",
+    "segment": "Iceberg",
     "name": "ETUDE",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "389.56248",
+    "quantity": "10 000 pills",
+    "price": "833.6637072",
     "family": "sałata"
   },
   {
-    "segmant": "Iceberg",
-    "name": "FARITO",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "449.8905585",
-    "family": "sałata"
-  },
-  {
-    "segmant": "Iceberg",
-    "name": "FEDERICO",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "449.8905585",
-    "family": "sałata"
-  },
-  {
-    "segmant": "Iceberg",
+    "segment": "Iceberg",
     "name": "GARDIST",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "449.8905585",
+    "quantity": "5000 pills",
+    "price": "481.382897595",
     "family": "sałata"
   },
   {
-    "segmant": "Iceberg",
+    "segment": "Iceberg",
     "name": "GONZALO",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.4972332",
+    "quantity": "10 000 pills",
+    "price": "1007.76",
     "family": "sałata"
   },
   {
-    "segmant": "Iceberg",
+    "segment": "Iceberg",
+    "name": "NAPELO",
+    "quantity": "10 000 pills",
+    "price": "1016.5",
+    "family": "sałata"
+  },
+  {
+    "segment": "Iceberg",
     "name": "PHILEMO",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "475",
+    "quantity": "10 000 pills",
+    "price": "1016.5",
     "family": "sałata"
   },
   {
-    "segmant": "Iceberg",
+    "segment": "Iceberg",
     "name": "RODOLFO",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.4972332",
+    "quantity": "10 000 pills",
+    "price": "1007.76",
     "family": "sałata"
   },
   {
-    "segmant": "Iceberg",
+    "segment": "Iceberg",
     "name": "SALVIO",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "475",
+    "quantity": "5000 pills",
+    "price": "508.25",
     "family": "sałata"
   },
   {
-    "segmant": "Iceberg",
+    "segment": "Iceberg",
     "name": "SEVERO",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.4972332",
+    "quantity": "5000 pills",
+    "price": "503.88",
     "family": "sałata"
   },
   {
-    "segmant": "Lollo Bionda",
+    "segment": "Lollo Bionda",
     "name": "BRIETTA",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "485.5935",
+    "quantity": "10 000 pills",
+    "price": "1087.72944",
     "family": "sałata"
   },
   {
-    "segmant": "Lollo Bionda",
+    "segment": "Lollo Bionda",
     "name": "DABI",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "459.90015",
+    "quantity": "10 000 pills",
+    "price": "984.186321",
     "family": "sałata"
   },
   {
-    "segmant": "Lollo Bionda",
-    "name": "ILEMA",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.4972332",
-    "family": "sałata"
-  },
-  {
-    "segmant": "Lollo Bionda",
-    "name": "ILEMA",
-    "vitalis":true,
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "611.65",
-    "family": "sałata"
-  },
-  {
-    "segmant": "Lollo Bionda",
+    "segment": "Lollo Bionda",
     "name": "JOKARY",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "508.74695652",
+    "quantity": "10 000 pills",
+    "price": "1048.0187304312",
     "family": "sałata"
   },
   {
-    "segmant": "Lollo Bionda",
-    "name": "LOBI",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "110.376036",
-    "family": "sałata"
-  },
-  {
-    "segmant": "Lollo Bionda",
+    "segment": "Lollo Bionda",
     "name": "VILI",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "449.8905585",
+    "quantity": "10 000 pills",
+    "price": "1000",
     "family": "sałata"
   },
   {
-    "segmant": "Lollo Rossa",
+    "segment": "Lollo Rossa",
     "name": "AKANE",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "454.9",
+    "quantity": "10 000 pills",
+    "price": "973.486",
     "family": "sałata"
   },
   {
-    "segmant": "Lollo Rossa",
+    "segment": "Lollo Rossa",
     "name": "AZIRKA",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "449.8905585",
+    "quantity": "10 000 pills",
+    "price": "962.76579519",
     "family": "sałata"
   },
   {
-    "segmant": "Lollo Rossa",
+    "segment": "Lollo Rossa",
     "name": "LEA",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.4972332",
+    "quantity": "10 000 pills",
+    "price": "962.76",
     "family": "sałata"
   },
   {
-    "segmant": "Lollo Rossa",
-    "name": "SENSO",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "511.601",
-    "family": "sałata"
-  },
-  {
-    "segmant": "Lollo Rossa",
+    "segment": "Lollo Rossa",
     "name": "TUSKA",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "161.8848528",
+    "quantity": "5000 prec.",
+    "price": "173.216792496",
     "family": "sałata"
   },
   {
-    "segmant": "Oakleaf green",
-    "name": "ALONIX",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.5",
-    "family": "sałata"
-  },
-  {
-    "segmant": "Oakleaf green",
-    "name": "ARDEOR",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "472.77",
-    "family": "sałata"
-  },
-  {
-    "segmant": "Oakleaf green",
-    "name": "ALZEVIR",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.5",
-    "family": "sałata"
-  },
-  {
-    "segmant": "Oakleaf green",
-    "name": "MATHIX",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.4972332",
-    "family": "sałata"
-  },
-  {
-    "segmant": "Oakleaf green",
-    "name": "PLEZIR",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.4972332",
-    "family": "sałata"
-  },
-  {
-    "segmant": "Oakleaf red",
+    "segment": "Oakleaf red",
     "name": "ROSALYN",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "511.601",
+    "quantity": "10 000 pills",
+    "price": "1053.89806",
     "family": "sałata"
   },
   {
-    "segmant": "Romaine",
-    "name": "CHABI",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "441.504144",
-    "family": "sałata"
-  },
-  {
-    "segmant": "Romaine",
+    "segment": "Romaine",
     "name": "CLOUNY",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.4972332",
+    "quantity": "10 000 pills",
+    "price": "989.744079048",
     "family": "sałata"
   },
   {
-    "segmant": "Romaine",
+    "segment": "Romaine",
     "name": "COLBIANA",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.4972332",
+    "quantity": "10 000 pills",
+    "price": "989.744079048",
     "family": "sałata"
   },
   {
-    "segmant": "Romaine",
-    "name": "CORBANA",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.4972332",
-    "family": "sałata"
-  },
-  {
-    "segmant": "Romaine",
-    "name": "KAIDU",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "441.504144",
-    "family": "sałata"
-  },
-  {
-    "segmant": "Romaine",
-    "name": "KHAN",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "441.504144",
-    "family": "sałata"
-  },
-  {
-    "segmant": "Romaine",
+    "segment": "Romaine",
     "name": "KILNSEY",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "450",
+    "quantity": "10 000 pills",
+    "price": "990",
     "family": "sałata"
   },
   {
-    "segmant": "Romaine",
+    "segment": "Romaine",
     "name": "XALBADORA",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "459.90015",
+    "quantity": "10 000 pills",
+    "price": "984.186321",
     "family": "sałata"
   },
   {
-    "segmant": "Romaine",
-    "name": "XALBADORA",
-    "vitalis":true,
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "592.6",
+    "segment": "Romaine",
+    "name": "XALBADORA Organic",
+    "vitalis": true,
+    "quantity": "10 000 pills",
+    "price": "1268.164",
     "family": "sałata"
   },
   {
-    "segmant": "Romaine",
+    "segment": "Romaine",
     "name": "XANADU",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "441.504144",
+    "quantity": "10 000 pills",
+    "price": "944.81886816",
     "family": "sałata"
   },
   {
-    "segmant": "Romaine",
+    "segment": "Romaine",
     "name": "XAVIRA",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.4972332",
+    "quantity": "10 000 pills",
+    "price": "989.744079048",
     "family": "sałata"
   },
   {
-    "segmant": "Romaine",
+    "segment": "Romaine",
     "name": "XERUSES",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.4972332",
+    "quantity": "10 000 pills",
+    "price": "1072.993581024",
     "family": "sałata"
   },
   {
-    "segmant": "Romaine",
+    "segment": "Romaine",
     "name": "XEMERIUS",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.4972332",
+    "quantity": "10 000 pills",
+    "price": "1072.993581024",
     "family": "sałata"
   },
   {
-    "segmant": "Romaine",
+    "segment": "Romaine",
     "name": "XIMENES",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.4972332",
+    "quantity": "10 000 pills",
+    "price": "989.744079048",
     "family": "sałata"
   },
   {
-    "segmant": "Romaine",
+    "segment": "Romaine",
     "name": "XOANA",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.4972332",
+    "quantity": "10 000 pills",
+    "price": "1128.493249008",
     "family": "sałata"
   },
   {
-    "segmant": "Romaine",
+    "segment": "Romaine",
     "name": "XIOMARA",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.4972332",
+    "quantity": "10 000 pills",
+    "price": "989.744079048",
     "family": "sałata"
   },
   {
-    "segmant": "Romaine RED",
+    "segment": "Romaine RED",
+    "name": "MOONRED",
+    "quantity": "10 000 pills",
+    "price": "990",
+    "family": "sałata"
+  },
+  {
+    "segment": "Romaine RED",
     "name": "OVIRED",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.064386",
+    "quantity": "10 000 pills",
+    "price": "990",
     "family": "sałata"
   },
   {
-    "segmant": "Romaine RED",
-    "name": "REDOUAN",
-    "quantity": "5000",
-    "unit": "nasion",
-    "price": "462.4972332",
-    "family": "sałata"
-  },
-  {
-    "segmant": "",
-    "name": "CHEROKEE",
+    "segment": "",
+    "name": "CHEROKEE F1",
     "quantity": "10000",
-    "unit": "nasion",
-    "price": "670.5853419",
-    "family": "pory"
+    "price": "717.526315833",
+    "family": "por"
   },
   {
-    "segmant": "",
-    "name": "CHEROKEE",
-    "vitalis":true,
+    "segment": "",
+    "name": "CHEROKEE F1 Organic",
+    "vitalis": true,
     "quantity": "10000",
-    "unit": "nasion",
-    "price": "763",
-    "family": "pory"
+    "price": "839.3",
+    "family": "por"
   },
   {
-    "segmant": "",
-    "name": "CHINOOK",
+    "segment": "",
+    "name": "CHINOOK F1",
     "quantity": "10000",
-    "unit": "nasion",
-    "price": "659.5",
-    "family": "pory"
+    "price": "705.665",
+    "family": "por"
   },
   {
-    "segmant": "",
-    "name": "CHINOOK",
-    "vitalis":true,
+    "segment": "",
+    "name": "CHINOOK F1 Organic",
+    "vitalis": true,
     "quantity": "10000",
-    "unit": "nasion",
-    "price": "747.8",
-    "family": "pory"
+    "price": "822.58",
+    "family": "por"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "COMANCHE F1",
     "quantity": "10000",
-    "unit": "nasion",
-    "price": "670.6",
-    "family": "pory"
+    "price": "717.542",
+    "family": "por"
   },
   {
-    "segmant": "",
-    "name": "COMANCHE",
-    "vitalis":true,
+    "segment": "",
+    "name": "COMANCHE F1 Organic",
+    "vitalis": true,
     "quantity": "10000",
-    "unit": "nasion",
-    "price": "751.3",
-    "family": "pory"
+    "price": "826.43",
+    "family": "por"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "OSLO F1",
     "quantity": "10000",
-    "unit": "nasion",
-    "price": "693.349",
-    "family": "pory"
+    "price": "845.88578",
+    "family": "por"
   },
   {
-    "segmant": "",
-    "name": "BONUS F1",
-    "quantity": "250000",
-    "unit": "nasion",
-    "price": "1017.4092",
-    "family": "cebula"
-  },
-  {
-    "segmant": "",
-    "name": "BRUCE F1",
-    "quantity": "250000",
-    "unit": "nasion",
-    "price": "1017.6",
-    "family": "cebula"
-  },
-  {
-    "segmant": "",
-    "name": "SUPERON F1",
-    "quantity": "250000",
-    "unit": "nasion",
-    "price": "1017.6",
-    "family": "cebula"
-  },
-  {
-    "segmant": "",
-    "name": "MEDUSA F1",
-    "quantity": "250000",
-    "unit": "nasion",
-    "price": "1080.1188",
-    "family": "cebula"
-  },
-  {
-    "segmant": "",
-    "name": "NOVISTA F1",
-    "quantity": "250000",
-    "unit": "nasion",
-    "price": "971.9988",
-    "family": "cebula"
-  },
-  {
-    "segmant": "",
-    "name": "SENSHYU YELL",
-    "quantity": "250000",
-    "unit": "nasion",
-    "price": "594.66",
-    "family": "cebula"
-  },
-  {
-    "segmant": "",
+    "segment": "TYP JAPOłSKI",
     "name": "TAKMARK F1",
-    "quantity": "250000",
-    "unit": "nasion",
-    "price": "1017.4092",
+    "quantity": "250 000 prec.",
+    "price": "1088.627844",
     "family": "cebula"
   },
   {
-    "segmant": "",
+    "segment": "TYP JAPOłSKI",
     "name": "TAKSTAR F1",
-    "quantity": "250000",
-    "unit": "nasion",
-    "price": "1017.4092",
+    "quantity": "250 000 prec.",
+    "price": "1088.627844",
     "family": "cebula"
   },
   {
-    "segmant": "",
+    "segment": "TYP JAPOłSKI",
+    "name": "SUPERON F1",
+    "quantity": "250 000 prec.",
+    "price": "1088.832",
+    "family": "cebula"
+  },
+  {
+    "segment": "TYP JAPOłSKI",
+    "name": "BONUS F1",
+    "quantity": "250 000 prec.",
+    "price": "1088.627844",
+    "family": "cebula"
+  },
+  {
+    "segment": "TYP JAPOłSKI",
+    "name": "MEDUSA F1",
+    "quantity": "250 000 prec.",
+    "price": "1155.727116",
+    "family": "cebula"
+  },
+  {
+    "segment": "TYP HISZPAłSKI",
     "name": "VUELTA F1",
-    "quantity": "250000",
-    "unit": "nasion",
-    "price": "1188.2388",
+    "quantity": "250 000 prec.",
+    "price": "1271.415516",
     "family": "cebula"
   },
   {
-    "segmant": "",
+    "segment": "RIJNSBURER",
+    "name": "BRUCE F1",
+    "quantity": "250 000 prec.",
+    "price": "1088.832",
+    "family": "cebula"
+  },
+  {
+    "segment": "RIJNS. CZERWONY",
+    "name": "MONASTRELL F1",
+    "quantity": "250 000 prec.",
+    "price": "800",
+    "family": "cebula"
+  },
+  {
+    "segment": "RIJNS. CZERWONY",
     "name": "RUBY STAR F1",
-    "quantity": "250000",
-    "unit": "nasion",
-    "price": "1272",
+    "quantity": "250 000 prec.",
+    "price": "1361.04",
     "family": "cebula"
   },
   {
-    "segmant": "",
+    "segment": "ZIMUJłCA",
+    "name": "SENSHYU YELLOW",
+    "quantity": "250 000 prec.",
+    "price": "636.2862",
+    "family": "cebula"
+  },
+  {
+    "segment": "ZIMUJłCA",
+    "name": "GALATEA F1",
+    "quantity": "250 000 prec.",
+    "price": "2600",
+    "family": "cebula"
+  },
+  {
+    "segment": "ZIMUJłCA",
+    "name": "SONIC F1",
+    "quantity": "250 000 prec.",
+    "price": "2600",
+    "family": "cebula"
+  },
+  {
+    "segment": "ZIMUJłCA",
+    "name": "TOUGH BALL F1",
+    "quantity": "250 000 prec.",
+    "price": "2600",
+    "family": "cebula"
+  },
+  {
+    "segment": "",
     "name": "ESTAFETTE F1",
-    "quantity": "50000",
-    "unit": "nasion",
-    "price": "145.962",
+    "quantity": "50 000 prec.",
+    "price": "156.17934",
     "family": "cebula siedmiolatka"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "FEAST",
-    "quantity": "50000",
-    "unit": "nasion",
-    "price": "108.12",
+    "quantity": "50 000 prec.",
+    "price": "115.6884",
     "family": "cebula siedmiolatka"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "KAIGARO F1",
-    "quantity": "100000",
-    "unit": "nasion",
-    "price": "218.272656",
+    "quantity": "100 000 prec.",
+    "price": "233.55174192",
     "family": "cebula siedmiolatka"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "TYCOON F1",
-    "quantity": "50000",
-    "unit": "nasion",
-    "price": "135.15",
+    "quantity": "50 000 prec.",
+    "price": "144.6105",
     "family": "cebula siedmiolatka"
   },
   {
-    "segmant": "",
-    "name": "BRIGHT SUMMER",
-    "vitalis":true,
+    "segment": "",
+    "name": "BELLATRIX F1",
     "quantity": "500",
-    "unit": "nasion",
-    "price": "434.6",
+    "price": "157.825",
     "family": "dynia"
   },
   {
-    "segmant": "",
-    "name": "BELLATRIX",
+    "segment": "",
+    "name": "FLEXI KURI F1",
     "quantity": "500",
-    "unit": "nasion",
-    "price": "147.5",
+    "price": "393.225",
     "family": "dynia"
   },
   {
-    "segmant": "",
-    "name": "FLEXI KURI",
+    "segment": "",
+    "name": "HANNAH F1",
     "quantity": "500",
-    "unit": "nasion",
-    "price": "367.5",
+    "price": "156.4254614",
     "family": "dynia"
   },
   {
-    "segmant": "",
-    "name": "HANNAH",
+    "segment": "",
+    "name": "HANNAH F1 ORGANIC",
+    "vitalis": true,
     "quantity": "500",
-    "unit": "nasion",
-    "price": "146.19202",
+    "price": "187.6994",
     "family": "dynia"
   },
   {
-    "segmant": "",
-    "name": "HANNAH",
-    "vitalis":true,
+    "segment": "",
+    "name": "KAORI KURI F1",
     "quantity": "500",
-    "unit": "nasion",
-    "price": "175.42",
+    "price": "387.78298",
     "family": "dynia"
   },
   {
-    "segmant": "",
-    "name": "KAORI KURI",
+    "segment": "",
+    "name": "KAORI KURI F1 ORGANIC",
+    "vitalis": true,
     "quantity": "500",
-    "unit": "nasion",
-    "price": "362.414",
+    "price": "465.33765",
     "family": "dynia"
   },
   {
-    "segmant": "",
-    "name": "KAORI KURI",
-    "vitalis":true,
+    "segment": "",
+    "name": "MUSQUEE DE PROVENCE F1 ORGANIC",
+    "vitalis": true,
     "quantity": "500",
-    "unit": "nasion",
-    "price": "434.895",
+    "price": "221.96294",
     "family": "dynia"
   },
   {
-    "segmant": "",
-    "name": "KENJI KURI",
+    "segment": "",
+    "name": "MATILDA F1",
     "quantity": "500",
-    "unit": "nasion",
-    "price": "367.5",
+    "price": "156.423193",
     "family": "dynia"
   },
   {
-    "segmant": "",
-    "name": "MUSQUEE DE PROVENCE",
-    "vitalis":true,
+    "segment": "",
+    "name": "NELSON F1",
     "quantity": "500",
-    "unit": "nasion",
-    "price": "207.442",
+    "price": "297.89763",
     "family": "dynia"
   },
   {
-    "segmant": "",
-    "name": "MATILDA",
+    "segment": "",
+    "name": "NELSON F1 ORGANIC",
+    "vitalis": true,
     "quantity": "500",
-    "unit": "nasion",
-    "price": "146.1899",
+    "price": "367.99119",
     "family": "dynia"
   },
   {
-    "segmant": "",
-    "name": "NELSON",
+    "segment": "",
+    "name": "ORANGE SUMMER F1 ORGANIC",
+    "vitalis": true,
     "quantity": "500",
-    "unit": "nasion",
-    "price": "278.409",
+    "price": "449.76701",
     "family": "dynia"
   },
   {
-    "segmant": "",
-    "name": "NELSON",
-    "vitalis":true,
+    "segment": "",
+    "name": "ORANGE F1 SUMMER",
     "quantity": "500",
-    "unit": "nasion",
-    "price": "343.917",
+    "price": "373.83232",
     "family": "dynia"
   },
   {
-    "segmant": "",
-    "name": "ORANGE SUMMER",
-    "vitalis":true,
+    "segment": "",
+    "name": "TIANA F1",
     "quantity": "500",
-    "unit": "nasion",
-    "price": "420.343",
+    "price": "156.4254614",
     "family": "dynia"
   },
   {
-    "segmant": "",
-    "name": "ORANGE SUMMER",
+    "segment": "",
+    "name": "UCHIKI KUR ORGANIC",
+    "vitalis": true,
     "quantity": "500",
-    "unit": "nasion",
-    "price": "349.376",
+    "price": "186.91616",
     "family": "dynia"
   },
   {
-    "segmant": "",
-    "name": "TIANA",
-    "quantity": "500",
-    "unit": "nasion",
-    "price": "146.19202",
-    "family": "dynia"
-  },
-  {
-    "segmant": "",
-    "name": "UCHIKI KUR",
-    "vitalis":true,
-    "quantity": "500",
-    "unit": "nasion",
-    "price": "174.688",
-    "family": "dynia"
-  },
-  {
-    "segmant": "",
+    "segment": "",
     "name": "UCHIKI KURI",
     "quantity": "1000",
-    "unit": "nasion",
-    "price": "174.688",
+    "price": "186.91616",
     "family": "dynia"
   },
   {
-    "segmant": "",
-    "name": "DUNJA",
+    "segment": "",
+    "name": "DUNJA F1",
     "quantity": "500",
-    "unit": "nasion",
-    "price": "191.065",
+    "price": "204.43955",
     "family": "cukinia"
   },
   {
-    "segmant": "",
-    "name": "KEESHA",
+    "segment": "",
+    "name": "YELLOWFIN F1",
     "quantity": "500",
-    "unit": "nasion",
-    "price": "252.5",
+    "price": "250",
     "family": "cukinia"
   },
   {
-    "segmant": "",
-    "name": "SOLEIL",
+    "segment": "",
+    "name": "KEESHA F1",
     "quantity": "500",
-    "unit": "nasion",
-    "price": "201.983",
+    "price": "285.325",
     "family": "cukinia"
   },
   {
-    "segmant": "",
+    "segment": "",
+    "name": "SUMERO",
+    "quantity": "10 000 pills",
+    "price": "1029",
+    "family": "cykoria sałatowa"
+  },
+  {
+    "segment": "",
+    "name": "VESPERO",
+    "quantity": "10 000 pills",
+    "price": "934.75",
+    "family": "cykoria sałatowa"
+  },
+  {
+    "segment": "",
     "name": "CELESTA",
     "caliber": "3,00-3,25",
     "quantity": "1000000",
-    "unit": "nasion",
-    "price": "5777.1044275",
+    "price": "5892.64651605",
     "family": "rzodkiewka"
   },
   {
-    "segmant": "",
-    "name": "CELESTA",
+    "segment": "",
+    "name": "CELESTA F1",
     "caliber": "2,75-3,00",
     "quantity": "1000000",
-    "unit": "nasion",
-    "price": "5659.02085",
+    "price": "5772.201267",
     "family": "rzodkiewka"
   },
   {
-    "segmant": "",
-    "name": "CELESTA",
+    "segment": "",
+    "name": "CELESTA F1",
     "caliber": "2,50-2,75",
     "quantity": "1000000",
-    "unit": "nasion",
-    "price": "5543.435898",
+    "price": "5654.30461596",
     "family": "rzodkiewka"
   },
   {
-    "segmant": "",
-    "name": "CELESTA",
-    "vitalis":true,
+    "segment": "",
+    "name": "CELESTA F1 ORGANIC",
+    "vitalis": true,
     "quantity": "1000000",
-    "unit": "nasion",
-    "price": "7206.4666674",
+    "price": "7350.596000748",
     "family": "rzodkiewka"
   },
   {
-    "segmant": "",
-    "name": "CELESTA",
+    "segment": "",
+    "name": "CELESTA F1",
     "caliber": "3,00-3,25",
     "quantity": "50000",
-    "unit": "nasion",
-    "price": "294.855221375",
+    "price": "300.6323258025",
     "family": "rzodkiewka"
   },
   {
-    "segmant": "",
-    "name": "CELESTA",
+    "segment": "",
+    "name": "CELESTA F1",
     "caliber": "2,75-3,00",
     "quantity": "50000",
-    "unit": "nasion",
-    "price": "288.9510425",
+    "price": "294.61006335",
     "family": "rzodkiewka"
   },
   {
-    "segmant": "",
-    "name": "CELESTA",
+    "segment": "",
+    "name": "CELESTA F1",
     "caliber": "2,50-2,75",
     "quantity": "50000",
-    "unit": "nasion",
-    "price": "283.1717949",
+    "price": "288.715230798",
     "family": "rzodkiewka"
   },
   {
-    "segmant": "",
-    "name": "ESCALA",
+    "segment": "",
+    "name": "ESCALA F1",
     "caliber": "3,00-3,25",
     "quantity": "1000000",
-    "unit": "nasion",
-    "price": "5777.1044275",
+    "price": "5892.64651605",
     "family": "rzodkiewka"
   },
   {
-    "segmant": "",
-    "name": "ESCALA",
+    "segment": "",
+    "name": "ESCALA F1",
     "caliber": "2,75-3,00",
     "quantity": "1000000",
-    "unit": "nasion",
-    "price": "5659.02085",
+    "price": "5772.201267",
     "family": "rzodkiewka"
   },
   {
-    "segmant": "",
-    "name": "ESCALA",
+    "segment": "",
+    "name": "ESCALA F1",
     "caliber": "2,50-2,75",
     "quantity": "1000000",
-    "unit": "nasion",
-    "price": "5543.435898",
+    "price": "5654.30461596",
     "family": "rzodkiewka"
   },
   {
-    "segmant": "",
-    "name": "ESCALA",
+    "segment": "",
+    "name": "ESCALA F1",
     "caliber": "3,00-3,25",
     "quantity": "50000",
-    "unit": "nasion",
-    "price": "294.855221375",
+    "price": "300.6323258025",
     "family": "rzodkiewka"
   },
   {
-    "segmant": "",
-    "name": "ESCALA",
+    "segment": "",
+    "name": "ESCALA F1",
     "caliber": "2,75-3,00",
     "quantity": "50000",
-    "unit": "nasion",
-    "price": "288.9510425",
+    "price": "294.61006335",
     "family": "rzodkiewka"
   },
   {
-    "segmant": "",
-    "name": "ESCALA",
+    "segment": "",
+    "name": "ESCALA F1",
     "caliber": "2,50-2,75",
     "quantity": "50000",
-    "unit": "nasion",
-    "price": "283.1717949",
+    "price": "288.715230798",
     "family": "rzodkiewka"
   },
   {
-    "segmant": "",
-    "name": "HELENA",
+    "segment": "",
+    "name": "DZOURA F1 (E66R.3025)",
+    "caliber": "3,00-3,25",
     "quantity": "1000000",
-    "unit": "nasion",
-    "price": "5543.435898",
+    "price": "6776.5434934575",
     "family": "rzodkiewka"
   },
   {
-    "segmant": "",
-    "name": "HELENA",
+    "segment": "",
+    "name": "DZOURA F1 (E66R.3025)",
+    "caliber": "2,75-3,00",
+    "quantity": "1000000",
+    "price": "6638.03145705",
+    "family": "rzodkiewka"
+  },
+  {
+    "segment": "",
+    "name": "DZOURA F1 (E66R.3025)",
+    "caliber": "2,50-2,75",
+    "quantity": "1000000",
+    "price": "6502.450308354",
+    "family": "rzodkiewka"
+  },
+  {
+    "segment": "",
+    "name": "DZOURA F1 (E66R.3025)",
+    "caliber": "3,00-3,25",
     "quantity": "50000",
-    "unit": "nasion",
-    "price": "283.1717949",
+    "price": "344.827174672875",
     "family": "rzodkiewka"
   },
   {
-    "segmant": "",
-    "name": "RUDI",
-    "quantity": "500",
-    "unit": "g",
-    "price": "162.06043175",
+    "segment": "",
+    "name": "DZOURA F1 (E66R.3025)",
+    "caliber": "2,75-3,00",
+    "quantity": "50000",
+    "price": "337.9015728525",
     "family": "rzodkiewka"
   },
   {
-    "segmant": "",
+    "segment": "",
+    "name": "DZOURA F1 (E66R.3025)",
+    "caliber": "2,50-2,75",
+    "quantity": "50000",
+    "price": "331.1225154177",
+    "family": "rzodkiewka"
+  },
+  {
+    "segment": "",
+    "name": "SARITA F1 (E66R.3009)",
+    "caliber": "3,00-3,25",
+    "quantity": "1000000",
+    "price": "6776.5434934575",
+    "family": "rzodkiewka"
+  },
+  {
+    "segment": "",
+    "name": "SARITA F1 (E66R.3009)",
+    "caliber": "2,75-3,00",
+    "quantity": "1000000",
+    "price": "6638.03145705",
+    "family": "rzodkiewka"
+  },
+  {
+    "segment": "",
+    "name": "SARITA F1 (E66R.3009)",
+    "caliber": "2,50-2,75",
+    "quantity": "1000000",
+    "price": "6502.450308354",
+    "family": "rzodkiewka"
+  },
+  {
+    "segment": "",
+    "name": "SARITA F1 (E66R.3009)",
+    "caliber": "3,00-3,25",
+    "quantity": "50000",
+    "price": "344.827174672875",
+    "family": "rzodkiewka"
+  },
+  {
+    "segment": "",
+    "name": "SARITA F1 (E66R.3009)",
+    "caliber": "2,75-3,00",
+    "quantity": "50000",
+    "price": "337.9015728525",
+    "family": "rzodkiewka"
+  },
+  {
+    "segment": "",
+    "name": "SARITA F1 (E66R.3009)",
+    "caliber": "2,50-2,75",
+    "quantity": "50000",
+    "price": "331.1225154177",
+    "family": "rzodkiewka"
+  },
+  {
+    "segment": "",
+    "name": "PEARL F1",
+    "quantity": "1000000",
+    "price": "13276.0629141",
+    "family": "rzodkiewka"
+  },
+  {
+    "segment": "",
+    "name": "VIENNA F1",
+    "caliber": "3,00-3,25",
+    "quantity": "1000000",
+    "price": "5892.64651605",
+    "family": "rzodkiewka"
+  },
+  {
+    "segment": "",
+    "name": "VIENNA F1",
+    "caliber": "2,75-3,00",
+    "quantity": "1000000",
+    "price": "5772.201267",
+    "family": "rzodkiewka"
+  },
+  {
+    "segment": "",
+    "name": "VIENNA F1",
+    "caliber": "2,50-2,75",
+    "quantity": "1000000",
+    "price": "5654.30461596",
+    "family": "rzodkiewka"
+  },
+  {
+    "segment": "",
+    "name": "VIENNA F1",
+    "caliber": "3,00-3,25",
+    "quantity": "50000",
+    "price": "300.6323258025",
+    "family": "rzodkiewka"
+  },
+  {
+    "segment": "",
+    "name": "VIENNA F1",
+    "caliber": "2,75-3,00",
+    "quantity": "50000",
+    "price": "294.61006335",
+    "family": "rzodkiewka"
+  },
+  {
+    "segment": "",
+    "name": "VIENNA F1",
+    "caliber": "2,50-2,75",
+    "quantity": "50000",
+    "price": "288.715230798",
+    "family": "rzodkiewka"
+  },
+  {
+    "segment": "",
     "name": "APRIL CROSS",
-    "quantity": "100",
-    "unit": "g",
-    "price": "176.6016576",
+    "quantity": "100 g",
+    "price": "188.963773632",
     "family": "rzodkiew"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "MINOWASE SUMMER CROSS",
-    "quantity": "100",
-    "unit": "g",
-    "price": "171.34256412",
+    "quantity": "100 g",
+    "price": "183.3365436084",
     "family": "rzodkiew"
   },
   {
-    "segmant": "herbs",
-    "name": "ELEONORA do wyczerpania zapasu",
+    "segment": "",
+    "name": "DALEZA",
+    "quantity": "1000",
+    "price": "718",
+    "family": "szparagi"
+  },
+  {
+    "segment": "",
+    "name": "CROSSTREK",
     "quantity": "1000000",
-    "unit": "nasion",
-    "price": "1236",
-    "family": "bazylia"
+    "price": "1400",
+    "family": "szpinak"
   },
   {
-    "segmant": "herbs",
-    "name": "EMMA do wyczerpania zapasu",
-    "quantity": "100000",
-    "unit": "g",
-    "price": "143.9",
-    "family": "bazylia"
+    "segment": "",
+    "name": "FRONTIER",
+    "quantity": "1000000",
+    "price": "1400",
+    "family": "szpinak"
   },
   {
-    "segmant": "herbs",
-    "name": "EOWYN do wyczerpania zapasu",
-    "quantity": "250",
-    "unit": "g",
-    "price": "159.88",
-    "family": "bazylia"
+    "segment": "",
+    "name": "TRAILBOSS",
+    "quantity": "1000000",
+    "price": "950",
+    "family": "szpinak"
   },
   {
-    "segmant": "herbs",
+    "segment": "",
+    "name": "TUNDRA",
+    "quantity": "1000000",
+    "price": "950",
+    "family": "szpinak"
+  },
+  {
+    "segment": "",
     "name": "GENOVESER",
     "quantity": "50 000 (76g)",
-    "unit": "nasion",
     "price": "25.89389",
     "family": "bazylia"
   },
   {
-    "segmant": "herbs",
+    "segment": "",
     "name": "GENOVESER",
     "quantity": "1 000 000 (1,5kg)",
-    "unit": "nasion",
     "price": "417.8778",
     "family": "bazylia"
   },
   {
-    "segmant": "herbs",
+    "segment": "",
     "name": "KEIRA",
     "quantity": "50 000 (76g)",
-    "unit": "nasion",
     "price": "58.574365",
     "family": "bazylia"
   },
   {
-    "segmant": "herbs",
+    "segment": "",
     "name": "KEIRA",
     "quantity": "1 000 000 (1,5kg)",
-    "unit": "nasion",
     "price": "1071.4873",
     "family": "bazylia"
   },
   {
-    "segmant": "herbs",
-    "name": "KEIRA",
-    "vitalis":true,
+    "segment": "",
+    "name": "KEIRA Organic",
     "quantity": "50 000 (76g)",
-    "unit": "nasion",
     "price": "69.289238",
     "family": "bazylia"
   },
   {
-    "segmant": "herbs",
-    "name": "KEIRA",
-    "vitalis":true,
+    "segment": "",
+    "name": "KEIRA Organic",
+    "vitalis": true,
     "quantity": "1 000 000 (1,5kg)",
-    "unit": "nasion",
     "price": "1285.78476",
     "family": "bazylia"
   },
   {
-    "segmant": "herbs",
+    "segment": "",
     "name": "MARIAN",
     "quantity": "50 000 (76g)",
-    "unit": "nasion",
     "price": "50.002595",
     "family": "bazylia"
   },
   {
-    "segmant": "herbs",
+    "segment": "",
     "name": "MARIAN",
     "quantity": "1 000 000 (1,5kg)",
-    "unit": "nasion",
     "price": "900.0519",
     "family": "bazylia"
   },
   {
-    "segmant": "herbs",
-    "name": "MARIAN",
-    "vitalis":true,
+    "segment": "",
+    "name": "MARIAN Organic",
+    "vitalis": true,
     "quantity": "1 000 000 (1,5kg)",
-    "unit": "nasion",
     "price": "1080.06228",
     "family": "bazylia"
   },
   {
-    "segmant": "herbs",
+    "segment": "",
     "name": "PICCOLINO",
     "quantity": "50 000 (76g)",
-    "unit": "nasion",
     "price": "57.2355275",
     "family": "bazylia"
   },
   {
-    "segmant": "herbs",
+    "segment": "",
     "name": "PICCOLINO",
     "quantity": "1 000 000 (1,5kg)",
-    "unit": "nasion",
     "price": "1044.71055",
     "family": "bazylia"
   },
   {
-    "segmant": "herbs",
+    "segment": "",
     "name": "ROSIE",
     "quantity": "50 000 (76g)",
-    "unit": "nasion",
     "price": "67.683275",
     "family": "bazylia"
   },
   {
-    "segmant": "herbs",
+    "segment": "",
     "name": "ROSIE",
     "quantity": "1 000 000 (1,5kg)",
-    "unit": "nasion",
     "price": "1253.6655",
     "family": "bazylia"
   },
   {
-    "segmant": "herbs",
-    "name": "THAI",
-    "quantity": "50 000 (76g)",
-    "unit": "nasion",
-    "price": "51.6092",
-    "family": "bazylia"
-  },
-  {
-    "segmant": "herbs",
-    "name": "THAI",
-    "quantity": "1 000 000 (1,5kg)",
-    "unit": "nasion",
-    "price": "932.184",
-    "family": "bazylia"
-  },
-  {
-    "segmant": "herbs",
-    "name": "BIGGY",
-    "quantity": "1 000 000 (1,4kg)",
-    "unit": "nasion",
-    "price": "1157.205",
-    "family": "szczypiorek"
-  },
-  {
-    "segmant": "herbs",
-    "name": "KOBOLD",
-    "quantity": "1 000 000 (1,4kg)",
-    "unit": "nasion",
-    "price": "838.88",
-    "family": "szczypiorek"
-  },
-  {
-    "segmant": "herbs",
-    "name": "NAOMY",
-    "quantity": "1 000 000 (1,4kg)",
-    "unit": "nasion",
-    "price": "1157.205",
-    "family": "szczypiorek"
-  },
-  {
-    "segmant": "herbs",
+    "segment": "",
     "name": "STARO",
     "quantity": "1 000 000 (1,4kg)",
-    "unit": "nasion",
     "price": "1157.205",
     "family": "szczypiorek"
   },
   {
-    "segmant": "herbs",
-    "name": "STARO",
-    "vitalis":true,
+    "segment": "",
+    "name": "STARO Organic",
+    "vitalis": true,
     "quantity": "1 000 000 (1,4kg)",
-    "unit": "nasion",
     "price": "2314.41",
     "family": "szczypiorek"
   },
   {
-    "segmant": "herbs",
-    "name": "JEILO F1",
-    "quantity": "1 000 000 (1,4kg)",
-    "unit": "nasion",
-    "price": "3210",
-    "family": "szczypiorek"
-  },
-  {
-    "segmant": "herbs",
+    "segment": "",
     "name": "MARINO",
     "quantity": "100 000 (1kg)",
-    "unit": "nasion",
     "price": "121.017",
     "family": "kolendra"
   },
   {
-    "segmant": "herbs",
+    "segment": "",
     "name": "MARINO",
     "quantity": "500 000 (5kg)",
-    "unit": "nasion",
     "price": "605.085",
     "family": "kolendra"
   },
   {
-    "segmant": "herbs",
-    "name": "MARINO",
-    "vitalis":true,
+    "segment": "",
+    "name": "MARINO Organic",
+    "vitalis": true,
     "quantity": "100 000 (1kg)",
-    "unit": "nasion",
     "price": "226.6",
     "family": "kolendra"
   },
   {
-    "segmant": "herbs",
+    "segment": "",
     "name": "ELLA",
     "quantity": "1 000 000 (1,4kg)",
-    "unit": "nasion",
     "price": "370.3056",
     "family": "koper"
   },
   {
-    "segmant": "herbs",
-    "name": "ELLA",
-    "vitalis":true,
+    "segment": "",
+    "name": "ELLA Organic",
+    "vitalis": true,
     "quantity": "1 000 000 (1,4kg)",
-    "unit": "nasion",
     "price": "740.6112",
     "family": "koper"
   },
   {
-    "segmant": "herbs",
+    "segment": "",
     "name": "GOLDKRONE",
     "quantity": "1 000 000 (1,4kg)",
-    "unit": "nasion",
     "price": "370.3056",
     "family": "koper"
   },
   {
-    "segmant": "herbs",
+    "segment": "",
     "name": "GREEN SLEEVE",
     "quantity": "250 000 (360g)",
-    "unit": "nasion",
     "price": "92.5764",
     "family": "koper"
   },
   {
-    "segmant": "herbs",
+    "segment": "",
     "name": "GREEN SLEEVE",
     "quantity": "1 000 000 (1,4kg)",
-    "unit": "nasion",
     "price": "370.3056",
     "family": "koper"
   },
   {
-    "segmant": "herbs",
+    "segment": "",
     "name": "CITRINA",
     "quantity": "2 500 000 (1,5kg)",
-    "unit": "nasion",
     "price": "1124.784",
     "family": "melisa"
   },
   {
-    "segmant": "herbs",
-    "name": "CITRINA",
-    "vitalis":true,
+    "segment": "",
+    "name": "CITRINA Organic",
+    "vitalis": true,
     "quantity": "2 500 000 (1,5kg)",
-    "unit": "nasion",
     "price": "3327",
     "family": "melisa"
   },
   {
-    "segmant": "herbs",
+    "segment": "",
     "name": "ELSBETHA",
     "quantity": "50 000 (200g)",
-    "unit": "nasion",
     "price": "112.1498",
     "family": "lubczyk"
   },
   {
-    "segmant": "herbs",
+    "segment": "",
     "name": "ELSBETHA",
     "quantity": "250 000 (1KG)",
-    "unit": "nasion",
     "price": "535.749",
     "family": "lubczyk"
   },
   {
-    "segmant": "herbs",
+    "segment": "",
     "name": "ELSBETHA",
     "quantity": "2 500 000 (10KG)",
-    "unit": "nasion",
     "price": "5357.49",
     "family": "lubczyk"
   },
   {
-    "segmant": "herbs",
+    "segment": "",
     "name": "GREEK",
     "quantity": "10 000 000 (0,7KG)",
-    "unit": "nasion",
     "price": "9236",
     "family": "oregano"
   },
   {
-    "segmant": "herbs",
-    "name": "GREEK",
-    "vitalis":true,
-    "quantity": "1",
-    "unit": "kg",
+    "segment": "",
+    "name": "GREEK Organic",
+    "vitalis": true,
+    "quantity": "10 000 000 (0,7KG)",
     "price": "11083.2",
     "family": "oregano"
   },
   {
-    "segmant": "herbs",
+    "segment": "",
     "name": "ARGON",
     "quantity": "1 000 000 (1,75KG)",
-    "unit": "nasion",
     "price": "526.528275",
     "family": "pietruszka"
   },
   {
-    "segmant": "herbs",
-    "name": "GIGANTE D'ITALIA",
-    "vitalis":true,
+    "segment": "",
+    "name": "GIGANTE D'ITALIA Organic",
+    "vitalis": true,
     "quantity": "1 000 000 (1,75KG)",
-    "unit": "nasion",
     "price": "1300",
     "family": "pietruszka"
   },
   {
-    "segmant": "herbs",
+    "segment": "",
     "name": "KATINKA",
     "quantity": "1 000 000 (1,75KG)",
-    "unit": "nasion",
     "price": "790.75675",
     "family": "pietruszka"
   },
   {
-    "segmant": "herbs",
+    "segment": "",
     "name": "PEIONE",
     "quantity": "100 000 (175g)",
-    "unit": "nasion",
     "price": "62.86025",
     "family": "pietruszka"
   },
   {
-    "segmant": "herbs",
+    "segment": "",
     "name": "PEIONE",
     "quantity": "1 000 000 (1,75KG)",
-    "unit": "nasion",
     "price": "578.6025",
     "family": "pietruszka"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "ANASTAZIA",
     "quantity": "1000000",
-    "unit": "nasion",
-    "price": "600.6",
+    "price": "618.618",
     "family": "rukola"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "BELLEZIA",
     "quantity": "1000000",
-    "unit": "nasion",
-    "price": "463.31",
+    "price": "477.2093",
     "family": "rukola"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "JOLIZIA",
     "quantity": "1000000",
-    "unit": "nasion",
-    "price": "571.99917",
+    "price": "589.1591451",
     "family": "rukola"
   },
   {
-    "segmant": "",
+    "segment": "",
+    "name": "GRAZIA",
+    "quantity": "1000000",
+    "price": "368.22",
+    "family": "rukola"
+  },
+  {
+    "segment": "",
     "name": "LETIZIA",
     "quantity": "1000000",
-    "unit": "nasion",
-    "price": "357.498168",
+    "price": "368.22311304",
     "family": "rukola"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "PRUDENZIA",
     "quantity": "1000000",
-    "unit": "nasion",
-    "price": "571.99917",
+    "price": "589.1591451",
     "family": "rukola"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "SELVATICA",
     "quantity": "1000000",
-    "unit": "nasion",
-    "price": "262.65",
+    "price": "270.5295",
     "family": "rukola"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "TRICIA",
     "quantity": "1000000",
-    "unit": "nasion",
-    "price": "314.39205",
+    "price": "323.8238115",
     "family": "rukola"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "FANNI",
     "quantity": "100 000 (1KG)",
-    "unit": "nasion",
     "price": "723.32",
-    "family": "sz?wia"
+    "family": "szałwia"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "FANNI O",
+    "vitalis": true,
     "quantity": "100 000 (1KG)",
-    "unit": "nasion",
     "price": "2098.27",
-    "family": "sz?wia"
+    "family": "szałwia"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "GERMAN WINTER",
     "quantity": "250 000 (75G)",
-    "unit": "nasion",
     "price": "97.5",
     "family": "tymianek"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "GERMAN WINTER",
     "quantity": "5 000 000 (1,5kg)",
-    "unit": "nasion",
     "price": "1850",
     "family": "tymianek"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "GERMAN WINTER",
     "quantity": "30 000 000 (10kg)",
-    "unit": "nasion",
     "price": "11100",
     "family": "tymianek"
   },
   {
-    "segmant": "",
+    "segment": "",
     "name": "GERMAN WINTER O",
+    "vitalis": true,
     "quantity": "5 000 000 (1,5kg)",
-    "unit": "nasion",
     "price": "3950",
     "family": "tymianek"
   }

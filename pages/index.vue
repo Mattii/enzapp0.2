@@ -90,12 +90,14 @@
         </v-card>
       </v-col>
     </v-row>
-
-    <v-row justify="center" align="center">
-      <v-col>  
-      <v-subheader class="mt-3">nasze odmiany...</v-subheader>
-        <v-card v-for="card in cards" :key="card.title" class="mx-auto mb-7">
-          <v-img :src="require(`~/assets/img/${card.src}`)" height="200px"></v-img>
+    <v-subheader class="mt-3">nasze odmiany...</v-subheader>
+    <section class="varieties-section ">
+    <v-row color="green" justify="center" align="center">
+      
+      <v-col class="d-flex flex-wrap justify-space-around ma-0">  
+      
+        <v-card v-for="card in cards" :key="card.title" class="ma-6">
+          <v-img :src="require(`~/assets/img/${card.src}`)" height="200px" max-width="320"></v-img>
 
           <v-card-title class="text-uppercase"> {{ card.title }} </v-card-title>
 
@@ -128,10 +130,11 @@
             </div>
           </v-expand-transition>
         </v-card>
+
       </v-col>  
     </v-row>
-
-  </v-sheet>
+    </section>
+    </v-sheet>
 </template>
 
 <script>
@@ -242,5 +245,8 @@ export default {
 <style>
 .test {
   width: 100%;
+}
+.varieties-section{
+  background-color: green;
 }
 </style>

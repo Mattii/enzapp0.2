@@ -1,6 +1,6 @@
 <template>
-    <v-row justify="center" align="center">
-      <v-col cols="12" sm="8" md="6">
+  <v-row justify="center" align="center">
+    <v-col cols="12" sm="8" md="6">
       <v-btn class="mt-6" outlined @click="$router.back()">
         <v-icon class="pr-3">mdi-arrow-left</v-icon> wróć</v-btn
       >
@@ -29,13 +29,14 @@
             />
           </div>
           <v-card-title class="text-h4 text-uppercase"
-            >{{ varietie[0].name }} {{varietie[0].code?`(${varietie[0].code})`:""}}
-            {{ varietie[0].hybrid ? 'F1' : '' }}</v-card-title
+            >{{ varietie[0].name }}
+            {{ varietie[0].code ? `(${varietie[0].code})` : "" }}
+            {{ varietie[0].hybrid ? "F1" : "" }}</v-card-title
           >
           <v-card-subtitle>{{ varietie[0].segment }}</v-card-subtitle>
         </v-img>
         <v-card-title class="">
-          Osiagnij {{ varietie[0].purpose || '?' }}
+          Osiagnij {{ varietie[0].purpose || "?" }}
         </v-card-title>
         <v-card-text class="">
           <div class="mb-4 text-subtitle-1">
@@ -50,12 +51,12 @@
             Cechy szczególne:<br />
             <ul>
               <li>
-                {{ varietie[0].type || '?' }}
+                {{ varietie[0].type || "?" }}
               </li>
             </ul>
           </div>
           <div v-if="varietie[0].headShape" class="mb-4 text-subtitle-1">
-            Kształt główki: {{ varietie[0].headShape || '?' }}
+            Kształt główki: {{ varietie[0].headShape || "?" }}
           </div>
           <div v-if="varietie[0].vegetation" class="mb-4 text-subtitle-1">
             Wegetacja: {{ varietie[0].vegetation.value }}
@@ -65,8 +66,8 @@
             Zbiory:
             <span v-for="(date, index) in varietie[0].harvest" :key="date">
               {{
-                new Date(`${date}`).toLocaleDateString('pl-PL', {
-                  month: 'long',
+                new Date(`${date}`).toLocaleDateString("pl-PL", {
+                  month: "long",
                 })
               }}
               <span v-if="index == '0' && varietie[0].harvest.length > 1"
@@ -99,12 +100,17 @@
           </div>
           <div>
             <p>Cennik</p>
-            <ul><li v-for="(price, index) in varietiePrices" :key="index">
-              <p>opakowanie: {{ price.quantity }} {{ price.unit }} {{ price.vitalis?"BIO":""}}</p>
-              <p v-if="price.caliber">kaliber: {{ price.caliber }}</p>
-              <p>netto: <strong>{{ Number(price.price).toFixed(2) }}</strong> zł</p>
-              <p>brutto: {{ priceWithTax(price.price).toFixed(2) }} zł</p>
-              </li></ul>
+            <ul>
+              <li v-for="(price, index) in varietiePrices" :key="index">
+                <p>
+                  <v-icon>mdi-package-variant</v-icon> {{ price.quantity }}
+                  {{ price.unit }}  <v-icon>mdi-cash-multiple</v-icon>
+                  <strong>{{ Number(price.price).toFixed(2) }}</strong> ({{
+                    priceWithTax(price.price).toFixed(2)
+                  }}) zł <v-icon v-if="price.caliber">mdi-diameter-outline</v-icon> {{ price.caliber ? price.caliber : "" }} {{ price.vitalis ? "BIO" : "" }}
+                </p>
+              </li>
+            </ul>
           </div>
           <div class="mb-4 text-subtitle-1">
             Opis:
@@ -119,29 +125,31 @@
 //import varietie from '../static/varietie.json'
 
 export default {
-  name: 'katalog-id',
+  name: "katalog-id",
   data() {
     return {
       open: false,
       loading: false,
       varietie: [],
-      varietiePrices: []
-    }
+      varietiePrices: [],
+    };
   },
   created() {
     this.varietie = this.$store.getters.getVarieties.filter(
       (e) => e.id == this.$route.params.id
-    )
-    this.varietiePrices = this.$store.getters.getCropsPrice.filter(ele => {
+    );
+    this.varietiePrices = this.$store.getters.getCropsPrice.filter((ele) => {
       //console.log(ele.name.toLowerCase(), this.varietie[0].name.toLowerCase());
       //console.log(ele.name.toLowerCase().includes(this.varietie[0].name.toLowerCase()))
-      return ele.name.toLowerCase().includes(this.varietie[0].name.toLowerCase())
-    })
+      return ele.name
+        .toLowerCase()
+        .includes(this.varietie[0].name.toLowerCase());
+    });
   },
   methods: {
-    priceWithTax(price){
-      return price * 0.08 + +price
-    }
+    priceWithTax(price) {
+      return price * 0.08 + +price;
+    },
   },
-}
+};
 </script>
