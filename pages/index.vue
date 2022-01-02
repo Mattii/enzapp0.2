@@ -1,8 +1,8 @@
 <template>
   <v-sheet>
-    <v-row justify="center" align="center">
+    <v-row class="mt-3" justify="center" align="center">
       <v-col cols="12" sm="10" lg="8">
-        <v-card class="mr-lg-7">
+        <v-card>
           <v-img
             :src="require(`~/assets/img/${card.src}`)"
             class="white--text align-end"
@@ -30,7 +30,7 @@
         </v-card>
       </v-col>
       <v-col cols="12" sm="10" lg="4">
-        <v-subheader class="mt-3">promocje...</v-subheader>
+        <v-subheader class="mt-0">promocje...</v-subheader>
         <v-card
           v-for="promo in promos"
           :key="promo.title"
@@ -91,13 +91,13 @@
       </v-col>
     </v-row>
     <v-subheader class="mt-3">nasze odmiany...</v-subheader>
-    <section class="varieties-section ">
     <v-row color="green" justify="center" align="center">
-      
-      <v-col class="d-flex flex-wrap justify-space-around ma-0">  
-      
+      <v-col class="d-flex flex-wrap justify-space-around ma-0">
         <v-card v-for="card in cards" :key="card.title" class="ma-6">
-          <v-img :src="require(`~/assets/img/${card.src}`)" height="200px" max-width="320"></v-img>
+          <v-img
+            :src="require(`~/assets/img/${card.src}`)"
+            height="200px"
+          ></v-img>
 
           <v-card-title class="text-uppercase"> {{ card.title }} </v-card-title>
 
@@ -130,11 +130,9 @@
             </div>
           </v-expand-transition>
         </v-card>
-
-      </v-col>  
+      </v-col>
     </v-row>
-    </section>
-    </v-sheet>
+  </v-sheet>
 </template>
 
 <script>
@@ -246,7 +244,7 @@ export default {
 .test {
   width: 100%;
 }
-.varieties-section{
+.varieties-section {
   background-color: green;
 }
 </style>

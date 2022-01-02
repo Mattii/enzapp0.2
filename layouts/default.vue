@@ -12,13 +12,18 @@
         <v-tabs v-model="tab" align-with-title class="d-none d-sm-flex">
           <v-tabs-slider color="#A3D51C"></v-tabs-slider>
 
-          <v-tab v-for="link in links" :key="link.title" :to="link.to">
+          <v-tab
+            v-for="link in links"
+            :key="link.title"
+            nuxt
+            :to="link.to"
+          >
             {{ link.title }}
           </v-tab>
         </v-tabs>
       </template>
       <v-spacer />
-      <v-chip class="text-h6 ma-2" color="orange" label text-color="white" >
+      <v-chip class="text-h6 ma-2" color="orange" label text-color="white">
         <v-icon left> mdi-weather-partly-cloudy </v-icon>
         26°C
       </v-chip>
@@ -32,7 +37,7 @@
     </v-app-bar>
 
     <v-main>
-      <v-container class="pa-0">
+      <v-container class="">
         <nuxt />
       </v-container>
     </v-main>
@@ -176,6 +181,9 @@ export default {
 };
 </script>
 <style scoped>
+.green-text{
+  color:#A3D51C
+}
 .v-item-group.v-bottom-navigation .v-btn.v-size--default {
   height: inherit;
 }
