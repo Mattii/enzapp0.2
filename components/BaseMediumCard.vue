@@ -17,12 +17,18 @@
         <v-img
           height="250"
           class="white--text align-end"
-          gradient="to bottom, rgba(0,0,0,.01), rgba(0,0,0,.5)"
+          gradient="to bottom left, rgba(0,0,0,.01), rgba(0,0,0,.5)"
           :src="require(`~/assets/img/${varietie.imgs[0]}`)"
           dark
         >
           <div class="top-card-bar" dark>
             <div v-if="varietie.new" class="chip">NEW</div>
+            <img
+              v-if="varietie.vitalis"
+              class="vitalisLogo"
+              src="/vitalisLogoColor.png"
+              height="32"
+            />
             <img
               v-if="varietie.provider == 'takii'"
               class="takiiLogo"

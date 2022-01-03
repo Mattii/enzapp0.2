@@ -208,7 +208,7 @@
     "tca_581":{
         "active": true,
         "new": true,
-        "name": "TCA 581",
+        "name": "TCA-581",
          "imgs":["kapustne/B_WC/tca_581.jpg"],
         "guardian": "Bernard Zioło",
         "hybrid": true,
@@ -742,6 +742,7 @@
     "celesta":{
         "active": true,
         "name": "Celesta",
+        "vitalis": true,
          "imgs":["rzodkiewki/celesta.jpg"],
         "guardian": "Jacek Malinowski",
         "hybrid": true,
