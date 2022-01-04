@@ -5164,7 +5164,7 @@
         "family":"ogórek",
         "segment": "ogórek midi",
         "intended": ["?"],
-        "production": ["?"],
+        "production": ["opuszcana", "na parasol"],
         "compaction": {
             "value": "?",
             "unit": "na metr bieżący"
@@ -5198,7 +5198,7 @@
         ],
         "planting": [2, 7],
         "harvest": [1, 12],
-        "resistance": ["HR: Ccu", "IR: CMV/CVYU/Px"],
+        "resistance": ["HR: Ccu", "IR: CMV/CVYV/Px"],
         "cultivation": ["szklarnia"]
     },
     "melen":{
@@ -5216,7 +5216,7 @@
         "family":"ogórek",
         "segment": "ogórek midi",
         "intended": ["?"],
-        "production": ["?"],
+        "production": ["opuszcana", "na parasol"],
         "compaction": {
             "value": "?",
             "unit": "na metr bieżący"
@@ -5247,7 +5247,7 @@
         ],
         "planting": [2, 7],
         "harvest": [1, 12],
-        "resistance": ["HR: Cca/Ccu", "IR: CMV/CVYU/Px"],
+        "resistance": ["HR: Cca/Ccu", "IR: CMV/CVYV/Px"],
         "cultivation": ["szklarnia"]
     },
     "bjorn":{
@@ -5265,10 +5265,14 @@
         "family":"ogórek",
         "segment": "ogórek partenokarpiczne, brodawkowe",
         "intended": ["?"],
-        "production": ["?"],
+        "production": ["opuszcana", "na parasol"],
         "compaction": {
             "value": "?",
             "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "70-100",
+            "unit":"g"
         },
         "frut": [
             "długość: 10-12 cm",
@@ -5280,6 +5284,7 @@
             "dobrze wypełnione"
         ],
         "shape": "cylindryczne",
+        "earlys": "wczesny",
         "plant": [
             "krótkie międzywęźla",
             "2-4 owoce w węźle",
@@ -5297,6 +5302,7 @@
         ],
         "planting": [1, 3],
         "harvest": [1, 12],
+        "resistance": ["HR: Ccu", "IR: CMV/CVYV/Px"],
         "cultivation": ["szklarnia"]
     },
     "severin":{
@@ -5314,10 +5320,14 @@
         "family":"ogórek",
         "segment": "ogórek partenokarpiczne, brodawkowe",
         "intended": ["?"],
-        "production": ["?"],
+        "production": ["opuszcana", "na parasol"],
         "compaction": {
             "value": "?",
             "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "80-120",
+            "unit":"g"
         },
         "frut": [
             "długość: 11-13 cm",
@@ -5325,6 +5335,7 @@
             "gęsta brodawka"
         ],
         "shape": "cylindryczne",
+        "earlys": "wczesny",
         "plant": [
             "krótkie międzywęźla",
             "mocny wigor",
@@ -5341,6 +5352,7 @@
         ],
         "planting": [3, 10],
         "harvest": [1, 12],
+        "resistance": ["HR: Ccu", "IR: CMV/CVYV/ZYMV/Px"],
         "cultivation": ["szklarnia"]
     },
     "lucania":{
@@ -5358,10 +5370,14 @@
         "family":"ogórek",
         "segment": "ogórek długi (LET)",
         "intended": ["?"],
-        "production": ["?"],
+        "production": ["na parasol"],
         "compaction": {
             "value": "?",
             "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "380-440",
+            "unit":"g"
         },
         "frut": [
             "długość: 29-32 cm",
@@ -5371,6 +5387,7 @@
             "świetna trwałość pozbiorcza i jakość owoców"
         ],
         "shape": "cylindryczne",
+        "earlys": "wczesny",
         "plant": [
             "generatywna",
             "otwarta",
@@ -5384,6 +5401,7 @@
         ],
         "planting": [12, 2],
         "harvest": [1, 12],
+        "resistance": ["HR: Cca/Ccu", "IR: Px"],
         "cultivation": ["szklarnia"]
     },
     "gulfstream":{
@@ -5401,16 +5419,21 @@
         "family":"ogórek",
         "segment": "ogórek długi (LET)",
         "intended": ["?"],
-        "production": ["?"],
+        "production": ["na parasol"],
         "compaction": {
             "value": "?",
             "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "390-450",
+            "unit":"g"
         },
         "frut": [
             "długość: 30-32 cm",
             "kolor: ciemnozielony z połyskiem"
         ],
         "shape": "cylindryczne",
+        "earlys": "wczesny",
         "plant": [
             "mocny wigor",
             "otwarty pokrój",
@@ -5425,6 +5448,7 @@
         ],
         "planting": [2, 5],
         "harvest": [1, 12],
+        "resistance": ["HR: Cca/Ccu", "IR: Px"],
         "cultivation": ["szklarnia"]
     },
     "dee_zire":{
@@ -5442,10 +5466,14 @@
         "family":"ogórek",
         "segment": "ogórek długi (LET)",
         "intended": ["?"],
-        "production": ["?"],
+        "production": ["opuszcana", "na parasol"],
         "compaction": {
             "value": "?",
             "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "360-420",
+            "unit":"g"
         },
         "frut": [
             "długość: 26-30 cm",
@@ -5454,6 +5482,7 @@
             "dobra trwałość pozbiorcza"
         ],
         "shape": "cylindryczne, bez „szyjki”",
+        "earlys": "wczesny",
         "plant": [
             "generatywna",
             "otwarty pokrój",
@@ -5468,6 +5497,7 @@
         ],
         "planting": [3, 7],
         "harvest": [1, 12],
+        "resistance": ["HR: Ccu", "IR: CMV/CGMMV/Px"],
         "cultivation": ["szklarnia"]
     },
     "sumapol":{
@@ -5485,10 +5515,14 @@
         "family":"ogórek",
         "segment": "ogórek długi (LET)",
         "intended": ["?"],
-        "production": ["?"],
+        "production": ["na parasol"],
         "compaction": {
             "value": "?",
             "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "350-410",
+            "unit":"g"
         },
         "frut": [
             "długość: 26-30 cm",
@@ -5498,6 +5532,7 @@
             "z krótką „szyjką”"
         ],
         "shape": "cylindryczne, bez „szyjki”",
+        "earlys": "wczesny",
         "plant": [
             "generatywna",
             "otwarty pokrój",
@@ -5515,6 +5550,7 @@
         ],
         "planting": [3, 7],
         "harvest": [1, 12],
+        "resistance": ["HR: Ccu", "IR: Px"],
         "cultivation": ["szklarnia"]
     },
     "dee_lite":{
@@ -5532,10 +5568,14 @@
         "family":"ogórek",
         "segment": "ogórek długi (LET)",
         "intended": ["?"],
-        "production": ["?"],
+        "production": ["opuszcana", "na parasol"],
         "compaction": {
             "value": "?",
             "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "370-430",
+            "unit":"g"
         },
         "frut": [
             "długość: 28-31 cm",
@@ -5545,6 +5585,7 @@
             "dobra trwałość pozbiorcza"
         ],
         "shape": "?",
+        "earlys": "średnio wczesny",
         "plant": [
             "mocny wigor",
             "półotwarty pokrój",
@@ -5563,6 +5604,7 @@
         ],
         "planting": [4, 7],
         "harvest": [1, 12],
+        "resistance": ["HR: Cca/Ccu", "IR: CMV/CVYV/CGMMV/Px"],
         "cultivation": ["szklarnia"]
     },
     "kurios":{
@@ -5580,10 +5622,14 @@
         "family":"ogórek",
         "segment": "ogórek długi (LET)",
         "intended": ["?"],
-        "production": ["?"],
+        "production": ["opuszcana", "na parasol"],
         "compaction": {
             "value": "?",
             "unit": "na metr bieżący"
+        },
+        "weight": {
+            "value": "380-440",
+            "unit":"g"
         },
         "frut": [
             "długość: 28-32 cm",
@@ -5593,6 +5639,7 @@
             "wyrównane owoce przez cały okres uprawy"
         ],
         "shape": "cylindryczne",
+        "earlys": "średnio wczesny",
         "plant": [
             "mocny wigor",
             "otwarty pokrój",
@@ -5608,6 +5655,7 @@
         ],
         "planting": [4, 7],
         "harvest": [1, 12],
+        "resistance": ["HR: Cca/Ccu", "IR: CMV/CVYV/CGMMV/Px"],
         "cultivation": ["szklarnia"]
     },
     "flexifort":{
@@ -5640,6 +5688,7 @@
         ],
         "planting": [1, 12],
         "harvest": [1, 12],
+        "resistance": ["HR: Cca/Ccu"],
         "cultivation": ["szklarnia"]
     },
     "status":{
@@ -5671,7 +5720,6 @@
         ],
         "planting": [1, 12],
         "harvest": [1, 12],
-
         "cultivation": ["szklarnia"]
     }
 }

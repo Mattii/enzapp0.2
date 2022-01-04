@@ -35,11 +35,11 @@
               src="/takiiLogoCut.png"
             />
           </div>
-          <v-card-subtitle class="pb-0">{{ varietie.segment }}</v-card-subtitle>
-          <v-card-title class="text-h4 text-uppercase pt-0"
+          <v-card-subtitle class="pb-0 font-weight-light">{{ varietie.segment }}</v-card-subtitle>
+          <v-card-title class="text-h5 text-uppercase pt-0"
             >{{ varietie.name }} {{ varietie.hybrid ? "F1" : "" }}</v-card-title
           >
-          <v-card-subtitle class=""> {{ varietie.type || "?" }} </v-card-subtitle>
+          <v-card-subtitle class="subtitle-1"> {{ varietie.type || "?" }} </v-card-subtitle>
         </v-img>
       </v-card>
 </template>
