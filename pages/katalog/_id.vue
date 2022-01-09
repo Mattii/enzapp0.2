@@ -104,10 +104,14 @@
               <li v-for="(price, index) in varietiePrices" :key="index">
                 <p>
                   <v-icon>mdi-package-variant</v-icon> {{ price.quantity }}
-                  {{ price.unit }}  <v-icon>mdi-cash-multiple</v-icon>
-                  <strong>{{ Number(price.price).toFixed(2) }}</strong> ({{
+                  {{ price.unit }}
+                  <v-icon v-if="price.caliber">mdi-diameter-outline</v-icon>
+                  {{ price.caliber ? price.caliber : "" }}
+                  {{ price.vitalis ? "BIO" : "" }}
+                  <br />
+                  <v-icon>mdi-cash-multiple</v-icon><strong>{{ Number(price.price).toFixed(2) }}</strong> ({{
                     priceWithTax(price.price).toFixed(2)
-                  }}) zł <v-icon v-if="price.caliber">mdi-diameter-outline</v-icon> {{ price.caliber ? price.caliber : "" }} {{ price.vitalis ? "BIO" : "" }}
+                  }}) zł
                 </p>
               </li>
             </ul>
@@ -118,6 +122,16 @@
           </div>
         </v-card-text>
       </v-card>
+      <div>
+        <v-subheader class="mt-4">polecamy również...</v-subheader>
+        <base-medium-card
+          :loading="loading"
+          v-for="segmentVarietie in varietiesSegment"
+          :key="segmentVarietie.id"
+          :varietie="segmentVarietie"
+        >
+        </base-medium-card>
+      </div>
     </v-col>
   </v-row>
 </template>
@@ -132,11 +146,15 @@ export default {
       loading: false,
       varietie: [],
       varietiePrices: [],
+      varietiesSegment: [],
     };
   },
   created() {
     this.varietie = this.$store.getters.getVarieties.filter(
       (e) => e.id == this.$route.params.id
+    );
+    this.varietiesSegment = this.$store.getters.getVarieties.filter(
+      (e) => e.segment == this.varietie[0].segment
     );
     this.varietiePrices = this.$store.getters.getCropsPrice.filter((ele) => {
       //console.log(ele.name.toLowerCase(), this.varietie[0].name.toLowerCase());

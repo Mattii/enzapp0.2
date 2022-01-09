@@ -162,6 +162,58 @@ export const state = () => ({
           }
         ],
         timer: '',
+      },
+      {
+        title:'Strzał w 10',
+        type:'rzodkiewka',
+        src: ["rzodkiewki/escala.jpg"],
+        crops: ['escala'],
+        terms: '10 + 1 za 1zł',
+        color: '#C5074D',
+        endTime: '2022-04-30',
+        posterImg: "/promocje/rzodkiewka/Promocja_Rzodkiewka_10+1.jpg",
+        statuteDownloadLink: "/promocje/rzodkiewka/Promocja_Rzodkiewka_10+1_2022.pdf",
+        statute: [
+          {
+            title: 'postanowienia ogólne',
+            details: [
+              `Niniejszy regulamin sprzedaży premiowej (zwany dalej „Regulaminem”) określa zasady
+              promocji organizowanej pod nazwą „Escala – wiosenny strzał w 10, akcja 22” (zwanej dalej
+              „Promocją”).`,
+              `Wyłącznym organizatorem Promocji jest ENZA ZADEN Sp. z o.o. (zwaną dalej „Organizatorem”), z siedzibą w
+              Warszawie, ul. Puławska 543 lok 17, 02-844 Warszawa, wpisana do rejestru przedsiębiorców prowadzonego przez
+              Sąd Rejonowy Warszawa XIII Wydział Gospodarczy Krajowego Rejestru Sadowego pod numerem KRS 0000137014
+              REGON 015242705, NIP 9512061972 kapitał zakładowy 50 000 zł, e-mail: biuro@enzazaden.pl`
+            ]
+          },
+          {
+            title: 'zasady promocji',
+            details: [
+              `W Promocji mogą wziąć udział producenci warzyw (zwani dalej „Uczestnikami”), którzy w
+              czasie trwania Promocji zakupią jednorazowo w celu zabezpieczenia swoich potrzeb produkcyjnych
+              (uprawy), co najmniej 10 (dziesięć) opakowań po 50 000 nasion każde.`,
+              `Promocja dotyczy nasion odmiany Escala F1`,
+              `Promocja „Escala – wiosenny strzał w 10, akcja 22” nie łączy się z innymi promocjami
+              dotyczącymi produktów w postaci nasion.`,
+              `Każdy Uczestnik, który w czasie trwania Promocji zakupi nasiona odmian wymienionych w §2
+              pkt. 2 na warunkach wymienionych w § 2 pkt. 1 niniejszego regulaminu może zakupić jedno
+              opakowanie nasion tej samej odmiany i tego samego gatunku, zawierające 50 000 nasion, w cenie 1
+              zł netto + 8% VAT. Zakup promocyjnych nasion może zostać zrealizowany bezpośrednio u
+              Organizatora lub u partnerów handlowych Organizatora, posiadających nasiona wymienionych w § 2
+              pkt. 2 w swojej ofercie i uczestniczących w Promocji`,
+              `Każdy uczestnik może wziąć udział w promocji dowolną ilość razy`,
+              `Promocja trwa od 4 stycznia 2022. do 30 kwietnia 2022r. lub do wyczerpania zapasu nasion.`,
+              `Enza Zaden zastrzega sobie możliwość przedłużenia lub skrócenia trwania promocji.`
+            ]
+          },{
+            title: 'postanowienia końcowe',
+            details: [
+              `Regulamin jest dostępny w siedzibie Organizatora.`,
+              `Regulamin obowiązuje od 29 grudnia 2021`
+            ]
+          }
+        ],
+        timer: '',
       }
     ],
     searchPhrase: ''

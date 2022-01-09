@@ -43,7 +43,7 @@
           <div class="test d-flex flex-no-wrap justify-space-between">
             <div class="test align-self-center align-stretch">
               <v-card-title
-                class="headline pb-0 justify-center text-uppercase"
+                class="pb-0 justify-center text-uppercase"
                 v-text="promo.title"
               ></v-card-title>
 

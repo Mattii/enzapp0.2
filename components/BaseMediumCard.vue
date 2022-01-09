@@ -1,7 +1,7 @@
 <template>
    <v-card
         :loading="loading"
-        class="mx-auto mt-9 rounded-sm"
+        class="mx-auto mb-9 rounded-sm"
         elevation="6"
         nuxt
         :to="{ name: 'katalog-id', params: { id: varietie.id } }"
