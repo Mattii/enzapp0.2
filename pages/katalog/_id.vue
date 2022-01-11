@@ -154,7 +154,7 @@ export default {
       (e) => e.id == this.$route.params.id
     );
     this.varietiesSegment = this.$store.getters.getVarieties.filter(
-      (e) => e.segment == this.varietie[0].segment
+      (e) => e.segment == this.varietie[0].segment && e.id !== this.$route.params.id
     );
     this.varietiePrices = this.$store.getters.getCropsPrice.filter((ele) => {
       //console.log(ele.name.toLowerCase(), this.varietie[0].name.toLowerCase());

@@ -7,24 +7,24 @@
             :src="require(`~/assets/img/${card.src}`)"
             class="white--text align-end"
             gradient="to bottom, rgba(0,0,0,.1), rgba(0,0,0,.3)"
-            height="auto"
           >
-            <v-card-title class="headline" v-text="card.title"></v-card-title>
-            <v-card-subtitle class="pb-0"
-              >twoje odmiany na wyciągniecie ręki</v-card-subtitle
-            >
-            <v-card-actions>
+            <v-card-title class="headline">
               <v-btn
                 nuxt
                 justify="center"
-                class="ma-2 pa-3 white--text"
-                outlined
+                class="mx-1 mx-sm-3 my-sm-3 py-2 white--text headline text-capitalize"
                 rounded
-                small
+                l
                 :to="{ name: 'katalog' }"
+                color="accent"
               >
-                Zapoznaj się...
-              </v-btn>
+                Sięgnij </v-btn
+              >po cyfrowy katalog</v-card-title
+            >
+            <v-card-subtitle class="d-none d-sm-flex ml-3"
+              >twoje odmiany na wyciągniecie ręki</v-card-subtitle
+            >
+            <v-card-actions>
             </v-card-actions>
           </v-img>
         </v-card>

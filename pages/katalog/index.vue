@@ -83,25 +83,4 @@ export default {
 </script>
 
 <style>
-.top-card-bar {
-  display: flex;
-  width: 100%;
-  top: 0;
-  position: absolute;
-  padding: 0.9rem;
-  justify-content: space-between;
-  align-items: center;
-}
-.chip {
-  border: 2px solid white !important;
-  border-radius: 0.6rem;
-  font-weight: 900;
-  padding: 0.4rem;
-}
-.takiiLogo {
-  border-radius: 0.6rem;
-  right: 0;
-  width: 3rem;
-  float: right;
-}
 </style>
