@@ -60,7 +60,7 @@ export default {
   },
   computed: {
     segments() {
-      return this.$store.getters.getSegments;
+      return this.$store.getters.getSegments.map(e => e).sort();
     },
     filterdVarieties() {
       if (this.segmentsFilter.length > 0) {
