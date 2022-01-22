@@ -12,7 +12,14 @@
               <v-btn
                 nuxt
                 justify="center"
-                class="mx-1 mx-sm-3 my-sm-3 py-2 white--text headline text-capitalize"
+                class="
+                  mx-1 mx-sm-3
+                  my-sm-3
+                  py-2
+                  white--text
+                  headline
+                  text-capitalize
+                "
                 rounded
                 l
                 :to="{ name: 'katalog' }"
@@ -24,8 +31,7 @@
             <v-card-subtitle class="d-none d-sm-flex ml-3"
               >twoje odmiany na wyciągniecie ręki</v-card-subtitle
             >
-            <v-card-actions>
-            </v-card-actions>
+            <v-card-actions> </v-card-actions>
           </v-img>
         </v-card>
       </v-col>
@@ -88,6 +94,18 @@
             </v-avatar>
           </div>
         </v-card>
+      </v-col>
+    </v-row>
+    <v-row>
+      <v-col cols="12">
+        <v-subheader class="mt-3">nowe odmiany...</v-subheader>
+        <base-medium-card
+          :loading="false"
+          v-for="(v, key) in newVarieties"
+          :key="key"
+          :varietie="v"
+        >
+        </base-medium-card>
       </v-col>
     </v-row>
     <v-subheader class="mt-3">nasze odmiany...</v-subheader>
@@ -177,7 +195,11 @@ export default {
       presentTime: new Date().getTime(),
     };
   },
-  computed: {},
+  computed: {
+    newVarieties() {
+      return this.$store.getters.getVarieties.filter(e => e.new)
+    }
+  },
   created() {
     this.$store.dispatch("fetchVarieties");
     this.promos = this.$store.getters.getPromotions;

@@ -6,7 +6,7 @@ export const state = () => ({
     segments: [],
     promotions: [
       {
-        title:'ogóriki',
+        title:'ogórki',
         type:'pikling',
         src: ['ogorki/severin.jpg',
               'ogorki/severin.jpg',],
