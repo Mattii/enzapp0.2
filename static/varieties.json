@@ -11,7 +11,7 @@
         "crop": "B_WC",
         "color": "#648975",
         "family": "kapusta",
-        "segment": "kapusta biała",
+        "segment": "kapusta głowiasta biała",
         "intended": ["świeży rynek"],
         "vegetation": {
             "value": 62,
@@ -22,7 +22,7 @@
             "value": "50",
             "unit": "tys./ha"
         },
-        "size": {
+        "headSize": {
             "value": "1-3",
             "unit": "kg"
         },
@@ -41,7 +41,7 @@
         "crop": "B_WC",
         "color": "#648975",
         "family": "kapusta",
-        "segment": "kapusta biała",
+        "segment": "kapusta głowiasta biała",
         "intended": ["świeży rynek", "przetwórstwo"],
         "vegetation": {
             "value": "70",
@@ -52,12 +52,12 @@
             "value": "40-50",
             "unit": "tys./ha"
         },
-        "size": {
+        "headSize": {
             "value": "1,5-3",
             "unit": "kg"
         },
         "cultivation": ["grunt"],
-        "resistance": ["HR: Foc"],
+        "resistance": ["HR: Fuzarioza kapusty (Foc)"],
         "description": "Odmiana do wiosennej uprawy pod płaskimi okryciami i do pierwszych nasadzeń w gruncie otwartym. Cheeta wyróżnia się mocnym wigorem, dużymi, ciemnozielonymi liśćmi okrywowymi, odpornością na pękanie i dobrą zdrowotnością. Zbiory można rozpocząć przy wielkości główek ok. 1,5 kg. Cheeta zachowuje wysoką jakość i trwałość do wielkości 3-3,5 kg. Jest odmianą niezawodnie plonującą, zarówno przy chłodnej, jak i suchej, upalnej wiośnie."
     },
     "compass":{
@@ -72,7 +72,7 @@
         "crop": "B_WC",
         "color": "#648975",
         "family": "kapusta",
-        "segment": "kapusta biała",
+        "segment": "kapusta głowiasta biała",
         "intended": ["świeży rynek"],
         "vegetation": {
             "value": "80",
@@ -83,12 +83,12 @@
             "value": "35-40",
             "unit": "tys./ha"
         },
-        "size": {
+        "headSize": {
             "value": "3-4",
             "unit": "kg"
         },
         "cultivation": ["grunt"],
-        "resistance": ["HR: Foc", "IR: Xcc"],
+        "resistance": ["HR: Fuzarioza kapusty (Foc)", "IR: Czarna zgnilizna kapusty (Xcc)"],
         "description": "Odmiana kapusty białej do zbioru w okresie lata i jesieni. Compass tworzy duże główki o żywozielonym kolorze liści. Główki są wyrównane, lekko spłaszczone, znakomicie nadające się do wykorzystania w kuchni, np. na gołąbki. Odmiana ta jest łatwa w uprawie i dobrze toleruje letnie zmienne warunki, zarówno wysokie temperatury, jak i niedobory wody. Wysoka odporność na Fusarium, średnia na Xanthomonas i dobra tolerancja na wciornastki bardzo ułatwiają ochronę."
     },
     "predeco":{
@@ -103,7 +103,7 @@
         "crop": "B_WC",
         "color": "#648975",
         "family": "kapusta",
-        "segment": "kapusta biała",
+        "segment": "kapusta głowiasta biała",
         "intended": ["świeży rynek", "karton", "worek"],
         "vegetation": {
             "value": "80",
@@ -114,7 +114,7 @@
             "value": "60",
             "unit": "tys./ha"
         },
-        "size": {
+        "headSize": {
             "value": "1,5-2,5",
             "unit": "kg"
         },
@@ -133,7 +133,7 @@
         "crop": "B_WC",
         "color": "#648975",
         "family": "kapusta",
-        "segment": "kapusta biała",
+        "segment": "kapusta głowiasta biała",
         "intended": ["świeży rynek", "karton", "worek"],
         "vegetation": {
             "value": "80-85",
@@ -144,7 +144,7 @@
             "value": "40-60",
             "unit": "tys./ha"
         },
-        "size": {
+        "headSize": {
             "value": "1,5-2,5",
             "unit": "kg"
         },
@@ -163,7 +163,7 @@
         "crop": "B_WC",
         "color": "#648975",
         "family": "kapusta",
-        "segment": "kapusta biała",
+        "segment": "kapusta głowiasta biała",
         "intended": ["świeży rynek", "przetwórstwo"],
         "vegetation": {
             "value": "115",
@@ -174,12 +174,12 @@
             "value": "25-40",
             "unit": "tys./ha"
         },
-        "size": {
+        "headSize": {
             "value": "5-6",
             "unit": "kg"
         },
         "cultivation": ["grunt"],
-        "resistance": ["HR: Foc"],
+        "resistance": ["HR: Fuzarioza kapusty (Foc)"],
         "description": "Strukta jest odmianą przeznaczoną do kiszenia i sprzedaży na świeżym rynku, w okresie od sierpnia do późnej jesieni. Dobrze radzi sobie w gorących i suchych warunkach, jak również w lata wilgotne. Strukta ma bardzo długie okno zbiorcze. Już po około 80 dniach główki są twarde i nadają się do sprzedaży na świeżym rynku. Główki mogą bardzo długo pozostawać na polu, nawet powyżej 150 dni, przyrastając na wielkość i nie tracąc jakości. Liście zewnętrzne odsłaniają podstawę główki, co ułatwia ochronę przed szkodnikami, umożliwia przesychanie i zapewnia dobrą zdrowotność spodu główek. Dodatkowo wysoki i miękki głąb ułatwia cięcie i zapewnia dużą wydajność przy zbiorach. Strukta bardzo dobrze nadaje się także do zbioru kombajnem. Mała liczba zielonych liści zapewnia szybkie obieranie do uzyskania białych główek. Krajanka jest delikatna i jednolicie biała. Wysoka zawartość suchej masy i cukrów zapewnia małe ubytki masy podczas kiszenia, a naturalna wysoka zawartość witaminy C chroni zakiszoną kapustę przed ciemnieniem i wydłuża okres przydatności do pakowania. Strukta nadaje się do krótkotrwałego przechowywania i kiszenia w okresie zimy."
     },
     "storka":{
@@ -194,7 +194,7 @@
         "crop": "B_WC",
         "color": "#648975",
         "family": "kapusta",
-        "segment": "kapusta biała",
+        "segment": "kapusta głowiasta biała",
         "intended": ["świeży rynek", "przetwórstwo"],
         "vegetation": {
             "value": "120",
@@ -205,7 +205,7 @@
             "value": "30-50",
             "unit": "tys./ha"
         },
-        "size": {
+        "headSize": {
             "value": "2-4(1,5-2 przy gęstym sadzeniu)",
             "unit": "kg"
         },
@@ -215,7 +215,7 @@
     "tca_581":{
         "active": true,
         "new": true,
-        "name": "TCA 581",
+        "name": "TCA-581",
          "imgs":["kapustne/B_WC/tca_581.jpg"],
         "guardian": "Bernard Zioło",
         "hybrid": true,
@@ -225,7 +225,7 @@
         "crop": "B_WC",
         "color": "#648975",
         "family": "kapusta",
-        "segment": "kapusta biała",
+        "segment": "kapusta głowiasta biała",
         "intended": ["świeży rynek", "przetwórstwo"],
         "vegetation": {
             "value": "140",
@@ -236,12 +236,12 @@
             "value": "30-40",
             "unit": "tys./ha"
         },
-        "size": {
+        "headSize": {
             "value": "3-5",
             "unit": "kg"
         },
-        "resistance": ["HR: Foc", "IR: Xcc"],
-        "description": "TCA 581 jest odmianą przeznaczoną do jesiennych zbiorów i długiego przechowywania. Silny system korzeniowy zapewnia niezawodność uprawy i dobre plony w warunkach okresowych niedoborów wody i zmienności gleby. Wyrównanie wielkości główek przekłada się na wysokie plony. Odporność na choroby i tolerancja na wciornastki pozwalają zmniejszyć nakłady na ochronę. TCA 581 może być przechowywana do końca maja. Główki zachowują atrakcyjny wygląd, żywozielony kolor i połysk po obraniu z liści zewnętrznych. Zapewnia to wysokiej jakości towar na świeży rynek, ale także bardzo dobry surowiec do wiosennego kiszenia. Optymalny termin sadzenia rozsady to pierwsza połowa czerwca. TCA 581 ma szybkie tempo wzrostu, dzięki czemu dobrze sprawdza się również w przypadku sadzenia po wczesnych ziemniakach (około 20 czerwca). Zalecane zagęszczenie w tym terminie sadzenia to 30-40 tys./ha; główki osiągają wielkość do 5 kg, zachowując przydatność do bardzo długiego przechowywania."
+        "resistance": ["HR: Fuzarioza kapusty (Foc)", "IR: Czarna zgnilizna kapusty (Xcc)"],
+        "description": "TCA-581 jest odmianą przeznaczoną do jesiennych zbiorów i długiego przechowywania. Silny system korzeniowy zapewnia niezawodność uprawy i dobre plony w warunkach okresowych niedoborów wody i zmienności gleby. Wyrównanie wielkości główek przekłada się na wysokie plony. Odporność na choroby i tolerancja na wciornastki pozwalają zmniejszyć nakłady na ochronę. TCA-581 może być przechowywana do końca maja. Główki zachowują atrakcyjny wygląd, żywozielony kolor i połysk po obraniu z liści zewnętrznych. Zapewnia to wysokiej jakości towar na świeży rynek, ale także bardzo dobry surowiec do wiosennego kiszenia. Optymalny termin sadzenia rozsady to pierwsza połowa czerwca. TCA-581 ma szybkie tempo wzrostu, dzięki czemu dobrze sprawdza się również w przypadku sadzenia po wczesnych ziemniakach (około 20 czerwca). Zalecane zagęszczenie w tym terminie sadzenia to 30-40 tys./ha; główki osiągają wielkość do 5 kg, zachowując przydatność do bardzo długiego przechowywania."
     },
     "autumn_king":{
         "active": true,
@@ -267,12 +267,12 @@
             "value": "40-50",
             "unit": "tys./ha"
         },
-        "size": {
+        "headSize": {
             "value": "1,5-2,5",
             "unit": "kg"
         },
         "cultivation": ["włóknina", "grunt"],
-        "resistance": ["HR: Foc"],
+        "resistance": ["HR: Fuzarioza kapusty (Foc)"],
         "description": "Szybko rosnąca odmiana kapusty płaskiej do zbiorów od wiosny do jesieni. Autumn King tworzy płaskie, jasnozielone główki o delikatnych, kruchych liściach i wysokiej tolerancji na pękanie. Dużą zaletą odmiany jest wysoka tolerancja na pieprzową plamistość liści podczas przechowywania. Odmiana do sprzedaży na świeży rynek i do wczesnego kiszenia."
     },
     "green_lunar":{
@@ -299,12 +299,12 @@
             "value": "40-50",
             "unit": "tys./ha"
         },
-        "size": {
+        "headSize": {
             "value": "2-2,5",
             "unit": "kg"
         },
         "cultivation": ["grunt"],
-        "resistance": ["HR: Foc", "IR: Xcc"],
+        "resistance": ["HR: Fuzarioza kapusty (Foc)", "IR: Czarna zgnilizna kapusty (Xcc)"],
         "description": "Odmiana łatwa w uprawie, na zbiory letnie i jesienne, o wyrównanych główkach. Wolna od przebarwień antocyjanowych przy niskich temperaturach. Odmiana ta jest odporna na pękanie, dzięki czemu może być zbierana przez długi czas."
     },
     "green_stellar":{
@@ -331,12 +331,12 @@
             "value": "40-50",
             "unit": "tys./ha"
         },
-        "size": {
+        "headSize": {
             "value": "1-1,5",
             "unit": "kg"
         },
         "cultivation": ["grunt"],
-        "resistance": ["HR: Foc", "IR: Xcc"],
+        "resistance": ["HR: Fuzarioza kapusty (Foc)", "IR: Czarna zgnilizna kapusty (Xcc)"],
         "description": "Nowa odmiana płaskiej kapusty, zalecana do uprawy w dużym zagęszczeniu. Główki wyrównane, dobrze wypełnione również przy dużym zagęszczeniu. Odmiana na jesienne zbiory, bardzo przydatna do przechowywania."
     },
     "convoy":{
@@ -362,7 +362,7 @@
             "value": "40-50",
             "unit": "tys./ha"
         },
-        "size": {
+        "headSize": {
             "value": "2",
             "unit": "kg"
         },
@@ -392,12 +392,12 @@
             "value": "40-50",
             "unit": "tys./ha"
         },
-        "size": {
+        "headSize": {
             "value": "1,5",
             "unit": "kg"
         },
         "cultivation": ["włóknina", "grunt"],
-        "resistance": ["HR: Foc"],
+        "resistance": ["HR: Fuzarioza kapusty (Foc)"],
         "description": "Odmiana do nasadzeń przez cały sezon uprawy. Główki kompaktowe, zwięzłe, szczególnie nadające się  do pakowania w skrzynki do zaopatrywania supermarketów i na eksport. Wyrównanie wielkości i ciemny kolor zapewniają bardzo atrakcyjny wygląd w skrzynkach."
     },
     "deuce":{
@@ -423,7 +423,7 @@
             "value": "40",
             "unit": "tys./ha"
         },
-        "size": {
+        "headSize": {
             "value": "2",
             "unit": "kg"
         },
@@ -454,7 +454,7 @@
             "value": "65",
             "unit": "tys./ha"
         },
-        "size": {
+        "headSize": {
             "value": "1-1,5",
             "unit": "kg"
         },
@@ -486,7 +486,7 @@
             "value": "65",
             "unit": "tys./ha"
         },
-        "size": {
+        "headSize": {
             "value": "1-2",
             "unit": "kg"
         },
@@ -518,7 +518,7 @@
             "value": "65",
             "unit": "tys./ha"
         },
-        "size": {
+        "headSize": {
             "value": "1,5-2",
             "unit": "kg"
         },
@@ -550,7 +550,7 @@
             "value": "65",
             "unit": "tys./ha"
         },
-        "size": {
+        "headSize": {
             "value": "1-1,5",
             "unit": "kg"
         },
@@ -714,7 +714,7 @@
         "planting": [3, 7],
         "harvest": [5, 9],
         "cultivation": ["grunt"],
-        "resistance": ["HR: Foc"],
+        "resistance": ["HR: Fuzarioza kapusty (Foc)"],
         "description": "Mieszaniec kalarepy do uprawy w gruncie otwartym przez cały okres wegetacji. Avaya bardzo dobrze toleruje wysokie temperatury latem i stresowe warunki. Jest łatwa do zbioru, liście ma średniej długości, wzniesione. Odmiana wykazuje tolerancję na mączniaka rzekomego."
     },
     "solares":{
@@ -741,7 +741,7 @@
         "planting": [4, 8],
         "harvest": [6, 10],
         "cultivation": ["grunt"],
-        "resistance": ["HR: Foc"],
+        "resistance": ["HR: Fuzarioza kapusty (Foc)"],
         "description": "Odmiana do uprawy w gruncie otwartym, w okresie lata i jesieni. Liście długie, wzniesione, zgrubienia okrągłe, spłaszczone, łatwe do zbioru i pakowania w kartony. Wysoka tolerancja na mączniaka rzekomego. Odmiana dobrze radzi sobie w warunkach wysokich, letnich temperaturatur, co zapewnia niezawodność w uprawie. Długi okres przydatności do zbioru."
     },
     "escala":{

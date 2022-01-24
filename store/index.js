@@ -117,7 +117,7 @@ export const state = () => ({
         "kapustne/B_WC/tca_581.jpg",
         "kapustne/B_WC/tca_581.jpg",
         "kapustne/B_CF/chione.jpg",],
-        crops: ['strukta', 'storka', 'coronata', 'tca 581', 'chione'],
+        crops: ['strukta', 'storka', 'coronata', 'tca-581', 'chione'],
         terms: '10 + 1 za 1zł',
         color: '#436636',
         endTime: '2022-04-30',
@@ -141,7 +141,7 @@ export const state = () => ({
               `W Promocji mogą wziąć udział producenci warzyw (zwani dalej „Uczestnikami”), którzy w czasie trwania
               Promocji zakupią jednorazowo w celu zabezpieczenia swoich potrzeb produkcyjnych (uprawy), co najmniej 10
               (dziesięć) opakowań po 2,5 tysiąca nasion każde, jednej i tej samej odmiany.`,
-              `Promocja dotyczy nasion odmian: Kapusta biała: Coronata F1, Storka F1, Strukta F1, TCA 581 F1, Kalafior: Chione F1`,
+              `Promocja dotyczy nasion odmian: Kapusta biała: Coronata F1, Storka F1, Strukta F1, TCA-581 F1, Kalafior: Chione F1`,
               `Promocja „KAPUSTNE 10+1 - 2022” nie łączy się z innymi promocjami dotyczącymi produktów w postaci
               nasion.`,
               `Każdy Uczestnik, który w czasie trwania Promocji zakupi nasiona odmian wymienionych w § 2 pkt. 2 na

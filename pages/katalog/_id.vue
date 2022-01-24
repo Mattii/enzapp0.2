@@ -46,7 +46,7 @@
           >
         </v-img>
         <v-card-title class="">
-          Osiagnij {{ varietie[0].purpose || "?" }}
+          Wybierz {{ varietie[0].purpose || "?" }}
         </v-card-title>
         <v-card-text class="">
           <div class="mb-4 text-subtitle-1">
@@ -71,7 +71,7 @@
         </v-card-text>
       </v-card>
       <div v-if="varietie[0].resistance">
-        <v-subheader class="mt-3">wegetacja...</v-subheader>
+        <v-subheader class="mt-3">okres wegetacji...</v-subheader>
         <v-card>
           <v-card-text>
             <div v-if="varietie[0].vegetation" class="text-subtitle-1">
@@ -110,6 +110,16 @@
           </v-card-text>
         </v-card>
       </div>
+      <div v-if="varietie[0].headSize">
+        <v-subheader class="mt-3">rozmiar główki...</v-subheader>
+        <v-card>
+          <v-card-text>
+            <div class="text-subtitle-1">
+              {{ varietie[0].headSize.value }} {{ varietie[0].headSize.unit }}
+            </div>
+          </v-card-text>
+        </v-card>
+      </div>
       <div v-if="varietie[0].compaction">
         <v-subheader class="mt-3">zagęszczenie...</v-subheader>
         <v-expansion-panels>
@@ -130,8 +140,8 @@
           </v-expansion-panel>
         </v-expansion-panels>
       </div>
-      <div>
-        <v-subheader class="mt-3">podłoże...</v-subheader>
+      <div v-if="varietie[0].cultivation"> 
+        <v-subheader class="mt-3">typ uprawy...</v-subheader>
         <v-card>
           <v-card-text>
             <div class="text-subtitle-1">
@@ -145,7 +155,7 @@
         </v-card>
       </div>
       <div v-if="varietie[0].resistance">
-        <v-subheader class="mt-3">odporności...</v-subheader>
+        <v-subheader class="mt-3">odporności na choroby...</v-subheader>
         <v-card>
           <v-card-text>
             <div class="text-subtitle-1">
@@ -171,8 +181,7 @@
                     {{ price.unit }}
                     <v-icon v-if="price.caliber">mdi-diameter-outline</v-icon>
                     {{ price.caliber ? price.caliber : "" }}
-                    {{ price.vitalis ? "BIO" : "" }}
-                    <br />
+                    {{ price.vitalis ? "BIO" : "" }} 
                     <v-icon>mdi-cash-multiple</v-icon
                     ><strong>{{ Number(price.price).toFixed(2) }}</strong> ({{
                       priceWithTax(price.price).toFixed(2)
