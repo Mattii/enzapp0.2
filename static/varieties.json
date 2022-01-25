@@ -22,10 +22,7 @@
             "value": "50",
             "unit": "tys./ha"
         },
-        "headSize": {
-            "value": "1-3",
-            "unit": "kg"
-        },
+        "headSize": "1-3 kg",
         "cultivation": ["włóknina", "grunt"],
         "description": "Wczesna odmiana do wiosennej uprawy w tunelach foliowych i pod płaskimi przykryciami. Cechuje się bardzo dobrym wyrównaniem wielkości i szybkim wypełnianiem główki, co pozwala na wczesne rozpoczęcie zbiorów. Uniwersalna odmiana odpowiednia do pakowania w skrzynki, po sześć lub osiem sztuk, która również może być przytrzymana na duże, 2-kilogramowe główki do sprzedaży luzem. Sunta jest odporna na zagniwanie spodu dzięki osadzeniu na wysokim pędzie. Wykazuje wysoką tolerancję na pękanie w zmiennych warunkach pogodowych. Ze względu na te cechy Sunta ma długie okno zbiorcze. Dodatkową zaletą tej odmiany jest słodki smak, dzięki czemu znakomicie nadaje się na sałatki."
     },
@@ -52,10 +49,7 @@
             "value": "40-50",
             "unit": "tys./ha"
         },
-        "headSize": {
-            "value": "1,5-3",
-            "unit": "kg"
-        },
+        "headSize": "1,5-3 kg",
         "cultivation": ["grunt"],
         "resistance": ["HR: Fuzarioza kapusty (Foc)"],
         "description": "Odmiana do wiosennej uprawy pod płaskimi okryciami i do pierwszych nasadzeń w gruncie otwartym. Cheeta wyróżnia się mocnym wigorem, dużymi, ciemnozielonymi liśćmi okrywowymi, odpornością na pękanie i dobrą zdrowotnością. Zbiory można rozpocząć przy wielkości główek ok. 1,5 kg. Cheeta zachowuje wysoką jakość i trwałość do wielkości 3-3,5 kg. Jest odmianą niezawodnie plonującą, zarówno przy chłodnej, jak i suchej, upalnej wiośnie."
@@ -83,10 +77,7 @@
             "value": "35-40",
             "unit": "tys./ha"
         },
-        "headSize": {
-            "value": "3-4",
-            "unit": "kg"
-        },
+        "headSize":"3-4 kg",
         "cultivation": ["grunt"],
         "resistance": ["HR: Fuzarioza kapusty (Foc)", "IR: Czarna zgnilizna kapusty (Xcc)"],
         "description": "Odmiana kapusty białej do zbioru w okresie lata i jesieni. Compass tworzy duże główki o żywozielonym kolorze liści. Główki są wyrównane, lekko spłaszczone, znakomicie nadające się do wykorzystania w kuchni, np. na gołąbki. Odmiana ta jest łatwa w uprawie i dobrze toleruje letnie zmienne warunki, zarówno wysokie temperatury, jak i niedobory wody. Wysoka odporność na Fusarium, średnia na Xanthomonas i dobra tolerancja na wciornastki bardzo ułatwiają ochronę."
@@ -114,10 +105,7 @@
             "value": "60",
             "unit": "tys./ha"
         },
-        "headSize": {
-            "value": "1,5-2,5",
-            "unit": "kg"
-        },
+        "headSize": "1,5-2,5 kg",
         "cultivation": ["grunt"],
         "description": "Odmiana odpowiednia do zaopatrywania sieci supermarketów przez cały sezon. Może być sadzona od wczesnej wiosny, pod włókniną, z przeznaczeniem na pierwsze dostawy kapusty o twardych główkach, aż do drugiej połowy lipca na przechowanie. Predeco tworzy wyrównane, twarde główki o atrakcyjnym wyglądzie: jasnozielone, z połyskiem i delikatnym unerwieniem liści, bardzo dobrze prezentujące się w kartonach. Główki są twarde od wczesnej fazy, już przy masie poniżej 1 kg, a w późniejszym okresie wzrostu powiększają swoją średnicę i masę. W lecie odmiana Predeco może być zbierana już po 70 dniach w kartony 30 × 50 cm lub po 80 dniach w standardowe skrzynki 40 × 60 cm. Wielkość główek: od 1,3-1,5 kg i średnicy ok. 15 cm na początku zbiorów do maksymalnie 2,5 kg. Predeco jest odporne na pękanie i wyrośnięte może pozostawać na polu nawet przez kilka tygodni. Głąb krótki, miękki, łatwy do cięcia. Luźne osadzenie dolnych liści zapewnia prawidłową wentylację i dobrą zdrowotność także w lata z dużą ilością opadów. Główki z późnych nasadzeń, w drugiej połowie lipca, można przechowywać do kwietnia. Zalecamy wysokie zagęszczenie, do 60 tys./ha (45-50 cm × 35 cm), zapewniające wysokie plony z hektara i dochodowość produkcji. Ponadto szybkie okrycie gleby przez liście ułatwia walkę z chwastami i utrzymanie wody w glebie w okresie lata."
     },
@@ -144,10 +132,7 @@
             "value": "40-60",
             "unit": "tys./ha"
         },
-        "headSize": {
-            "value": "1,5-2,5",
-            "unit": "kg"
-        },
+        "headSize": "1,5-2,5 kg",
         "cultivation": ["grunt"],
         "description": "Odmiana do letnich i jesiennych zbiorów, przeznaczona do zaopatrzenia supermarketów i na eksport. Charakteryzuje się bardzo dobrym wyrównaniem i atrakcyjnym wyglądem. Tworzy kuliste główki, o zwięzłej strukturze i intensywnym zielonym kolorze. Bardzo odporna na przebarwienia antocyjanowe. Osadzenie główki na wysokim pędzie i miękki głąb ułatwiają zbiór, a woskowane liście powodują, że odmiana ta wykazuje tolerancję na wciornastka. Odmiana Verdeco dobrze dorasta przy niższych temperaturach i może być sadzona w połowie lipca jako poplon z możliwością przechowywania."
     },
@@ -174,10 +159,7 @@
             "value": "25-40",
             "unit": "tys./ha"
         },
-        "headSize": {
-            "value": "5-6",
-            "unit": "kg"
-        },
+        "headSize": "5-6 kg",
         "cultivation": ["grunt"],
         "resistance": ["HR: Fuzarioza kapusty (Foc)"],
         "description": "Strukta jest odmianą przeznaczoną do kiszenia i sprzedaży na świeżym rynku, w okresie od sierpnia do późnej jesieni. Dobrze radzi sobie w gorących i suchych warunkach, jak również w lata wilgotne. Strukta ma bardzo długie okno zbiorcze. Już po około 80 dniach główki są twarde i nadają się do sprzedaży na świeżym rynku. Główki mogą bardzo długo pozostawać na polu, nawet powyżej 150 dni, przyrastając na wielkość i nie tracąc jakości. Liście zewnętrzne odsłaniają podstawę główki, co ułatwia ochronę przed szkodnikami, umożliwia przesychanie i zapewnia dobrą zdrowotność spodu główek. Dodatkowo wysoki i miękki głąb ułatwia cięcie i zapewnia dużą wydajność przy zbiorach. Strukta bardzo dobrze nadaje się także do zbioru kombajnem. Mała liczba zielonych liści zapewnia szybkie obieranie do uzyskania białych główek. Krajanka jest delikatna i jednolicie biała. Wysoka zawartość suchej masy i cukrów zapewnia małe ubytki masy podczas kiszenia, a naturalna wysoka zawartość witaminy C chroni zakiszoną kapustę przed ciemnieniem i wydłuża okres przydatności do pakowania. Strukta nadaje się do krótkotrwałego przechowywania i kiszenia w okresie zimy."
@@ -205,10 +187,7 @@
             "value": "30-50",
             "unit": "tys./ha"
         },
-        "headSize": {
-            "value": "2-4(1,5-2 przy gęstym sadzeniu)",
-            "unit": "kg"
-        },
+        "headSize": "2-4(1,5-2 przy gęstym sadzeniu) kg",
         "cultivation": ["grunt"],
         "description": "Odmiana o bardzo szerokiej możliwości wykorzystania. Najczęściej stosowana do czerwcowych nasadzeń z przeznaczeniem do przechowywania. Storka daje także bardzo dobre wyniki w letniej uprawie na sprzedaż bezpośrednio po zbiorach na świeży rynek. Odmiana wyróżnia się wysoką zawartością cukrów i jest ceniona przez konsumentów za słodki smak. Jest to również zaleta podczas zimowego kiszenia. Storka ma główki owalne, liście odporne na przebarwienia antocyjanowe. Jest bardzo łatwa do obierania, także przez nadmuch powietrza, co zapewnia wysoką wydajność przy pakowaniu. Może być sadzona przez długi okres, od połowy kwietnia, na zbiory latem, do końca czerwca, także jako poplon po wczesnych warzywach. Zależnie od przeznaczenia Storka może być sadzona w różnym zagęszczeniu. Dla uzyskania główek 3-3,5 kg zalecane jest sadzenie jej w liczbie 35-40 tys./ha. W celu produkcji główek o masie ok. 2 kg, z przeznaczeniem do zaopatrzenia sieci supermarketów, zalecane jest większe zagęszczenie około 50 tys./ha. Odporność odmiany na pękanie i jej zdrowotność zapewnia bardzo długie okno zbiorcze, nawet do dwóch miesięcy bez przerastania na wielkość. Łatwość adaptacji do zmiennych warunków, bardzo dobra zdrowotność, długi okres nasadzeń, możliwość stosowania różnego zagęszczenia, wielokierunkowe wykorzystanie czynią ze Storki bardzo uniwersalną odmianę dla każdego producenta kapusty."
     },
@@ -236,10 +215,7 @@
             "value": "30-40",
             "unit": "tys./ha"
         },
-        "headSize": {
-            "value": "3-5",
-            "unit": "kg"
-        },
+        "headSize": "3-5 kg",
         "resistance": ["HR: Fuzarioza kapusty (Foc)", "IR: Czarna zgnilizna kapusty (Xcc)"],
         "description": "TCA-581 jest odmianą przeznaczoną do jesiennych zbiorów i długiego przechowywania. Silny system korzeniowy zapewnia niezawodność uprawy i dobre plony w warunkach okresowych niedoborów wody i zmienności gleby. Wyrównanie wielkości główek przekłada się na wysokie plony. Odporność na choroby i tolerancja na wciornastki pozwalają zmniejszyć nakłady na ochronę. TCA-581 może być przechowywana do końca maja. Główki zachowują atrakcyjny wygląd, żywozielony kolor i połysk po obraniu z liści zewnętrznych. Zapewnia to wysokiej jakości towar na świeży rynek, ale także bardzo dobry surowiec do wiosennego kiszenia. Optymalny termin sadzenia rozsady to pierwsza połowa czerwca. TCA-581 ma szybkie tempo wzrostu, dzięki czemu dobrze sprawdza się również w przypadku sadzenia po wczesnych ziemniakach (około 20 czerwca). Zalecane zagęszczenie w tym terminie sadzenia to 30-40 tys./ha; główki osiągają wielkość do 5 kg, zachowując przydatność do bardzo długiego przechowywania."
     },
@@ -267,10 +243,7 @@
             "value": "40-50",
             "unit": "tys./ha"
         },
-        "headSize": {
-            "value": "1,5-2,5",
-            "unit": "kg"
-        },
+        "headSize": "1,5-2,5 kg",
         "cultivation": ["włóknina", "grunt"],
         "resistance": ["HR: Fuzarioza kapusty (Foc)"],
         "description": "Szybko rosnąca odmiana kapusty płaskiej do zbiorów od wiosny do jesieni. Autumn King tworzy płaskie, jasnozielone główki o delikatnych, kruchych liściach i wysokiej tolerancji na pękanie. Dużą zaletą odmiany jest wysoka tolerancja na pieprzową plamistość liści podczas przechowywania. Odmiana do sprzedaży na świeży rynek i do wczesnego kiszenia."
@@ -299,10 +272,7 @@
             "value": "40-50",
             "unit": "tys./ha"
         },
-        "headSize": {
-            "value": "2-2,5",
-            "unit": "kg"
-        },
+        "headSize": "2-2,5 kg",
         "cultivation": ["grunt"],
         "resistance": ["HR: Fuzarioza kapusty (Foc)", "IR: Czarna zgnilizna kapusty (Xcc)"],
         "description": "Odmiana łatwa w uprawie, na zbiory letnie i jesienne, o wyrównanych główkach. Wolna od przebarwień antocyjanowych przy niskich temperaturach. Odmiana ta jest odporna na pękanie, dzięki czemu może być zbierana przez długi czas."
@@ -331,10 +301,7 @@
             "value": "40-50",
             "unit": "tys./ha"
         },
-        "headSize": {
-            "value": "1-1,5",
-            "unit": "kg"
-        },
+        "headSize": "1-1,5 kg",
         "cultivation": ["grunt"],
         "resistance": ["HR: Fuzarioza kapusty (Foc)", "IR: Czarna zgnilizna kapusty (Xcc)"],
         "description": "Nowa odmiana płaskiej kapusty, zalecana do uprawy w dużym zagęszczeniu. Główki wyrównane, dobrze wypełnione również przy dużym zagęszczeniu. Odmiana na jesienne zbiory, bardzo przydatna do przechowywania."
@@ -362,10 +329,7 @@
             "value": "40-50",
             "unit": "tys./ha"
         },
-        "headSize": {
-            "value": "2",
-            "unit": "kg"
-        },
+        "headSize": "2 kg",
         "cultivation": ["włóknina", "grunt"],
         "description": "Kapusta włoska do uprawy przez cały okres wegetacji, od wczesnych nasadzeń pod płaskie okrycia do nasadzeń poplonowych w lipcu. Odmiana łatwo adaptująca się do zmiennych warunków uprawowych, gwarantująca wysoki plon. Główki średniej wielkości, ok. 2 kg, liście intensywnie zielone, ze średniej wielkości pęcherzykami."
     },
@@ -392,10 +356,7 @@
             "value": "40-50",
             "unit": "tys./ha"
         },
-        "headSize": {
-            "value": "1,5",
-            "unit": "kg"
-        },
+        "headSize": "1,5 kg",
         "cultivation": ["włóknina", "grunt"],
         "resistance": ["HR: Fuzarioza kapusty (Foc)"],
         "description": "Odmiana do nasadzeń przez cały sezon uprawy. Główki kompaktowe, zwięzłe, szczególnie nadające się  do pakowania w skrzynki do zaopatrywania supermarketów i na eksport. Wyrównanie wielkości i ciemny kolor zapewniają bardzo atrakcyjny wygląd w skrzynkach."
@@ -423,10 +384,7 @@
             "value": "40",
             "unit": "tys./ha"
         },
-        "headSize": {
-            "value": "2",
-            "unit": "kg"
-        },
+        "headSize": "2 kg",
         "cultivation": ["grunt"],
         "description": "Odmiana kapusty włoskiej do zbioru późnym latem i jesienią. Główki bardzo wyrównane, zwięzłe, dobrze nadają się do pakowania w skrzynki, jak i do sprzedaży luzem. Średnia masa główek to ok. 2 kg. Liście zewnętrzne ciemnozielone, szerokie. Odmiana wyróżnia się znakomitym smakiem i wysoką zdrowotnością."
     },
@@ -454,10 +412,7 @@
             "value": "65",
             "unit": "tys./ha"
         },
-        "headSize": {
-            "value": "1-1,5",
-            "unit": "kg"
-        },
+        "headSize": "1-1,5 kg",
         "cultivation": ["grunt"],
         "resistance": ["HR: kiła kapustnych ", "PB: rasy 0,1,3"],
         "description": "Preduro jest odmianą wyróżniającą się bardzo wysoką odpornością na wybijanie w pędy kwiatostanowe. Dzięki temu niezawodnie plonuje w nasadzeniach wiosennych, również w lata z zimną wiosną. Szczególnie polecamy tę odmianę do nasadzeń pod osłonami. Preduro bardzo dobrze sprawuje się także w uprawie w gruncie otwartym na zbiory w czerwcu i lipcu. Może być zbierana w pełni wyrośnięta dla uzyskania wysokiego plonu. Preduro jest odmianą szybko rosnącą, przez co prędko osiąga handlową wagę. Charakteryzuje się ciemnozielonym kolorem liści i atrakcyjnym, handlowym wyglądem. Cylindryczny kształt główek sprawia, że łatwo i szybko się ją pakuje, ponadto taki kształt jest pożądany przez konsumentów. Odmiana Preduro sprawdza się także w letniej uprawie pod siatką, bez stosowania insektycydów."
@@ -486,10 +441,7 @@
             "value": "65",
             "unit": "tys./ha"
         },
-        "headSize": {
-            "value": "1-2",
-            "unit": "kg"
-        },
+        "headSize": "1-2 kg",
         "cultivation": ["grunt"],
         "resistance": ["HR: kiła kapustnych ", "PB: rasy 0,1,3"],
         "description": "Bardzo wyrównana odmiana z atrakcyjnym żółtozielonym kolorem wnętrza główki. Odporna na wybijanie w pędy kwiatowe, również przy zimnej wiośnie. Orient Surprise bardzo dobrze nadaje się zarówno do wczesnych nasadzeń pod osłonami, jak i do późniejszej produkcji w gruncie otwartym. Odmiana ta szybko się wypełnia, dając łatwe w zbiorze główki o kształcie i wadze idealnych dla potrzeb świeżego rynku. Szczególnie polecana producentom, którym zależy na dużej masie główek. Orient Surprise ma silny system korzeniowy i nie jest podatna na tipburn czyli zamieranie wnętrza główki na skutek problemów z transportem wapnia w roślinie."
@@ -518,10 +470,7 @@
             "value": "65",
             "unit": "tys./ha"
         },
-        "headSize": {
-            "value": "1,5-2",
-            "unit": "kg"
-        },
+        "headSize": "1,5-2 kg",
         "cultivation": ["grunt"],
         "resistance": ["HR: kiła kapustnych ", "PB: rasy 0,1,3"],
         "description": "Orient Express jest odmianą przeznaczoną na zbiory letnie i jesienne. Wyróżnia się dobrą zdrowotnością na polu i bardzo dobrym wyrównaniem wielkości. Dzięki temu oraz ze względu na dużą masę główek zapewnia uzyskiwanie wysokich plonów z hektara. Odmiana o bardzo dobrej tolerancji na zaburzenia fizjologiczne: tipburn i pieprzową plamistość. Orient Express może być wykorzystany do średnio długiego przechowywania."
@@ -550,10 +499,7 @@
             "value": "65",
             "unit": "tys./ha"
         },
-        "headSize": {
-            "value": "1-1,5",
-            "unit": "kg"
-        },
+        "headSize": "1-1,5 kg",
         "cultivation": ["grunt"],
         "resistance": ["HR: kiła kapustnych ", "PB: rasy 0,1,3"],
         "description": "Enduro jest odmianą przeznaczoną na sprzedaż bezpośrednio po zbiorze w drugiej połowie lata i jesienią oraz do długiego przechowywania. Cylindryczny kształt, wyrównanie wielkości, brak przerastania główek na wysokość zapewniają wysoką jakość handlową przy letniej uprawie pod siatką nawet najbardziej wymagającym. Z nasadzeń w pierwszej połowie sierpnia uzyskuje się wysokie plony dobrze wypełnionych, cylindrycznych główek, które doskonale nadają się do długiego przechowywania. Główki są łatwe do czyszczenia po okresie przechowywania i po przygotowaniu do sprzedaży zachowują świeży, zielony kolor. Jeśli kapusta ta ma być długo przechowywana, zalecamy, aby nie była zbierana przejrzała. Odmiana cechuje się silnym systemem korzeniowym i dobrym pobieraniem wody z gleby, co przekłada się na stabilne plonowanie i zdrowotność produkcji."
@@ -753,13 +699,18 @@
         "provider": "eznl",
         "crop": "RD",
         "color": "#467F31",
-        "family": "kapusta",
+        "family": "rzodkiewka",
         "segment": "rzodkiewka",
         "intended": ["świeży rynek", "pęczki"],
+        "vegetation": {
+            "value": "?",
+            "unit": "dni"
+        },
         "compaction": {
             "value": "2,2",
             "unit": "mln nasion/ha"
         },
+        "early": 3,
         "planting": [2, 9],
         "type": "okrągła czerwona",
         "cultivation": ["grunt", "włóknina", "tunel"],
@@ -779,11 +730,16 @@
         "family": "kapusta",
         "segment": "rzodkiewka",
         "intended": ["świeży rynek", "pęczki"],
+        "vegetation": {
+            "value": "?",
+            "unit": "dni"
+        },
         "compaction": {
             "value": "2,2",
             "unit": "mln nasion/ha"
         },
         "planting": [2, 9],
+        "early": 4,
         "type": "okrągła czerwona",
         "cultivation": ["grunt", "tunel" ,"włóknina"],
         "resistance": ["?"],
@@ -801,11 +757,16 @@
         "family": "kapusta",
         "segment": "rzodkiewka",
         "intended": ["świeży rynek", "przemysł", "pęczki"],
+        "vegetation": {
+            "value": "?",
+            "unit": "dni"
+        },
         "compaction": {
             "value": "2,2",
             "unit": "mln nasion/ha"
         },
         "planting": [2, 9],
+        "early": 3,
         "type": "okrągła czerwona",
         "cultivation": ["grunt"],
         "resistance": ["?"],
@@ -821,13 +782,19 @@
         "provider": "eznl",
         "crop": "RD",
         "color": "#467F31",
+        "family":"rzodkiewka",
         "segment": "rzodkiewka",
         "intended": ["świeży rynek", "pęczki"],
+        "vegetation": {
+            "value": "?",
+            "unit": "dni"
+        },
         "compaction": {
             "value": "2,2",
             "unit": "mln nasion/ha"
         },
         "planting": [4, 8],
+        "early": 2,
         "type": "okrągła czerwona",
         "cultivation": ["tunel"],
         "resistance": ["?"],
@@ -843,6 +810,7 @@
         "provider": "eznl",
         "crop": "RD",
         "color": "#467F31",
+        "family":"rzodkiewka",
         "segment": "rzodkiewka",
         "intended": ["świeży rynek", "pęczki"],
         "compaction": {
@@ -850,6 +818,7 @@
             "unit": "mln nasion/ha"
         },
         "planting": [4, 8],
+        "early": 2,
         "type": "okrągła czerwona",
         "cultivation": ["grunt", "włóknina"],
         "resistance": ["?"],
@@ -864,13 +833,19 @@
         "provider": "eznl",
         "crop": "RD",
         "color": "#467F31",
+        "family":"rzodkiewka",
         "segment": "rzodkiewka",
         "intended": ["świeży rynek", "pęczki", "przemysł"],
+        "vegetation": {
+            "value": "?",
+            "unit": "dni"
+        },
         "compaction": {
             "value": "2,2",
             "unit": "mln nasion/ha"
         },
         "planting": [3, 9],
+        "early": 4,
         "type": "okrągła biała",
         "cultivation": ["grunt", "włóknina"],
         "description": "Biała, gładka, okrągła rzodkiewka do uprawy polowej. Charakteryzuje się bardzo silnym wzrostem i dobrą odpornością na pękanie. Jest często przygotowywana do sprzedaży w torebkach lub pęczku w połączeniu z tradycyjnymi czerwonymi odmianami."
@@ -885,12 +860,17 @@
         "crop": "DK",
         "color": "#467F31",
         "type":"wysok odporność na wybijanie w pędy",
+        "family":"rzodkiew",
         "segment": "rzodkiew japońska daikon",
         "intended": ["świeży rynek", "surówki", "przechowywanie"],
+        "compaction": {
+            "value": "?",
+            "unit": "mln nasion/ha"
+        },
         "root":{
-            "length": "40 cm",
-            "fi": "6 cm",
-            "color": "biały"
+            "rlength": "40 cm",
+            "rfi": "6 cm",
+            "rcolor": "biały"
         },
         "size":{
             "value": 800,
@@ -918,12 +898,13 @@
         "crop": "DK",
         "color": "#467F31",
         "type":"średnia odporność na wybijanie w pędy",
+        "family":"rzodkiew",
         "segment": "rzodkiew japońska daikon",
         "intended": ["świeży rynek", "surówki", "przechowywanie"],
         "root":{
-            "length": "40-45 cm",
-            "fi": "6,5 cm",
-            "color": "biały"
+            "rlength": "40-45 cm",
+            "rfi": "6,5 cm",
+            "rcolor": "biały"
         },
         "size":{
             "value": 800,
@@ -953,11 +934,12 @@
         "crop": "DK",
         "color": "#467F31",
         "type":"japoński",
+        "family":"rzepa",
         "segment": "rzepa",
         "intended": ["świeży rynek"],
         "root":{
-            "fi": "5-10 cm",
-            "color": "biały"
+            "rfi": "5-10 cm",
+            "rcolor": "biały"
         },
         "size":{
             "value": 150,
@@ -986,11 +968,12 @@
         "crop": "DK",
         "color": "#467F31",
         "type":"japoński",
+        "family":"rzepa",
         "segment": "rzepa",
         "intended": ["świeży rynek"],
         "root":{
-            "fi": "6-15 cm",
-            "color": "biały"
+            "rfi": "6-15 cm",
+            "rcolor": "biały"
         },
         "size":{
             "value": "150-450",
@@ -1012,6 +995,7 @@
     "casey":{
         "active": true,
         "new": true,
+        "vitalis": true,
         "name": "Casey",
          "imgs":["salaty/casey.jpg"],
         "guardian": "Aleksandra Krzyżanowska",
@@ -1019,10 +1003,11 @@
         "provider": "eznl",
         "crop": "LT",
         "color": "#467F31",
-        "type":"sałata masłowa",
-        "segment": "sałata",
+        "type":"?",
+        "family": "sałata",
+        "segment": "sałata masłowa",
         "intended": ["świeży rynek"],
-        "head_size": "średnia do dużej",
+        "headSize": "średnia do dużej",
         "planting": [4, 8],
         "cultivation": ["tunel", "hydroponika"],
         "resistance": ["HR: Bl-EU:16-37/Nr:0/Pb"],
@@ -1038,9 +1023,10 @@
         "crop": "LT",
         "color": "#467F31",
         "type":"sałata masłowa",
-        "segment": "sałata",
+        "family": "sałata",
+        "segment": "sałata masłowa",
         "intended": ["świeży rynek"],
-        "head_size": "średnia",
+        "headSize": "średnia",
         "planting": [4, 8],
         "cultivation": ["tunel", "hydroponika"],
         "resistance": ["HR: Bl-EU:16-34,36/ Nr:0/TBSV"],
@@ -1058,7 +1044,7 @@
         "type":"sałata masłowa",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "średnia do dużej",
+        "headSize": "średnia do dużej",
         "planting": [3, 8],
         "cultivation": ["tunel"],
         "resistance": ["HR: Bl-EU:16,21,23,32; IR: LMV:1/Me"],
@@ -1076,7 +1062,7 @@
         "type":"sałata masłowa",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "średnia do dużej",
+        "headSize": "średnia do dużej",
         "planting": [3, 5],
         "cultivation": ["tunel"],
         "resistance": ["HR: Bl-EU:16-29,32,34,36, Nr:0/TBSV"],
@@ -1094,7 +1080,7 @@
         "type":"sałata masłowa",
         "segment": "sałata",
         "intended": ["świeży rynek", "przemysł"],
-        "head_size": "średnia do dużej",
+        "headSize": "średnia do dużej",
         "planting": [4, 8],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/ Nr:0;", "IR: LMV:1"],
@@ -1112,7 +1098,7 @@
         "type":"sałata masłowa",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "średnia",
+        "headSize": "średnia",
         "planting": [3, 8],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-25,27-35,37/ Nr:0/Pb;", "IR: LMV:1"],
@@ -1130,7 +1116,7 @@
         "type":"sałata masłowa",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "średnia do dużej",
+        "headSize": "średnia do dużej",
         "planting": [4, 8],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/ Nr:0;", "IR: LMV:1"],
@@ -1149,7 +1135,7 @@
         "type":"sałata masłowa",
         "segment": "sałata",
         "intended": ["świeży rynek", "przemysł"],
-        "head_size": "średnia do dużej",
+        "headSize": "średnia do dużej",
         "planting": [4, 8],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/ Nr:0/Pb/TBSV;", "IR: LMV:1"],
@@ -1167,7 +1153,7 @@
         "type":"sałata masłowa",
         "segment": "sałata",
         "intended": ["świeży rynek", "przemysł"],
-        "head_size": "duża",
+        "headSize": "duża",
         "planting": [4, 8],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-36/Nr:0/TBSV;", "IR: LMV:1"],
@@ -1186,7 +1172,7 @@
         "type":"sałata masłowa",
         "segment": "sałata",
         "intended": ["świeży rynek", "przemysł"],
-        "head_size": "średnia do dużej",
+        "headSize": "średnia do dużej",
         "planting": [4, 8],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/ Nr:0/Pb/TBSV;", "IR: LMV:1"],
@@ -1205,7 +1191,7 @@
         "type":"sałata masłowa",
         "segment": "sałata",
         "intended": ["świeży rynek", "przemysł"],
-        "head_size": "średnia do dużej",
+        "headSize": "średnia do dużej",
         "planting": [4, 8],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-36/Nr:0/Pb/TBSV;", "IR: LMV:1, Fol:1"],
@@ -1224,7 +1210,7 @@
         "type":"sałata lodowa",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "średnia do dużej",
+        "headSize": "średnia do dużej",
         "planting": [8],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/Nr:0/Pb"],
@@ -1243,7 +1229,7 @@
         "type":"sałata lodowa",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "średnia do dużej",
+        "headSize": "średnia do dużej",
         "planting": [4, 8],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/Nr:0"],
@@ -1262,7 +1248,7 @@
         "type":"sałata lodowa",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "średnia",
+        "headSize": "średnia",
         "planting": [4, 8],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-36/Nr:0"],
@@ -1281,7 +1267,7 @@
         "type":"sałata lodowa",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "średnia",
+        "headSize": "średnia",
         "planting": [4, 8],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37"],
@@ -1300,7 +1286,7 @@
         "type":"sałata lodowa",
         "segment": "sałata",
         "intended": ["świeży rynek","przemysł"],
-        "head_size": "średnia do dużej",
+        "headSize": "średnia do dużej",
         "planting": [5, 8],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/Nr:0"],
@@ -1319,7 +1305,7 @@
         "type":"sałata lodowa",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "średnia do dużej",
+        "headSize": "średnia do dużej",
         "planting": [4, 8],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/Nr:0"],
@@ -1338,7 +1324,7 @@
         "type":"sałata lodowa",
         "segment": "sałata",
         "intended": ["świeży rynek", "przemysł"],
-        "head_size": "średnia do dużej",
+        "headSize": "średnia do dużej",
         "planting": [5, 8],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/Nr:0/Pb"],
@@ -1358,7 +1344,7 @@
         "type":"sałata lodowa",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "średnia do dużej",
+        "headSize": "średnia do dużej",
         "planting": [3],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/Nr:0/Pb"],
@@ -1377,7 +1363,7 @@
         "type":"sałata lodowa",
         "segment": "sałata",
         "intended": ["świeży rynek", "przemysł"],
-        "head_size": "duża",
+        "headSize": "duża",
         "planting": [4, 8],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/Nr:0"],
@@ -1396,7 +1382,7 @@
         "type":"sałata lodowa",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "średnia",
+        "headSize": "średnia",
         "planting": [3, 4],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/Nr:0/Pb"],
@@ -1415,7 +1401,7 @@
         "type":"sałata lodowa",
         "segment": "sałata",
         "intended": ["świeży rynek", "przemysł"],
-        "head_size": "średnia do dużej",
+        "headSize": "średnia do dużej",
         "planting": [4, 8],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/Nr:0/Pb"],
@@ -1434,7 +1420,7 @@
         "type":"sałata lodowa",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "średnia",
+        "headSize": "średnia",
         "planting": [3, 8],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/Nr:0"],
@@ -1453,7 +1439,7 @@
         "type":"lollo bionda",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "duża",
+        "headSize": "duża",
         "planting": [1, 12],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-36/ Nr:0/TBSV;", "IR: LMV:1/Fol:1"],
@@ -1472,7 +1458,7 @@
         "type":"lollo bionda",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "średnia do dużej",
+        "headSize": "średnia do dużej",
         "planting": [1, 12],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-33/Nr:0;", "IR: LMV:1/Fol:1"],
@@ -1491,7 +1477,7 @@
         "type":"lollo bionda",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "średnia do dużej",
+        "headSize": "średnia do dużej",
         "planting": [1, 12],
         "cultivation": ["hydroponika"],
         "description": "Odmiana typu lollo bionda o szybkim tempie wzrostu i elastycznych liściach. Kompaktowy pokrój rośliny zapewnia bardzo ładną prezentację produktu i ułatwia pakowanie."
@@ -1510,7 +1496,7 @@
         "type":"lollo bionda",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "średnia do dużej",
+        "headSize": "średnia do dużej",
         "planting": [1, 12],
         "cultivation": ["hydroponika"],
         "description": "Sałata typu lollo bionda o kompaktowej budowie z dużą ilością liści, dobrze wypełniających środek główki. Poleca na uprawy hydroponicznej przez cały rok. "
@@ -1528,7 +1514,7 @@
         "type":"lollo rossa",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "średnia do dużej",
+        "headSize": "średnia do dużej",
         "planting": [1, 12],
         "cultivation": ["hydroponika"],
         "description": "Piękna, błyszcząca, wiśniowoczerwona odmiana typu lollo rossa. Roślina o mocnym i elastycznym liściu, łatwa w pakowaniu. Wykazuje bardzo wysoką tolerancję na zagniwanie."
@@ -1546,7 +1532,7 @@
         "type":"lollo rossa",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "średnia do dużej",
+        "headSize": "średnia do dużej",
         "planting": [1, 12],
         "cultivation": ["hydroponika"],
         "description": "Sałata typu lollo rossa przeznaczona do zimowej produkcji hydroponicznej. Do uprawy pojedynczej oraz jako trio mix. Szybko rosnąca odmiana o atrakcyjnym wyglądzie i pełnym pakiecie odporności."
@@ -1564,7 +1550,7 @@
         "type":"sałata batawska",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "średnia do dużej",
+        "headSize": "średnia do dużej",
         "planting": [1, 12],
         "cultivation": ["hydroponika"],
         "description": "Sprawdzona sałata typu batawia polecana do uprawy całorocznej w uprawie hydroponicznej. Odmiana o świeżym zielonym kolorze i słodkim smaku. Pozostaje kompaktowa w okresie letnim i zachowuje właściwą wielkość liści. Zaletą tej odmiany jest odporność na mszycę porzeczkowo-sałatową (Nr 0). Odmianę tę wyróżnia wysoka tolerancja na zagniwanie wewnętrzne – tipburn."
@@ -1583,7 +1569,7 @@
         "type":"sałata batawska",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "średnia do dużej",
+        "headSize": "średnia do dużej",
         "planting": [1, 12],
         "cultivation": ["hydroponika"],
         "description": "Sprawdzona sałata typu batawia polecana do uprawy całorocznej w uprawie hydroponicznej. Odmiana o świeżym zielonym kolorze i słodkim smaku. Pozostaje kompaktowa w okresie letnim i zachowuje właściwą wielkość liści. Zaletą tej odmiany jest odporność na mszycę porzeczkowo-sałatową (Nr 0). Odmianę tę wyróżnia wysoka tolerancja na zagniwanie wewnętrzne – tipburn."
@@ -1601,7 +1587,7 @@
         "type":"lollo bionda",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "duża",
+        "headSize": "duża",
         "planting": [1, 12],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-33/Nr:0;", "IR: LMV:1/Fol:1"],
@@ -1620,7 +1606,7 @@
         "type":"lollo rossa",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "duża",
+        "headSize": "duża",
         "planting": [1, 12],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-36/ Nr:0/TBSV;", "IR: LMV:1"],
@@ -1639,7 +1625,7 @@
         "type":"lollo rossa",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "średnia",
+        "headSize": "średnia",
         "planting": [1, 12],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-33,35,37/ Nr:0;", "IR: Fol:1"],
@@ -1658,7 +1644,7 @@
         "type":"lollo rossa",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "średnia",
+        "headSize": "średnia",
         "planting": [1, 12],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-26,28,32/Nr:0"],
@@ -1677,7 +1663,7 @@
         "type":"rzymskie, midi, mini",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "duża",
+        "headSize": "duża",
         "planting": [1, 12],
         "size":{
             "value": "32-26",
@@ -1700,7 +1686,7 @@
         "type":"rzymskie, midi, mini",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "midi/duża",
+        "headSize": "midi/duża",
         "planting": [1, 12],
         "size":{
             "value": "26-28",
@@ -1724,7 +1710,7 @@
         "type":"rzymskie, midi, mini",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "midi/duża",
+        "headSize": "midi/duża",
         "planting": [1, 12],
         "size":{
             "value": "26-28",
@@ -1747,7 +1733,7 @@
         "type":"rzymskie, midi, mini",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "mini",
+        "headSize": "mini",
         "planting": [4, 8],
         "size":{
             "value": "18-22",
@@ -1770,7 +1756,7 @@
         "type":"rzymskie, midi, mini",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "mini",
+        "headSize": "mini",
         "planting": [1, 12],
         "size":{
             "value": "18-23",
@@ -1793,7 +1779,7 @@
         "type":"rzymskie, midi, mini",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "mini",
+        "headSize": "mini",
         "planting": [4, 11],
         "size":{
             "value": "18-24",
@@ -1816,7 +1802,7 @@
         "type":"rzymskie, midi, mini",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "mini",
+        "headSize": "mini",
         "planting": [4, 8],
         "size":{
             "value": "18-24",
@@ -1839,7 +1825,7 @@
         "type":"rzymskie, midi, mini",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "mini",
+        "headSize": "mini",
         "planting": [1, 12],
         "size":{
             "value": "19-23",
@@ -1862,7 +1848,7 @@
         "type":"rzymskie, midi, mini",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "mini",
+        "headSize": "mini",
         "planting": [9, 11],
         "size":{
             "value": "17-20",
@@ -1885,7 +1871,7 @@
         "type":"rzymskie, midi, mini",
         "segment": "sałata",
         "intended": ["świeży rynek"],
-        "head_size": "mini",
+        "headSize": "mini",
         "planting": [1, 12],
         "size":{
             "value": "19-25",
@@ -1978,7 +1964,7 @@
         "type":"escarola gładki liść",
         "segment": "endywia",
         "intended": ["świeży rynek"],
-        "head_size": "średnia do dużej",
+        "headSize": "średnia do dużej",
         "planting": [5, 8],
         "cultivation": ["grunt"],
         "description": "Polecana do produkcji letniej i jesiennej. Główki średniej wielkości, świeży zielony kolor zewnętrzny z żółtym wypełnieniem. Wysoka tolerancja na zagniwanie wewnętrzne w okresie letnim tipburn."
@@ -1996,7 +1982,7 @@
         "type":"escarola gładki liść",
         "segment": "endywia",
         "intended": ["świeży rynek"],
-        "head_size": "średnia do dużej",
+        "headSize": "średnia do dużej",
         "planting": [3, 8],
         "cultivation": ["grunt"],
         "description": "Średniej wielkości, do uprawy polowej i szklarniowej, z dobrą odpornością na wybijanie w kwiat. Odmiana posiada zdolność samowybielania oraz wysoką wydajność. Liście wewnętrzne są długie, wąskie i bardzo elastyczne. W szklarni odmiana jest ceniona ze względu na jej wczesność i jakość wewnętrzną."
@@ -2014,7 +2000,7 @@
         "type":"escarola gładki liść",
         "segment": "endywia",
         "intended": ["świeży rynek"],
-        "head_size": "duża",
+        "headSize": "duża",
         "planting": [3, 8],
         "cultivation": ["grunt"],
         "description": "Endywia w typie escarola tworząca główki o dużej masie. Bardzo wysoka tolerancja na wybijanie w kwiat w okresach niskich temperatur. Także w okresie letnim wysoka tolerancja na zagniwanie wewnątrz. Dużo jasnych liści wewnętrznych."
@@ -2032,7 +2018,7 @@
         "type":"escarola gładki liść",
         "segment": "endywia",
         "intended": ["świeży rynek"],
-        "head_size": "duża",
+        "headSize": "duża",
         "planting": [8],
         "cultivation": ["grunt"],
         "description": "Bardzo duża odmiana o wzniesionym pokroju ułatwiającym zbiór. Polecana do uprawy późną jesienią. Wysoka wydajność, odporność na pierwsze mrozy i trudne warunki pogodowe. Doskonała jakość i masa jasnych wewnętrznych liści."
@@ -2050,7 +2036,7 @@
         "type":"frisee liść fryzowany",
         "segment": "endywia",
         "intended": ["świeży rynek"],
-        "head_size": "średnia",
+        "headSize": "średnia",
         "planting": [3, 8],
         "cultivation": ["grunt"],
         "description": "Na wczesną wiosnę. Mocna podstawa, dobre wypełnienie i tempo wzrostu."
@@ -2068,7 +2054,7 @@
         "type":"frisee liść fryzowany",
         "segment": "endywia",
         "intended": ["świeży rynek"],
-        "head_size": "duża",
+        "headSize": "duża",
         "planting": [4, 8],
         "cultivation": ["grunt"],
         "description": "W typie odmiany Curlesi, o wolniejszym tempie wzrostu. Do uprawy od wiosny do jesieni. Bardzo dobre wypełnienie i duża masa liści."
@@ -2086,7 +2072,7 @@
         "type":"frisee liść fryzowany",
         "segment": "endywia",
         "intended": ["świeży rynek"],
-        "head_size": "duża",
+        "headSize": "duża",
         "planting": [4, 8],
         "cultivation": ["grunt"],
         "description": "Jedna z najpopularniejszych odmian na rynku. Duża masa liściowa, wysoki udział żółtych liści wewnętrznych. Wzniesiony pokrój, ułatwiający zbiór. Do uprawy od wiosny do jesieni."
@@ -2104,7 +2090,7 @@
         "type":"frisee liść fryzowany",
         "segment": "endywia",
         "intended": ["świeży rynek"],
-        "head_size": "średnia",
+        "headSize": "średnia",
         "planting": [3, 8],
         "cultivation": ["grunt"],
         "description": "Główka średnia do dużej. Bardzo wysoka wytrzymałość na niskie temperatury. Przeznaczona szczególnie do uprawy wiosennej. W zależności od rejonu może być uprawiana także w okresie letnim. Bardzo dobre wypełnienie i zdrowotność."
@@ -2122,7 +2108,7 @@
         "type":"frisee liść fryzowany",
         "segment": "endywia",
         "intended": ["świeży rynek"],
-        "head_size": "średnia do dużej",
+        "headSize": "średnia do dużej",
         "planting": [3, 8],
         "cultivation": ["grunt"],
         "description": "Endywia w typie frisee o ciemnozielonych zewnętrznych liściach i dobrze wypełnionym, jasnożółtym sercu. Wzniesiony pokrój ułatwia zbiór i ogranicza zgniliznę podstawy. Maratoneta ma szeroką podstawę, dlatego najlepiej rośnie w chłodniejszych warunkach. Bardzo tolerancyjna na wybijanie w kwiat."
@@ -2140,7 +2126,7 @@
         "type":"frisee liść fryzowany",
         "segment": "endywia",
         "intended": ["świeży rynek"],
-        "head_size": "średnia",
+        "headSize": "średnia",
         "planting": [3, 4],
         "cultivation": ["grunt"],
         "description": "Główka średnia, bardzo wysoka wytrzymałość na niskie temperatury, wybijanie w kwiat i zagniwanie wewnątrz. Bardzo dużo żółtych liści wewnętrznych. Do uprawy wczesnowiosennej."
@@ -2158,7 +2144,7 @@
         "type":"frisee liść fryzowany",
         "segment": "endywia",
         "intended": ["świeży rynek"],
-        "head_size": "duża",
+        "headSize": "duża",
         "planting": [3, 6],
         "cultivation": ["grunt"],
         "description": "Nowa odmiana w typie Domari. Cechy charakterystyczne to wczesność, szybkie wypełnianie, dobra waga, odporność na zimno. Do uprawy wiosną i latem."
@@ -3283,7 +3269,7 @@
             "color": "zielony",
             "sort": "wzniesiony"
         },
-        "earlys": "wczesny",
+        "early": "wczesny",
         "sowing": [12, 1],
         "planting": [2, 4],
         "harvest": [5, 7],
@@ -3312,7 +3298,7 @@
             "color": "zielony",
             "sort": "wzniesiony"
         },
-        "earlys": "średnio wczesny",
+        "early": "średnio wczesny",
         "sowing": [2, 4],
         "direct_sowing": [3, 5],
         "planting": [4, 6],
@@ -3342,7 +3328,7 @@
             "color": "ciemny niebieskozielony",
             "sort": "wzniesiony"
         },
-        "earlys": "późny, jesienny",
+        "early": "późny, jesienny",
         "sowing": [2, 4],
         "direct_sowing": [3, 4],
         "planting": [5, 6],
@@ -3372,7 +3358,7 @@
             "color": "ciemny niebieskozielony",
             "sort": "mocno wzniesiony"
         },
-        "earlys": "późny",
+        "early": "późny",
         "sowing": [3, 4],
         "planting": [6, 7],
         "harvest": [11, 5],
@@ -5390,7 +5376,7 @@
             "unit":"g"
         },
         "shape": "cylindryczne",
-        "earlys": "średnio wczesny",
+        "early": "średnio wczesny",
         "plant": [
             "zbalansowana",
             "średniej długości międzywęźla",
@@ -5441,7 +5427,7 @@
             "nie przerastają na długość"
         ],
         "shape": "cylindryczne",
-        "earlys": "wczesny",
+        "early": "wczesny",
         "plant": [
             "dobrze zbalansowana",
             "krótkie międzywęźla",
@@ -5493,7 +5479,7 @@
             "dobrze wypełnione"
         ],
         "shape": "cylindryczne",
-        "earlys": "wczesny",
+        "early": "wczesny",
         "plant": [
             "krótkie międzywęźla",
             "2-4 owoce w węźle",
@@ -5544,7 +5530,7 @@
             "gęsta brodawka"
         ],
         "shape": "cylindryczne",
-        "earlys": "wczesny",
+        "early": "wczesny",
         "plant": [
             "krótkie międzywęźla",
             "mocny wigor",
@@ -5596,7 +5582,7 @@
             "świetna trwałość pozbiorcza i jakość owoców"
         ],
         "shape": "cylindryczne",
-        "earlys": "wczesny",
+        "early": "wczesny",
         "plant": [
             "generatywna",
             "otwarta",
@@ -5642,7 +5628,7 @@
             "kolor: ciemnozielony z połyskiem"
         ],
         "shape": "cylindryczne",
-        "earlys": "wczesny",
+        "early": "wczesny",
         "plant": [
             "mocny wigor",
             "otwarty pokrój",
@@ -5691,7 +5677,7 @@
             "dobra trwałość pozbiorcza"
         ],
         "shape": "cylindryczne, bez „szyjki”",
-        "earlys": "wczesny",
+        "early": "wczesny",
         "plant": [
             "generatywna",
             "otwarty pokrój",
@@ -5741,7 +5727,7 @@
             "z krótką „szyjką”"
         ],
         "shape": "cylindryczne, bez „szyjki”",
-        "earlys": "wczesny",
+        "early": "wczesny",
         "plant": [
             "generatywna",
             "otwarty pokrój",
@@ -5794,7 +5780,7 @@
             "dobra trwałość pozbiorcza"
         ],
         "shape": "?",
-        "earlys": "średnio wczesny",
+        "early": "średnio wczesny",
         "plant": [
             "mocny wigor",
             "półotwarty pokrój",
@@ -5848,7 +5834,7 @@
             "wyrównane owoce przez cały okres uprawy"
         ],
         "shape": "cylindryczne",
-        "earlys": "średnio wczesny",
+        "early": "średnio wczesny",
         "plant": [
             "mocny wigor",
             "otwarty pokrój",

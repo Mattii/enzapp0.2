@@ -65,12 +65,26 @@
               </li>
             </ul>
           </div>
+          <div v-if="varietie[0].early" class="mb-4 text-subtitle-1">
+            Wczesność:
+            <v-rating length="4" size="24"v-model="varietie[0].early">
+              <template v-slot:item="props">
+                <v-icon color="primary" >
+                  {{
+                    props.isFilled
+                      ? "mdi-checkbox-blank-circle"
+                      : "mdi-circle-outline"
+                  }}
+                </v-icon>
+              </template>
+            </v-rating>
+          </div>
           <div v-if="varietie[0].headShape" class="mb-4 text-subtitle-1">
             Kształt główki: {{ varietie[0].headShape || "?" }}
           </div>
         </v-card-text>
       </v-card>
-      <div v-if="varietie[0].resistance">
+      <div v-if="varietie[0].vegetation">
         <v-subheader class="mt-3">okres wegetacji...</v-subheader>
         <v-card>
           <v-card-text>
@@ -115,7 +129,7 @@
         <v-card>
           <v-card-text>
             <div class="text-subtitle-1">
-              {{ varietie[0].headSize.value }} {{ varietie[0].headSize.unit }}
+              {{ varietie[0].headSize }}
             </div>
           </v-card-text>
         </v-card>
@@ -140,7 +154,15 @@
           </v-expansion-panel>
         </v-expansion-panels>
       </div>
-      <div v-if="varietie[0].cultivation"> 
+      <div v-if="varietie[0].spacing">
+        <v-subheader class="mt-3">odstępy...</v-subheader>
+        <v-card>
+          <v-card-text>
+            {{varietie[0].spacing}}
+          </v-card-text>
+        </v-card>
+      </div>
+      <div v-if="varietie[0].cultivation">
         <v-subheader class="mt-3">typ uprawy...</v-subheader>
         <v-card>
           <v-card-text>
@@ -154,6 +176,33 @@
           </v-card-text>
         </v-card>
       </div>
+      <div v-if="varietie[0].root">
+        <v-subheader class="mt-3">parametry korzenia...</v-subheader>
+        <v-card>
+          <v-card-text>
+            <div class="text-subtitle-1">
+              <ul>
+                <li v-if="varietie[0].root.rlength">długość: {{ varietie[0].root.rlength }}</li>
+                <li>średnica: {{ varietie[0].root.rfi }}</li>
+                <li>kolor: {{ varietie[0].root.rcolor }}</li>
+              </ul>
+            </div>
+          </v-card-text>
+        </v-card>
+      </div>
+      <div v-if="varietie[0].tolerance">
+        <v-subheader class="mt-3">tolerancja...</v-subheader>
+        <v-card>
+          <v-card-text>
+            <div class="text-subtitle-1">
+              <ul>
+                <li><v-icon>mdi-thermometer-high</v-icon> {{ varietie[0].tolerance.heat }}</li>
+                <li><v-icon>mdi-snowflake </v-icon> {{ varietie[0].tolerance.cold }}</li>
+              </ul>
+            </div>
+          </v-card-text>
+        </v-card>
+      </div>
       <div v-if="varietie[0].resistance">
         <v-subheader class="mt-3">odporności na choroby...</v-subheader>
         <v-card>
@@ -161,8 +210,8 @@
             <div class="text-subtitle-1">
               <ul>
                 <li v-for="(type, index) in varietie[0].resistance" :key="type">
-                  {{ type }} <v-icon v-if="!index%2">mdi-bacteria</v-icon>
-                   <v-icon v-if="!!index%2">mdi-virus</v-icon>
+                  {{ type }} <v-icon v-if="!index % 2">mdi-bacteria</v-icon>
+                  <v-icon v-if="!!index % 2">mdi-virus</v-icon>
                 </li>
               </ul>
             </div>
@@ -181,7 +230,7 @@
                     {{ price.unit }}
                     <v-icon v-if="price.caliber">mdi-diameter-outline</v-icon>
                     {{ price.caliber ? price.caliber : "" }}
-                    {{ price.vitalis ? "BIO" : "" }} 
+                    {{ price.vitalis ? "BIO" : "" }}
                     <v-icon>mdi-cash-multiple</v-icon
                     ><strong>{{ Number(price.price).toFixed(2) }}</strong> ({{
                       priceWithTax(price.price).toFixed(2)
