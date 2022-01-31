@@ -67,9 +67,9 @@
           </div>
           <div v-if="varietie[0].early" class="mb-4 text-subtitle-1">
             Wczesność:
-            <v-rating length="4" size="24"v-model="varietie[0].early">
+            <v-rating length="4" size="24" v-model="varietie[0].early">
               <template v-slot:item="props">
-                <v-icon color="primary" >
+                <v-icon color="primary">
                   {{
                     props.isFilled
                       ? "mdi-checkbox-blank-circle"
@@ -134,6 +134,16 @@
           </v-card-text>
         </v-card>
       </div>
+      <div v-if="varietie[0].diameter">
+        <v-subheader class="mt-3">średnica...</v-subheader>
+        <v-card>
+          <v-card-text>
+            <div class="text-subtitle-1">
+              {{ varietie[0].diameter.value }} {{ varietie[0].diameter.unit }}
+            </div>
+          </v-card-text>
+        </v-card>
+      </div>
       <div v-if="varietie[0].compaction">
         <v-subheader class="mt-3">zagęszczenie...</v-subheader>
         <v-expansion-panels>
@@ -158,7 +168,7 @@
         <v-subheader class="mt-3">odstępy...</v-subheader>
         <v-card>
           <v-card-text>
-            {{varietie[0].spacing}}
+            {{ varietie[0].spacing }}
           </v-card-text>
         </v-card>
       </div>
@@ -176,13 +186,29 @@
           </v-card-text>
         </v-card>
       </div>
+      <div v-if="varietie[0].planting">
+        <v-subheader class="mt-3">termin sadzenia...</v-subheader>
+        <v-card>
+          <v-card-text>
+            <div class="text-subtitle-1">
+              <ul>
+                <li v-for="date in varietie[0].planting" :key="date">
+                  {{ date }} tydzień
+                </li>
+              </ul>
+            </div>
+          </v-card-text>
+        </v-card>
+      </div>
       <div v-if="varietie[0].root">
         <v-subheader class="mt-3">parametry korzenia...</v-subheader>
         <v-card>
           <v-card-text>
             <div class="text-subtitle-1">
               <ul>
-                <li v-if="varietie[0].root.rlength">długość: {{ varietie[0].root.rlength }}</li>
+                <li v-if="varietie[0].root.rlength">
+                  długość: {{ varietie[0].root.rlength }}
+                </li>
                 <li>średnica: {{ varietie[0].root.rfi }}</li>
                 <li>kolor: {{ varietie[0].root.rcolor }}</li>
               </ul>
@@ -196,8 +222,14 @@
           <v-card-text>
             <div class="text-subtitle-1">
               <ul>
-                <li><v-icon>mdi-thermometer-high</v-icon> {{ varietie[0].tolerance.heat }}</li>
-                <li><v-icon>mdi-snowflake </v-icon> {{ varietie[0].tolerance.cold }}</li>
+                <li>
+                  <v-icon>mdi-thermometer-high</v-icon>
+                  {{ varietie[0].tolerance.heat }}
+                </li>
+                <li>
+                  <v-icon>mdi-snowflake </v-icon>
+                  {{ varietie[0].tolerance.cold }}
+                </li>
               </ul>
             </div>
           </v-card-text>

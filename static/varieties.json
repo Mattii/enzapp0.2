@@ -1008,7 +1008,7 @@
         "segment": "sałata masłowa",
         "intended": ["świeży rynek"],
         "headSize": "średnia do dużej",
-        "planting": [4, 8],
+        "planting": ["16-34"],
         "cultivation": ["tunel", "hydroponika"],
         "resistance": ["HR: Bl-EU:16-37/Nr:0/Pb"],
         "description": "Nowa sałata masłowa do uprawy szklarniowej i tunelowej w okresie późnowiosennym i letnim. Wielkość główek: 250-500 gramów. Odmiana większa od Fairly, o luźniejszym pokroju główki. Średnia do dużej wielkość główki i świeży zielony kolor. Odmiana o szybkim tempie wzrostu i luźniejszym pokroju główki. Mocny system korzeniowy pomaga w utrzymaniu wysokiej jakości produktu w okresie letnim. Zaletą tej odmiany jest szeroki pakiet odporności."
@@ -1027,7 +1027,7 @@
         "segment": "sałata masłowa",
         "intended": ["świeży rynek"],
         "headSize": "średnia",
-        "planting": [4, 8],
+        "planting": ["13-34"],
         "cultivation": ["tunel", "hydroponika"],
         "resistance": ["HR: Bl-EU:16-34,36/ Nr:0/TBSV"],
         "description": "Szybko rosnąca odmiana o mocnym systemie korzeniowym, przeznaczona do uprawy w tunelach foliowych i szklarniach. Płaska, zdrowa i zamknięta podstawa. Odmiana łatwa do zbioru. Średniej wielkości sałata masłowa, którą cechuje niezawodna wydajność w różnych warunkach. Zdrowa roślina o świeżym zielonym kolorze. Odznacza się bardzo wysoką tolerancją na wewnętrzne zagniwanie – tipburn. Do uprawy hydroponicznej przez cały rok."
@@ -1045,7 +1045,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "średnia do dużej",
-        "planting": [3, 8],
+        "planting": ["10-16", "28-32"],
         "cultivation": ["tunel"],
         "resistance": ["HR: Bl-EU:16,21,23,32; IR: LMV:1/Me"],
         "description": "Sałata do uprawy głównie tunelowej wiosną i jesienią. Tworzy duże, szybko się wypełniające główki o jasnym kolorze. Nasiona precyzyjne oraz otoczkowane."
@@ -1063,7 +1063,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "średnia do dużej",
-        "planting": [3, 5],
+        "planting": ["10-18"],
         "cultivation": ["tunel"],
         "resistance": ["HR: Bl-EU:16-29,32,34,36, Nr:0/TBSV"],
         "description": "Duża, jasna sałata masłowa do uprawy tunelowej i szklarniowej wczesną wiosną. Nasiona precyzyjne oraz otoczkowane."
@@ -1081,7 +1081,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek", "przemysł"],
         "headSize": "średnia do dużej",
-        "planting": [4, 8],
+        "planting": ["13-34"],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/ Nr:0;", "IR: LMV:1"],
         "description": "Liść z połyskiem. Tworzy zbitą główkę. Odporna na wybijanie w kwiat i zagniwanie wewnątrz."
@@ -1099,7 +1099,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "średnia",
-        "planting": [3, 8],
+        "planting": ["10-16", "31-34"],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-25,27-35,37/ Nr:0/Pb;", "IR: LMV:1"],
         "description": "Najlepsza odmiana na wiosnę i jesień. Duża główka wolno się wypełnia."
@@ -1117,7 +1117,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "średnia do dużej",
-        "planting": [4, 8],
+        "planting": ["13-34"],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/ Nr:0;", "IR: LMV:1"],
         "description": "Do uprawy od wiosny do jesieni w gruncie otwartym. Szerokie okno zbiorcze. Tworzy główkę o lekko błyszczącym zielonym kolorze."
@@ -1136,7 +1136,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek", "przemysł"],
         "headSize": "średnia do dużej",
-        "planting": [4, 8],
+        "planting": ["13-34"],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/ Nr:0/Pb/TBSV;", "IR: LMV:1"],
         "description": "Nowość do uprawy w gruncie otwartym przez cały sezon. Bardzo stabilna w każdych warunkach uprawy."
@@ -1154,7 +1154,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek", "przemysł"],
         "headSize": "duża",
-        "planting": [4, 8],
+        "planting": ["13-33"],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-36/Nr:0/TBSV;", "IR: LMV:1"],
         "description": "Bardzo duża sałata masłowa. Długo utrzymuje luźną główkę o wadze od 350 do 700 gramów. Odmiana o bardzo wysokiej odporności na zagniwanie i wybijanie w pędy kwiatostanowe."
@@ -1162,6 +1162,7 @@
     "takoda":{
         "active": true,
         "new": true,
+        "vitalis": true,
         "name": "Takoda",
          "imgs":["salaty/takoda.jpg"],
         "guardian": "Aleksandra Krzyżanowska",
@@ -1173,7 +1174,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek", "przemysł"],
         "headSize": "średnia do dużej",
-        "planting": [4, 8],
+        "planting": ["13-33"],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/ Nr:0/Pb/TBSV;", "IR: LMV:1"],
         "description": "Do uprawy w okresie wiosenno-jesiennym, z atrakcyjnym błyszczącym zielonym kolorem. Główka z ładną podstawą, wypełniająca się średnio szybko."
@@ -1181,6 +1182,7 @@
     "vitrine":{
         "active": true,
         "new": true,
+        "vitalis": true,
         "name": "Vitrine",
          "imgs":["salaty/vitrine.jpg"],
         "guardian": "Aleksandra Krzyżanowska",
@@ -1192,7 +1194,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek", "przemysł"],
         "headSize": "średnia do dużej",
-        "planting": [4, 8],
+        "planting": ["13-33"],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-36/Nr:0/Pb/TBSV;", "IR: LMV:1, Fol:1"],
         "description": "Do uprawy w gruncie otwartym. Odmiana posiada średnią odporność na fuzarium Fol:1. Odmiana o szerokim oknie zbioru i luźniejszym pokroju."
@@ -1211,7 +1213,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "średnia do dużej",
-        "planting": [8],
+        "planting": ["32-34"],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/Nr:0/Pb"],
         "description": "Tworzy średnie i duże główki. Do zbioru na jesień, o szybkim tempie wzrostu w niższych temperaturach. Bardzo zdrowa podstawa."
@@ -1230,7 +1232,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "średnia do dużej",
-        "planting": [4, 8],
+        "planting": ["12-16", "31-33"],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/Nr:0"],
         "description": "Do uprawy wiosennej i jesiennej na glebach lekkich i ciężkich. Łatwa w cięciu."
@@ -1249,7 +1251,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "średnia",
-        "planting": [4, 8],
+        "planting": ["14-20", "31-34"],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-36/Nr:0"],
         "description": "Tworzy płasko-okrągłe główki odporne na zagniwanie. Bardzo dobre wypełnienie w kartonie 10 szt."
@@ -1268,7 +1270,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "średnia",
-        "planting": [4, 8],
+        "planting": ["17-31"],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37"],
         "description": "Standard do uprawy wczesną wiosną i późną jesienią, także pod przykrycia. Szybko wypełnia główkę. Lekko uniesiona podstawa i spłaszczony kształt główki przyspieszają zbiór."
@@ -1276,6 +1278,7 @@
     "danilo":{
         "active": true,
         "new": false,
+        "vitalis": true,
         "name": "Danilo",
          "imgs":["salaty/danilo.jpg"],
         "guardian": "Aleksandra Krzyżanowska",
@@ -1287,7 +1290,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek","przemysł"],
         "headSize": "średnia do dużej",
-        "planting": [5, 8],
+        "planting": ["17-31"],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/Nr:0"],
         "description": "Od późnej wiosny do wczesnej jesieni. Bardzo stabilna także w okresie letnim, z szerokim oknem zbioru i mocnym wigorem."
@@ -1306,7 +1309,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "średnia do dużej",
-        "planting": [4, 8],
+        "planting": ["14-30"],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/Nr:0"],
         "description": "Ciemnozielona, o dobrym oknie zbioru. Wysoka tolerancja na zagniwanie wewnątrz. Polecana do zbioru od czerwca do początku września."
@@ -1325,7 +1328,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek", "przemysł"],
         "headSize": "średnia do dużej",
-        "planting": [5, 8],
+        "planting": ["17-30"],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/Nr:0/Pb"],
         "description": "Główki okrągłe, o dużej masie. Bardzo odporna na wybijanie w kwiat i zagniwanie w okresie letnim."
@@ -1334,8 +1337,9 @@
         "active": true,
         "new": true,
         "name": "Napelo",
+        "vitalis": true,
         "code": "E01E.11136",
-         "imgs":["sadness.jpg", "salaty/napelo.jpg"],
+        "imgs":["sadness.jpg", "salaty/napelo.jpg"],
         "guardian": "Aleksandra Krzyżanowska",
         "hybrid": true,
         "provider": "eznl",
@@ -1345,7 +1349,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "średnia do dużej",
-        "planting": [3],
+        "planting": ["10-13"],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/Nr:0/Pb"],
         "description": "Nowość do uprawy wczesnowiosennej, gdy liczy się stabilność i tempo wzrostu w chłodniejszych warunkach."
@@ -1353,6 +1357,7 @@
     "philemo":{
         "active": true,
         "new": true,
+        "vitalis":true,
         "name": "Philemo",
          "imgs":["salaty/philemo.jpg"],
         "guardian": "Aleksandra Krzyżanowska",
@@ -1364,7 +1369,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek", "przemysł"],
         "headSize": "duża",
-        "planting": [4, 8],
+        "planting": ["15-32"],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/Nr:0"],
         "description": "Duża główka z przeznaczeniem na rynek świeży oraz do przemysłu. Bardzo szerokie okno zbiorcze. Ze względu na wolniejsze przyrosty bardzo odporna na wybijanie w kwiat i zagniwanie."
@@ -1372,6 +1377,7 @@
     "rodolfo":{
         "active": true,
         "new": false,
+        "vitalis":true,
         "name": "Rodolfo",
          "imgs":["sadness.jpg", "salaty/rodolfo.jpg"],
         "guardian": "Aleksandra Krzyżanowska",
@@ -1383,7 +1389,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "średnia",
-        "planting": [3, 4],
+        "planting": ["11-16"],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/Nr:0/Pb"],
         "description": "W typie odmiany Damion, dodatkowo z pełnym pakietem odporności. Przeznaczona do uprawy na wiosnę."
@@ -1391,6 +1397,7 @@
     "salvio":{
         "active": true,
         "new": true,
+        "vitalis":true,
         "name": "Salvio",
          "imgs":["salaty/salvio.jpg"],
         "guardian": "Aleksandra Krzyżanowska",
@@ -1402,7 +1409,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek", "przemysł"],
         "headSize": "średnia do dużej",
-        "planting": [4, 8],
+        "planting": ["14-32"],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/Nr:0/Pb"],
         "description": "Wyróżnia się szerokim oknem zbiorczym, może pozostać dłużej w polu. Nie ma tendencji do wybijania w kwiat oraz zagniwania wewnątrz w okresie letnim. Polecana na rynek świeży i do przemysłu."
@@ -1421,7 +1428,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "średnia",
-        "planting": [3, 8],
+        "planting": ["11-15", "32-34"],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-37/Nr:0"],
         "description": "Wyróżnia się szerokim oknem zbiorczym, może pozostać dłużej w polu. Nie ma tendencji do wybijania w kwiat oraz zagniwania wewnątrz w okresie letnim. Polecana na rynek świeży i do przemysłu."
@@ -1440,7 +1447,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "duża",
-        "planting": [1, 12],
+        "planting": ["1-52"],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-36/ Nr:0/TBSV;", "IR: LMV:1/Fol:1"],
         "description": "Lollo Bionda w typie odmiany Vili z grubszym liściem. Bardzo odporna na zagniwanie i wybijanie w kwiat. Okrągły kształt i dobrze wypełniona główka to jej główne zalety. Ma średnią odporność na fuzarium Fol: 1."
@@ -1459,7 +1466,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "średnia do dużej",
-        "planting": [1, 12],
+        "planting": ["1-52"],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-33/Nr:0;", "IR: LMV:1/Fol:1"],
         "description": "Lollo Bionda o jasnozielonym kolorze i liściach drobno karbowanych. Uniesiona podstawa ułatwia zbiór."
@@ -1478,7 +1485,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "średnia do dużej",
-        "planting": [1, 12],
+        "planting": ["1-52"],
         "cultivation": ["hydroponika"],
         "description": "Odmiana typu lollo bionda o szybkim tempie wzrostu i elastycznych liściach. Kompaktowy pokrój rośliny zapewnia bardzo ładną prezentację produktu i ułatwia pakowanie."
     },
@@ -1497,7 +1504,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "średnia do dużej",
-        "planting": [1, 12],
+        "planting": ["1-52"],
         "cultivation": ["hydroponika"],
         "description": "Sałata typu lollo bionda o kompaktowej budowie z dużą ilością liści, dobrze wypełniających środek główki. Poleca na uprawy hydroponicznej przez cały rok. "
     },
@@ -1515,7 +1522,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "średnia do dużej",
-        "planting": [1, 12],
+        "planting": ["1-52"],
         "cultivation": ["hydroponika"],
         "description": "Piękna, błyszcząca, wiśniowoczerwona odmiana typu lollo rossa. Roślina o mocnym i elastycznym liściu, łatwa w pakowaniu. Wykazuje bardzo wysoką tolerancję na zagniwanie."
     },
@@ -1626,7 +1633,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "średnia",
-        "planting": [1, 12],
+        "planting": ["1-52"],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-33,35,37/ Nr:0;", "IR: Fol:1"],
         "description": "Potrójnie czerwona Lollo Rossa ze średnią odpornością na fuzarium Fol:1. Niezawodna odmiana w każdych warunkach."
@@ -1645,7 +1652,7 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "średnia",
-        "planting": [1, 12],
+        "planting": ["1-52"],
         "cultivation": ["grunt"],
         "resistance": ["HR: Bl-EU:16-26,28,32/Nr:0"],
         "description": "Lollo Rossa o czerwonym (wiśniowym) kolorze. Liść drobno karbowany o dobrej objętości."
@@ -1664,8 +1671,8 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "duża",
-        "planting": [1, 12],
-        "size":{
+        "planting": ["1-52"],
+        "diameter":{
             "value": "32-26",
             "unit": "cm"
         },
@@ -1687,8 +1694,8 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "midi/duża",
-        "planting": [1, 12],
-        "size":{
+        "planting": ["1-52"],
+        "diameter":{
             "value": "26-28",
             "unit": "cm"
         },
@@ -1700,6 +1707,7 @@
         "active": true,
         "new": true,
         "name": "Kilnsey",
+        "vitalis":true,
         "code": "E01G.11086",
          "imgs":["salaty/kilnsey.jpg"],
         "guardian": "Aleksandra Krzyżanowska",
@@ -1711,8 +1719,8 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "midi/duża",
-        "planting": [1, 12],
-        "size":{
+        "planting": ["1-52"],
+        "diameter":{
             "value": "26-28",
             "unit": "cm"
         },
@@ -1734,8 +1742,8 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "mini",
-        "planting": [4, 8],
-        "size":{
+        "planting": ["?"],
+        "diameter":{
             "value": "18-22",
             "unit": "cm"
         },
@@ -1746,6 +1754,7 @@
     "xalbadora":{
         "active": true,
         "new": false,
+        "vitalis":true,
         "name": "Xalbadora",
          "imgs":["sadness.jpg", "salaty/xalbadora.jpg"],
         "guardian": "Aleksandra Krzyżanowska",
@@ -1757,8 +1766,8 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "mini",
-        "planting": [1, 12],
-        "size":{
+        "planting": ["1-52"],
+        "diameter":{
             "value": "18-23",
             "unit": "cm"
         },
@@ -1769,6 +1778,7 @@
     "xavira":{
         "active": true,
         "new": false,
+        "vitalis":true,
         "name": "Xavira",
          "imgs":["sadness.jpg", "salaty/xavira.jpg"],
         "guardian": "Aleksandra Krzyżanowska",
@@ -1780,8 +1790,8 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "mini",
-        "planting": [4, 11],
-        "size":{
+        "planting": ["?"],
+        "diameter":{
             "value": "18-24",
             "unit": "cm"
         },
@@ -1792,6 +1802,7 @@
     "xemerius":{
         "active": true,
         "new": true,
+        "vitalis":true,
         "name": "Xemerius",
          "imgs":["salaty/xemerius.jpg"],
         "guardian": "Aleksandra Krzyżanowska",
@@ -1803,8 +1814,8 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "mini",
-        "planting": [4, 8],
-        "size":{
+        "planting": ["?"],
+        "diameter":{
             "value": "18-24",
             "unit": "cm"
         },
@@ -1815,6 +1826,7 @@
     "ximenes":{
         "active": true,
         "new": false,
+        "vitalis":true,
         "name": "Ximenes",
          "imgs":["sadness.jpg", "salaty/ximenes.jpg"],
         "guardian": "Aleksandra Krzyżanowska",
@@ -1826,8 +1838,8 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "mini",
-        "planting": [1, 12],
-        "size":{
+        "planting": ["1-52"],
+        "diameter":{
             "value": "19-23",
             "unit": "cm"
         },
@@ -1838,6 +1850,7 @@
     "xiomara":{
         "active": true,
         "new": false,
+        "vitalis":true,
         "name": "Xiomara",
          "imgs":["sadness.jpg", "salaty/xiomara.jpg"],
         "guardian": "Aleksandra Krzyżanowska",
@@ -1849,8 +1862,8 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "mini",
-        "planting": [9, 11],
-        "size":{
+        "planting": ["?"],
+        "diameter":{
             "value": "17-20",
             "unit": "cm"
         },
@@ -1861,6 +1874,7 @@
     "xoana":{
         "active": true,
         "new": true,
+        "vitalis":true,
         "name": "Xoana",
          "imgs":["salaty/xoana.jpg"],
         "guardian": "Aleksandra Krzyżanowska",
@@ -1872,8 +1886,8 @@
         "segment": "sałata",
         "intended": ["świeży rynek"],
         "headSize": "mini",
-        "planting": [1, 12],
-        "size":{
+        "planting": ["1-52"],
+        "diameter":{
             "value": "19-25",
             "unit": "cm"
         },
