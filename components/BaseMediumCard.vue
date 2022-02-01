@@ -31,6 +31,11 @@
           src="/Vit_logo.png"
         />
         <img
+          v-if="varietie.action"
+          class="cardBadge glassmorphism"
+          :src="require(`~/assets/img/${varietie.action}`)"
+        />
+        <img
           v-if="varietie.provider == 'takii'"
           class="cardBadge glassmorphism"
           src="/takiiLogoCut.png"
@@ -67,7 +72,6 @@ export default {
 
 <style scoped>
 .cardBadge {
-  width: 3rem;
   height: 3rem;
   padding: 0.2rem;
 }
@@ -92,7 +96,6 @@ export default {
   font-weight: 800;
   padding: 0.2rem;
   height: 3rem;
-  width: 3rem;
   display: flex;
   align-items: center;
   justify-content: space-evenly;
@@ -101,7 +104,6 @@ export default {
   padding: 0.1rem;
   border-radius: 0.6rem;
   right: 0;
-  width: 3rem;
   float: right;
 }
 </style>
