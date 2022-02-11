@@ -291,6 +291,7 @@
           v-for="segmentVarietie in varietiesSegment"
           :key="segmentVarietie.id"
           :varietie="segmentVarietie"
+          class="mb-9"
         >
         </base-medium-card>
       </div>

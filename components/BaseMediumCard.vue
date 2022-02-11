@@ -1,7 +1,7 @@
 <template>
   <v-card
     :loading="loading"
-    class="mx-auto mb-9 rounded-sm"
+    class="mx-auto rounded-sm"
     elevation="6"
     nuxt
     :to="{ name: 'katalog-id', params: { id: varietie.id } }"
@@ -16,6 +16,7 @@
 
     <v-img
       height="250"
+      max-width="360"
       class="white--text align-end"
       gradient="to bottom left, rgba(0,0,0,.01), rgba(0,0,0,.5)"
       :src="require(`~/assets/img/${varietie.imgs[0]}`)"

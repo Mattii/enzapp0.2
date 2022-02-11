@@ -97,13 +97,14 @@
       </v-col>
     </v-row>
     <v-row>
-      <v-col cols="12">
-        <v-subheader class="mt-3">nowe odmiany...</v-subheader>
+      <v-subheader class="mt-3">nowe odmiany...</v-subheader>
+      <v-col cols="12" class="d-flex flex-sm-wrap scroll">
         <base-medium-card
           :loading="false"
           v-for="(v, key) in newVarieties"
           :key="key"
           :varietie="v"
+          class="mr-xs-1"
         >
         </base-medium-card>
       </v-col>
@@ -197,8 +198,8 @@ export default {
   },
   computed: {
     newVarieties() {
-      return this.$store.getters.getVarieties.filter(e => e.new)
-    }
+      return this.$store.getters.getVarieties.filter((e) => e.new);
+    },
   },
   created() {
     this.$store.dispatch("fetchVarieties");
@@ -268,5 +269,10 @@ export default {
 }
 .varieties-section {
   background-color: green;
+}
+.scroll {
+  overflow-x: scroll;
+  gap: 1rem;
+  scrollbar-width: none;
 }
 </style>
